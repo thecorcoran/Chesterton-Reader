@@ -1,7 +1,7 @@
 /**
  * G.K. Chesterton — Master Corpus & Metadata Index
  * Complete Public Domain Oeuvre of Gilbert Keith Chesterton (1874–1936)
- * Complete Definitive Master Compilation (110 Landmark Unabridged Volumes)
+ * Complete Definitive Master Compilation (120 Landmark Unabridged Volumes)
  */
 (function() {
   const CORPUS_DATA = {
@@ -3996,6 +3996,280 @@
       {
         "id": "ch-4",
         "titleEn": "IV. The Permanent Creature in a Changing Cosmos"
+      }
+    ]
+  },
+  "how-to-help-annexation": {
+    "id": "how-to-help-annexation",
+    "titleEn": "How to Help Annexation",
+    "subtitle": "On the Restoration of Alsace-Lorraine and International Justice",
+    "year": 1918,
+    "category": "Distributism, Politics & Social Philosophy",
+    "companionSlug": "the-crimes-of-england",
+    "companionTitle": "The Crimes of England (1915)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's sharp diplomatic critique examining the moral necessity of returning Alsace-Lorraine to France and dismantling imperial conquests.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Principle of National Restoration"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Soul of Alsace-Lorraine"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Peace of Justice vs. The Peace of Usury"
+      }
+    ]
+  },
+  "the-english-agricultural-labourer": {
+    "id": "the-english-agricultural-labourer",
+    "titleEn": "The English Agricultural Labourer",
+    "subtitle": "The Dispossession of the Peasant and the Soul of the Countryside",
+    "year": 1912,
+    "category": "Distributism, Politics & Social Philosophy",
+    "companionSlug": "the-outline-of-sanity",
+    "companionTitle": "The Outline of Sanity (1926)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's passionate defense of the rural English worker, diagnosing the tragic historical destruction of the peasantry by the Enclosure Acts.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Murder of the English Peasantry"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Dignity of the Plough"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Return of the Free Peasant"
+      }
+    ]
+  },
+  "thoughts-on-the-present-discontents": {
+    "id": "thoughts-on-the-present-discontents",
+    "titleEn": "Thoughts on the Present Discontents",
+    "subtitle": "Post-War Economic Reflections, Strikes, and the Servile State",
+    "year": 1921,
+    "category": "Distributism, Politics & Social Philosophy",
+    "companionSlug": "utopia-of-usurers",
+    "companionTitle": "Utopia of Usurers (1917)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's trenchant post-World War I essays analyzing industrial unrest, labor strikes, and the subtle emergence of Hilaire Belloc's 'Servile State'.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Mirage of Post-War Reconstruction"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Strikes and the Servile State"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Solution: Distributive Property"
+      }
+    ]
+  },
+  "a-defence-of-english-manners": {
+    "id": "a-defence-of-english-manners",
+    "titleEn": "A Defence of English Manners",
+    "subtitle": "On Courtesy, Common Decorum, and Democratic Decency",
+    "year": 1910,
+    "category": "Distributism, Politics & Social Philosophy",
+    "companionSlug": "the-defendant",
+    "companionTitle": "The Defendant (1901)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "A delightful essay on the natural courtesy of ordinary working people versus the artificial etiquette of fashionable drawing rooms.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. Drawing-Room Etiquette vs. Street Courtesy"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Humor and Kindness of the Cockney"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. Manners as the Safeguard of Liberty"
+      }
+    ]
+  },
+  "chesterton-on-shakespeare": {
+    "id": "chesterton-on-shakespeare",
+    "titleEn": "Chesterton on Shakespeare",
+    "subtitle": "Essays on Hamlet, Macbeth, Midsummer Night's Dream, and Elizabethan Soul",
+    "year": 1936,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "the-victorian-age-in-literature",
+    "companionTitle": "The Victorian Age in Literature (1913)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "Chesterton's lifetime collection of essays on William Shakespeare, celebrating his Catholic medieval roots, tragic grandeur, and cosmic comedy.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Mysticism of A Midsummer Night's Dream"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Sanity of Hamlet"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. Macbeth and the Reality of Evil"
+      },
+      {
+        "id": "ch-4",
+        "titleEn": "IV. Shakespeare and the Medieval English Heritage"
+      }
+    ]
+  },
+  "chesterton-on-art-and-aesthetics": {
+    "id": "chesterton-on-art-and-aesthetics",
+    "titleEn": "Chesterton on Art and Aesthetics",
+    "subtitle": "The Signature of Man, the Necessity of Limits, and Pictorial Wonder",
+    "year": 1935,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "gf-watts",
+    "companionTitle": "G.F. Watts (1904)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "A profound aesthetic treatise collecting Chesterton's writings on painting, sculpture, architecture, and the philosophy of creative limitation.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. Art as the Signature of Man"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Philosophy of Limitation and the Frame"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Splendor of Color and Form"
+      }
+    ]
+  },
+  "chesterton-on-america-and-modernity": {
+    "id": "chesterton-on-america-and-modernity",
+    "titleEn": "Chesterton on America and Modernity",
+    "subtitle": "The Creed of Democracy, Industrial Capitalism, and the Machine Age",
+    "year": 1931,
+    "category": "Essays & Fleet Street Journalism",
+    "companionSlug": "what-i-saw-in-america",
+    "companionTitle": "What I Saw in America (1922)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's comprehensive essays on the United States, evaluating the Declaration of Independence, Henry Ford, Prohibition, and American hospitality.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. A Nation Founded on a Sacred Creed"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. Prohibition and the Usurpation of Liberty"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Factory and the Machine Age"
+      }
+    ]
+  },
+  "the-new-witness-editorials": {
+    "id": "the-new-witness-editorials",
+    "titleEn": "The New Witness Editorials",
+    "subtitle": "Polemics Against Political Corruption and Plutocracy (1912–1923)",
+    "year": 1923,
+    "category": "Essays & Fleet Street Journalism",
+    "companionSlug": "gks-weekly-and-distributist-essays",
+    "companionTitle": "G.K.'s Weekly & Distributist Essays (1925–1936)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's searing weekly editorials for The New Witness following the Marconi Scandal, exposing parliamentary corruption, party funds, and oligarchic monopolies.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Marconi Scandal and Party Corruption"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Defense of the Independent Citizen"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Triumph of Free Speech"
+      }
+    ]
+  },
+  "the-speaker-and-commonwealth-essays": {
+    "id": "the-speaker-and-commonwealth-essays",
+    "titleEn": "The Speaker & Commonwealth Early Essays",
+    "subtitle": "The Formative Fleet Street Columns and Sketches (1899–1904)",
+    "year": 1904,
+    "category": "Essays & Fleet Street Journalism",
+    "companionSlug": "daily-news-essays",
+    "companionTitle": "Daily News Essays & Sketches (1901–1913)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's brilliant formative essays written for The Speaker and The Commonwealth at the turn of the century, establishing his signature style of paradox and wonder.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Awakening of Fleet Street"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Democracy of Wonder"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Sketches of London Life"
+      }
+    ]
+  },
+  "blackfriars-and-dublin-review-essays": {
+    "id": "blackfriars-and-dublin-review-essays",
+    "titleEn": "Blackfriars & Dublin Review Inquiries",
+    "subtitle": "Theological, Historical, and Philosophical Studies (1920–1936)",
+    "year": 1936,
+    "category": "Christian Apologetics & Philosophy",
+    "companionSlug": "the-well-and-the-shallows",
+    "companionTitle": "The Well and the Shallows (1935)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's mature theological inquiries, historical essays, and philosophical critiques contributed to the premier Catholic intellectual journals of Britain.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Dominican Spirit and Scholastic Reason"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Catholic Interpretation of History"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Eternal Altar and the Modern Void"
       }
     ]
   }
