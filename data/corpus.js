@@ -1076,42 +1076,96 @@
     "companionTitle": "The Man Who Was Thursday (1908)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (8 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (21 Sections, 1,525 Paras, 79,460 Words)",
     "description": "An epic ideological duel across Britain between a devout Jacobite Catholic highlander and an ardent atheist editor.",
     "sections": [
       {
         "id": "intro",
-        "titleEn": "Introductory: The Flying Ship"
-      },
-      {
-        "id": "ch-1",
-        "titleEn": "Chapter I. The Duel on Ludgate Hill"
+        "titleEn": "Contents"
       },
       {
         "id": "ch-2",
-        "titleEn": "Chapter II. The Flight from the Police"
+        "titleEn": "I. A Discussion Somewhat In The Air"
       },
       {
         "id": "ch-3",
-        "titleEn": "Chapter III. The Inn by the Sea"
+        "titleEn": "Ii. The Religion Of The Stipendiary Magistrate"
       },
       {
         "id": "ch-4",
-        "titleEn": "Chapter IV. The Strange Hermit"
+        "titleEn": "Iii. Some Old Curiosities"
       },
       {
         "id": "ch-5",
-        "titleEn": "Chapter V. The Duel in the Garden"
+        "titleEn": "Iv. A Discussion At Dawn"
       },
       {
         "id": "ch-6",
-        "titleEn": "Chapter VI. The Great Asylum"
+        "titleEn": "V. The Peacemaker"
       },
       {
         "id": "ch-7",
-        "titleEn": "Chapter VII. The Triumph of the Cross"
+        "titleEn": "Vi. The Other Philosopher"
+      },
+      {
+        "id": "ch-8",
+        "titleEn": "Vii. The Village Of Grassley-In-The-Hole"
+      },
+      {
+        "id": "ch-9",
+        "titleEn": "Viii. An Interlude Of Argument"
+      },
+      {
+        "id": "ch-10",
+        "titleEn": "Ix. The Strange Lady"
+      },
+      {
+        "id": "ch-11",
+        "titleEn": "X. The Swords Rejoined"
+      },
+      {
+        "id": "ch-12",
+        "titleEn": "Xi. A Scandal In The Village"
+      },
+      {
+        "id": "ch-13",
+        "titleEn": "Xii. The Desert Island"
+      },
+      {
+        "id": "ch-14",
+        "titleEn": "Xiii. The Garden Of Peace"
+      },
+      {
+        "id": "ch-15",
+        "titleEn": "Xiv. A Museum Of Souls"
+      },
+      {
+        "id": "ch-16",
+        "titleEn": "Xv. The Dream Of Macian"
+      },
+      {
+        "id": "ch-17",
+        "titleEn": "Xvi. The Dream Of Turnbull"
+      },
+      {
+        "id": "ch-18",
+        "titleEn": "Xvii. The Idiot"
+      },
+      {
+        "id": "ch-19",
+        "titleEn": "Xviii. A Riddle Of Faces"
+      },
+      {
+        "id": "ch-20",
+        "titleEn": "Xix. The Last Parley"
+      },
+      {
+        "id": "ch-21",
+        "titleEn": "Xx. Dies Irae"
       }
-    ]
+    ],
+    "totalWords": 79460,
+    "totalParagraphs": 1525
   },
   "manalive": {
     "id": "manalive",
@@ -1453,42 +1507,48 @@
     "companionTitle": "The Innocence of Father Brown (1911)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (8 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (9 Sections, 1,009 Paras, 59,699 Words)",
     "description": "Eight mysteries featuring Horne Fisher, an aristocratic sleuth.",
     "sections": [
       {
-        "id": "story-1",
-        "titleEn": "I. The Face in the Target"
+        "id": "intro",
+        "titleEn": "Contents"
       },
       {
-        "id": "story-2",
-        "titleEn": "II. The Vanishing Prince"
+        "id": "ch-2",
+        "titleEn": "I. The Face In The Target"
       },
       {
-        "id": "story-3",
-        "titleEn": "III. The Soul of the Schoolboy"
+        "id": "ch-3",
+        "titleEn": "Ii. The Vanishing Prince"
       },
       {
-        "id": "story-4",
-        "titleEn": "IV. The Bottomless Well"
+        "id": "ch-4",
+        "titleEn": "Iii. The Soul Of The Schoolboy"
       },
       {
-        "id": "story-5",
-        "titleEn": "V. The Fad of the Fisherman"
+        "id": "ch-5",
+        "titleEn": "Iv. The Bottomless Well"
       },
       {
-        "id": "story-6",
-        "titleEn": "VI. The Hole in the Wall"
+        "id": "ch-6",
+        "titleEn": "V. The Fad Of The Fisherman"
       },
       {
-        "id": "story-7",
-        "titleEn": "VII. The Temple of the Tower"
+        "id": "ch-7",
+        "titleEn": "Vi. The Hole In The Wall"
       },
       {
-        "id": "story-8",
-        "titleEn": "VIII. The Vengeance of the Statue"
+        "id": "ch-8",
+        "titleEn": "Vii. The Temple Of Silence"
+      },
+      {
+        "id": "ch-9",
+        "titleEn": "Viii. The Vengeance Of The Statue"
       }
-    ]
+    ],
+    "totalWords": 59699,
+    "totalParagraphs": 1009
   },
   "the-coloured-lands": {
     "id": "the-coloured-lands",
@@ -1803,30 +1863,92 @@
     "companionTitle": "What's Wrong with the World (1910)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (20 Sections, 388 Paras, 48,706 Words)",
     "description": "A prescient philosophical refutation of eugenics and scientism.",
     "sections": [
       {
-        "id": "ch-1",
-        "titleEn": "Chapter I. The First Obstacle"
+        "id": "intro",
+        "titleEn": "Prefatory / Introduction"
       },
       {
         "id": "ch-2",
-        "titleEn": "Chapter II. The True Aim of Eugenics"
+        "titleEn": "To The Reader"
       },
       {
         "id": "ch-3",
-        "titleEn": "Chapter III. The Meaning of the Feeble-Minded"
+        "titleEn": "What Is Eugenics?"
       },
       {
         "id": "ch-4",
-        "titleEn": "Chapter IV. The Transformation of the State"
+        "titleEn": "The First Obstacles"
       },
       {
         "id": "ch-5",
-        "titleEn": "Chapter V. The True Sanity of the Common Man"
+        "titleEn": "The Anarchy From Above"
+      },
+      {
+        "id": "ch-6",
+        "titleEn": "The Lunatic And The Law"
+      },
+      {
+        "id": "ch-7",
+        "titleEn": "The Flying Authority"
+      },
+      {
+        "id": "ch-8",
+        "titleEn": "The Unanswered Challenge"
+      },
+      {
+        "id": "ch-9",
+        "titleEn": "The Established Church Of Doubt"
+      },
+      {
+        "id": "ch-10",
+        "titleEn": "A Summary Of A False Theory"
+      },
+      {
+        "id": "ch-11",
+        "titleEn": "The Impotence Of Impenitence"
+      },
+      {
+        "id": "ch-12",
+        "titleEn": "True History Of A Tramp"
+      },
+      {
+        "id": "ch-13",
+        "titleEn": "True History Of A Eugenist"
+      },
+      {
+        "id": "ch-14",
+        "titleEn": "The Vengeance Of The Flesh"
+      },
+      {
+        "id": "ch-15",
+        "titleEn": "The Meanness Of The Motive"
+      },
+      {
+        "id": "ch-16",
+        "titleEn": "The Eclipse Of Liberty"
+      },
+      {
+        "id": "ch-17",
+        "titleEn": "The Transformation Of Socialism"
+      },
+      {
+        "id": "ch-18",
+        "titleEn": "The End Of The Household Gods"
+      },
+      {
+        "id": "ch-19",
+        "titleEn": "A Short Chapter"
+      },
+      {
+        "id": "ch-20",
+        "titleEn": "Index"
       }
-    ]
+    ],
+    "totalWords": 48706,
+    "totalParagraphs": 388
   },
   "utopia-of-usurers": {
     "id": "utopia-of-usurers",
@@ -2615,46 +2737,92 @@
     "companionTitle": "Tremendous Trifles (1909)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (9 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (20 Sections, 165 Paras, 26,756 Words)",
     "description": "Chesterton’s early essays defending penny dreadfuls, skeletons, rash vows, and nonsense.",
     "sections": [
       {
         "id": "intro",
-        "titleEn": "Introduction: In Defence of Optimism"
+        "titleEn": "R. Brimley Johnson"
       },
       {
-        "id": "def-1",
-        "titleEn": "I. A Defence of Penny Dreadfuls"
+        "id": "ch-2",
+        "titleEn": "_In Defence Of A New Edition"
       },
       {
-        "id": "def-2",
-        "titleEn": "II. A Defence of Rash Vows"
+        "id": "ch-3",
+        "titleEn": "Introduction"
       },
       {
-        "id": "def-3",
-        "titleEn": "III. A Defence of Skeletons"
+        "id": "ch-4",
+        "titleEn": "A Defence Of Penny Dreadfuls"
       },
       {
-        "id": "def-4",
-        "titleEn": "IV. A Defence of Nonsense"
+        "id": "ch-5",
+        "titleEn": "A Defence Of Rash Vows"
       },
       {
-        "id": "def-5",
-        "titleEn": "V. A Defence of Planets"
+        "id": "ch-6",
+        "titleEn": "A Defence Of Skeletons"
       },
       {
-        "id": "def-6",
-        "titleEn": "VI. A Defence of China Shepherdesses"
+        "id": "ch-7",
+        "titleEn": "A Defence Of Publicity"
       },
       {
-        "id": "def-7",
-        "titleEn": "VII. A Defence of Useful Information"
+        "id": "ch-8",
+        "titleEn": "A Defence Of Nonsense"
       },
       {
-        "id": "def-8",
-        "titleEn": "VIII. A Defence of Farce"
+        "id": "ch-9",
+        "titleEn": "A Defence Of Planets"
+      },
+      {
+        "id": "ch-10",
+        "titleEn": "A Defence Of China Shepherdesses"
+      },
+      {
+        "id": "ch-11",
+        "titleEn": "A Defence Of Useful Information"
+      },
+      {
+        "id": "ch-12",
+        "titleEn": "A Defence Of Heraldry"
+      },
+      {
+        "id": "ch-13",
+        "titleEn": "A Defence Of Ugly Things"
+      },
+      {
+        "id": "ch-14",
+        "titleEn": "A Defence Of Farce"
+      },
+      {
+        "id": "ch-15",
+        "titleEn": "A Defence Of Humility"
+      },
+      {
+        "id": "ch-16",
+        "titleEn": "A Defence Of Slang"
+      },
+      {
+        "id": "ch-17",
+        "titleEn": "A Defence Of Baby-Worship"
+      },
+      {
+        "id": "ch-18",
+        "titleEn": "A Defence Of Detective Stories"
+      },
+      {
+        "id": "ch-19",
+        "titleEn": "A Defence Of Patriotism"
+      },
+      {
+        "id": "ch-20",
+        "titleEn": "Billing And Sons, Ltd., Printers, Guildford"
       }
-    ]
+    ],
+    "totalWords": 26756,
+    "totalParagraphs": 165
   },
   "tremendous-trifles": {
     "id": "tremendous-trifles",
@@ -2666,46 +2834,176 @@
     "companionTitle": "The Defendant (1901)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (9 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (41 Sections, 530 Paras, 55,864 Words)",
     "description": "A beloved collection of essays including 'A Piece of Chalk', 'The Dragon's Grandmother', and 'The Twelve Men'.",
     "sections": [
       {
-        "id": "pref",
-        "titleEn": "Preface: The Method of Tremendous Trifles"
+        "id": "intro",
+        "titleEn": "Preface"
       },
       {
-        "id": "essay-1",
-        "titleEn": "I. A Piece of Chalk"
+        "id": "ch-2",
+        "titleEn": "Contents:"
       },
       {
-        "id": "essay-2",
-        "titleEn": "II. The Dragon's Grandmother"
+        "id": "ch-3",
+        "titleEn": "I. Tremendous Trifles"
       },
       {
-        "id": "essay-3",
-        "titleEn": "III. The Twelve Men (On the Jury)"
+        "id": "ch-4",
+        "titleEn": "II. A Piece of Chalk"
       },
       {
-        "id": "essay-4",
-        "titleEn": "IV. The Wind and the Trees"
+        "id": "ch-5",
+        "titleEn": "III. The Secret of a Train"
       },
       {
-        "id": "essay-5",
-        "titleEn": "V. The Diabolist"
+        "id": "ch-6",
+        "titleEn": "IV. The Perfect Game"
       },
       {
-        "id": "essay-6",
-        "titleEn": "VI. The Secret of a Train"
+        "id": "ch-7",
+        "titleEn": "V. The Extraordinary Cabman"
       },
       {
-        "id": "essay-7",
-        "titleEn": "VII. The Prehistoric Railway Station"
+        "id": "ch-8",
+        "titleEn": "VI. An Accident"
       },
       {
-        "id": "essay-8",
-        "titleEn": "VIII. The Extraordinary Cabman"
+        "id": "ch-9",
+        "titleEn": "VII. The Advantages of Having One Leg"
+      },
+      {
+        "id": "ch-10",
+        "titleEn": "VIII. The End of the World"
+      },
+      {
+        "id": "ch-11",
+        "titleEn": "IX. In the Place de La Bastille"
+      },
+      {
+        "id": "ch-12",
+        "titleEn": "X. On Lying in Bed"
+      },
+      {
+        "id": "ch-13",
+        "titleEn": "XI. The Twelve Men"
+      },
+      {
+        "id": "ch-14",
+        "titleEn": "XII. The Wind and the Trees"
+      },
+      {
+        "id": "ch-15",
+        "titleEn": "XIII. The Dickensian"
+      },
+      {
+        "id": "ch-16",
+        "titleEn": "XIV. In Topsy-Turvy Land"
+      },
+      {
+        "id": "ch-17",
+        "titleEn": "XV. What I Found in My Pocket"
+      },
+      {
+        "id": "ch-18",
+        "titleEn": "XVI. The Dragon's Grandmother"
+      },
+      {
+        "id": "ch-19",
+        "titleEn": "XVII. The Red Angel"
+      },
+      {
+        "id": "ch-20",
+        "titleEn": "XVIII. The Tower"
+      },
+      {
+        "id": "ch-21",
+        "titleEn": "XIX. How I Met the President"
+      },
+      {
+        "id": "ch-22",
+        "titleEn": "XX. The Giant"
+      },
+      {
+        "id": "ch-23",
+        "titleEn": "XXI. A Great Man"
+      },
+      {
+        "id": "ch-24",
+        "titleEn": "XXII. The Orthodox Barber"
+      },
+      {
+        "id": "ch-25",
+        "titleEn": "XXIII. The Toy Theatre"
+      },
+      {
+        "id": "ch-26",
+        "titleEn": "XXIV. A Tragedy of Twopence"
+      },
+      {
+        "id": "ch-27",
+        "titleEn": "XXV. A Cab Ride Across Country"
+      },
+      {
+        "id": "ch-28",
+        "titleEn": "XXVI. The Two Noises"
+      },
+      {
+        "id": "ch-29",
+        "titleEn": "XXVII. Some Policemen and a Moral"
+      },
+      {
+        "id": "ch-30",
+        "titleEn": "XXVIII. The Lion"
+      },
+      {
+        "id": "ch-31",
+        "titleEn": "XXIX. Humanity: an Interlude"
+      },
+      {
+        "id": "ch-32",
+        "titleEn": "XXX. The Little Birds Who Won't Sing"
+      },
+      {
+        "id": "ch-33",
+        "titleEn": "XXXI. The Riddle of the Ivy"
+      },
+      {
+        "id": "ch-34",
+        "titleEn": "XXXII. The Travellers in State"
+      },
+      {
+        "id": "ch-35",
+        "titleEn": "XXXIII. The Prehistoric Railway Station"
+      },
+      {
+        "id": "ch-36",
+        "titleEn": "XXXIV. The Diabolist"
+      },
+      {
+        "id": "ch-37",
+        "titleEn": "XXXV. A Glimpse of My Country"
+      },
+      {
+        "id": "ch-38",
+        "titleEn": "XXXVI. A Somewhat Improbable Story"
+      },
+      {
+        "id": "ch-39",
+        "titleEn": "XXXVII. The Shop Of Ghosts"
+      },
+      {
+        "id": "ch-40",
+        "titleEn": "XXXVIII. The Ballade of a Strange Town"
+      },
+      {
+        "id": "ch-41",
+        "titleEn": "XXXIX. The Mystery of a Pageant"
       }
-    ]
+    ],
+    "totalWords": 55864,
+    "totalParagraphs": 530
   },
   "all-things-considered": {
     "id": "all-things-considered",
@@ -2717,30 +3015,152 @@
     "companionTitle": "Tremendous Trifles (1909)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (35 Sections, 256 Paras, 59,421 Words)",
     "description": "Classic essays exploring art, running after one's hat, and fairy tales.",
     "sections": [
       {
-        "id": "ch-1",
-        "titleEn": "I. On Running After One's Hat"
+        "id": "intro",
+        "titleEn": "The Case For The Ephemeral"
       },
       {
         "id": "ch-2",
-        "titleEn": "II. The Worship of the Wealthy"
+        "titleEn": "Cockneys And Their Jokes"
       },
       {
         "id": "ch-3",
-        "titleEn": "III. Thoughts on Fairy Tales"
+        "titleEn": "The Fallacy Of Success"
       },
       {
         "id": "ch-4",
-        "titleEn": "IV. The Boyhood of the World"
+        "titleEn": "On Running After One'S Hat"
       },
       {
         "id": "ch-5",
-        "titleEn": "V. On Conceit and Humility"
+        "titleEn": "The Vote And The House"
+      },
+      {
+        "id": "ch-6",
+        "titleEn": "Conceit And Caricature"
+      },
+      {
+        "id": "ch-7",
+        "titleEn": "Patriotism And Sport."
+      },
+      {
+        "id": "ch-8",
+        "titleEn": "An Essay On Two Cities."
+      },
+      {
+        "id": "ch-9",
+        "titleEn": "French And English"
+      },
+      {
+        "id": "ch-10",
+        "titleEn": "The Zola Controversy"
+      },
+      {
+        "id": "ch-11",
+        "titleEn": "Oxford From Without"
+      },
+      {
+        "id": "ch-12",
+        "titleEn": "Woman"
+      },
+      {
+        "id": "ch-13",
+        "titleEn": "The Modern Martyr"
+      },
+      {
+        "id": "ch-14",
+        "titleEn": "On Political Secrecy"
+      },
+      {
+        "id": "ch-15",
+        "titleEn": "Edward Vii. And Scotland"
+      },
+      {
+        "id": "ch-16",
+        "titleEn": "Thoughts Around Koepenick"
+      },
+      {
+        "id": "ch-17",
+        "titleEn": "The Boy"
+      },
+      {
+        "id": "ch-18",
+        "titleEn": "Limericks And Counsels Of Perfection"
+      },
+      {
+        "id": "ch-19",
+        "titleEn": "Anonymity And Further Counsels"
+      },
+      {
+        "id": "ch-20",
+        "titleEn": "On The Cryptic And The Elliptic"
+      },
+      {
+        "id": "ch-21",
+        "titleEn": "The Worship Of The Wealthy"
+      },
+      {
+        "id": "ch-22",
+        "titleEn": "Science And Religion"
+      },
+      {
+        "id": "ch-23",
+        "titleEn": "The Methuselahite"
+      },
+      {
+        "id": "ch-24",
+        "titleEn": "Spiritualism."
+      },
+      {
+        "id": "ch-25",
+        "titleEn": "The Error Of Impartiality"
+      },
+      {
+        "id": "ch-26",
+        "titleEn": "Phonetic Spelling"
+      },
+      {
+        "id": "ch-27",
+        "titleEn": "Humanitarianism And Strength"
+      },
+      {
+        "id": "ch-28",
+        "titleEn": "Wine When It Is Red"
+      },
+      {
+        "id": "ch-29",
+        "titleEn": "Demagogues And Mystagogues"
+      },
+      {
+        "id": "ch-30",
+        "titleEn": "The \"Eatanswill Gazette.\""
+      },
+      {
+        "id": "ch-31",
+        "titleEn": "Fairy Tales"
+      },
+      {
+        "id": "ch-32",
+        "titleEn": "Tom Jones And Morality"
+      },
+      {
+        "id": "ch-33",
+        "titleEn": "The Maid Of Orleans"
+      },
+      {
+        "id": "ch-34",
+        "titleEn": "A Dead Poet"
+      },
+      {
+        "id": "ch-35",
+        "titleEn": "Christmas"
       }
-    ]
+    ],
+    "totalWords": 59421,
+    "totalParagraphs": 256
   },
   "alarms-and-discursions": {
     "id": "alarms-and-discursions",
@@ -3221,46 +3641,52 @@
     "companionTitle": "The Ballad of St. Barbara (1922)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (9 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (10 Sections, 542 Paras, 17,433 Words)",
     "description": "One of the greatest epic poems of the twentieth century, chronicling King Alfred’s stand against the Danish invaders.",
     "sections": [
       {
-        "id": "dedication",
-        "titleEn": "Dedication to Frances Chesterton"
+        "id": "intro",
+        "titleEn": "The Ballad Of The White Horse"
       },
       {
-        "id": "bk1",
-        "titleEn": "Book I. The Vision of the King"
+        "id": "ch-2",
+        "titleEn": "Dedication"
       },
       {
-        "id": "bk2",
-        "titleEn": "Book II. The Gathering of the Chiefs"
+        "id": "ch-3",
+        "titleEn": "Book I. The Vision Of The King"
       },
       {
-        "id": "bk3",
-        "titleEn": "Book III. The Harp of Alfred"
+        "id": "ch-4",
+        "titleEn": "Book Ii. The Gathering Of The Chiefs"
       },
       {
-        "id": "bk4",
-        "titleEn": "Book IV. The Woman in the Forest"
+        "id": "ch-5",
+        "titleEn": "Book Iii. The Harp Of Alfred"
       },
       {
-        "id": "bk5",
+        "id": "ch-6",
+        "titleEn": "Book Iv. The Woman In The Forest"
+      },
+      {
+        "id": "ch-7",
         "titleEn": "Book V. Ethandune: The First Stroke"
       },
       {
-        "id": "bk6",
-        "titleEn": "Book VI. Ethandune: The Slaying of the Chiefs"
+        "id": "ch-8",
+        "titleEn": "Book Vi. Ethandune: The Slaying Of The Chiefs"
       },
       {
-        "id": "bk7",
-        "titleEn": "Book VII. Ethandune: The Last Charge"
+        "id": "ch-9",
+        "titleEn": "Book Vii. Ethandune: The Last Charge"
       },
       {
-        "id": "bk8",
-        "titleEn": "Book VIII. The Scouring of the Horse"
+        "id": "ch-10",
+        "titleEn": "Book Viii. The Scouring Of The Horse"
       }
-    ]
+    ],
+    "totalWords": 17433,
+    "totalParagraphs": 542
   },
   "the-wild-knight-and-other-poems": {
     "id": "the-wild-knight-and-other-poems",
