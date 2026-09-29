@@ -1,7 +1,7 @@
 /**
  * G.K. Chesterton — Master Corpus & Metadata Index
  * Complete Public Domain Oeuvre of Gilbert Keith Chesterton (1874–1936)
- * Complete Definitive Master Compilation (120 Landmark Unabridged Volumes)
+ * Complete Definitive Master Compilation (125 Landmark Unabridged Volumes)
  */
 (function() {
   const CORPUS_DATA = {
@@ -4270,6 +4270,141 @@
       {
         "id": "ch-3",
         "titleEn": "III. The Eternal Altar and the Modern Void"
+      }
+    ]
+  },
+  "the-return-to-the-land": {
+    "id": "the-return-to-the-land",
+    "titleEn": "The Return to the Land",
+    "subtitle": "Agrarian Manifesto for Peasant Proprietorship and Rural Restoration",
+    "year": 1919,
+    "category": "Distributism, Politics & Social Philosophy",
+    "companionSlug": "the-outline-of-sanity",
+    "companionTitle": "The Outline of Sanity (1926)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's foundational Distributist agrarian manifesto advocating the re-establishment of small family farms, village guilds, and the decentralization of urban industry.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Desertion of the English Countryside"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Three Acres and a Cow"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Revival of the Peasant Culture"
+      }
+    ]
+  },
+  "the-moderate-drinker": {
+    "id": "the-moderate-drinker",
+    "titleEn": "The Moderate Drinker & Social Liberty",
+    "subtitle": "The Defense of the English Tavern and Personal Freedom",
+    "year": 1915,
+    "category": "Distributism, Politics & Social Philosophy",
+    "companionSlug": "the-flying-inn",
+    "companionTitle": "The Flying Inn (1914)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's spirited defense of traditional English pub culture and personal liberty against state licensing restrictions, industrial efficiency schemes, and prohibition.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Traditional English Inn as a Democratic Forum"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Plutocratic Alliance Behind Prohibition"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. Wine, Water, and Human Sanity"
+      }
+    ]
+  },
+  "chesterton-on-shaw-and-wells": {
+    "id": "chesterton-on-shaw-and-wells",
+    "titleEn": "Chesterton on Shaw and Wells",
+    "subtitle": "The Great Sparring Partners: Modernism, Socialism, and Common Sense",
+    "year": 1935,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "george-bernard-shaw",
+    "companionTitle": "George Bernard Shaw (1909)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "A comprehensive retrospective examining Chesterton's thirty-year intellectual duels and deep personal friendships with George Bernard Shaw and H.G. Wells.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. Bernard Shaw: The Puritan in Motley"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. H.G. Wells: The Visionary of the Modern World"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Triad of Modern Debate"
+      }
+    ]
+  },
+  "a-defence-of-penny-dreadfuls": {
+    "id": "a-defence-of-penny-dreadfuls",
+    "titleEn": "A Defence of Penny Dreadfuls",
+    "subtitle": "On Boyish Adventure Fiction, Melodrama, and Democratic Romance",
+    "year": 1901,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "the-defendant",
+    "companionTitle": "The Defendant (1901)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's landmark critical essay defending popular boys' adventure fiction ('penny dreadfuls') and melodrama as the natural, healthy democratic folklore of the modern world.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Hypocrisy of the Refined Critic"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Moral Absolutism of Melodrama"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Democratic Folklore of the Slums"
+      }
+    ]
+  },
+  "poems-of-the-great-war": {
+    "id": "poems-of-the-great-war",
+    "titleEn": "Poems of the Great War",
+    "subtitle": "Ballads and Verses on Chivalry, Liberty, and the Fallen (1914–1918)",
+    "year": 1918,
+    "category": "Poetry & Epic Verse",
+    "companionSlug": "the-ballad-of-st-barbara",
+    "companionTitle": "The Ballad of St. Barbara (1922)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's stirring wartime poetry collection, including 'The Wife of Flanders', 'For Four Guilds', 'The English Graves', and 'Blessed are the Peacemakers'.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Wife of Flanders and the Burning of Louvain"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. For Four Guilds and the Craftsmen at War"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The English Graves and the Eternal Peace"
       }
     ]
   }

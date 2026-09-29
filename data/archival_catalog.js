@@ -1,6 +1,6 @@
 /**
  * G.K. Chesterton — Grand Master Archival & Bibliography Catalog
- * Comprehensive Chronological and Categorical Archive of G.K. Chesterton's Lifetime Output (120 Volumes)
+ * Comprehensive Chronological and Categorical Archive of G.K. Chesterton's Lifetime Output (125 Volumes)
  */
 (function() {
   const ARCHIVAL_CATALOG = [
@@ -23,6 +23,16 @@
         "status": "In Digital Corpus",
         "slug": "the-wild-knight-and-other-poems",
         "notes": "Chesterton’s debut poetry volume containing his famous poem 'The Donkey'."
+    },
+    {
+        "id": "a-defence-of-penny-dreadfuls-1901",
+        "title": "A Defence of Penny Dreadfuls",
+        "year": 1901,
+        "type": "Literary Criticism & Biographies",
+        "publisher": "Macmillan / Duckworth / Faber & Faber",
+        "status": "In Digital Corpus",
+        "slug": "a-defence-of-penny-dreadfuls",
+        "notes": "Chesterton's landmark critical essay defending popular boys' adventure fiction ('penny dreadfuls') and melodrama as the ..."
     },
     {
         "id": "the-defendant-1901",
@@ -455,6 +465,16 @@
         "notes": "A biting historical analysis examining England's historical errors in supporting Prussian statecraft."
     },
     {
+        "id": "the-moderate-drinker-1915",
+        "title": "The Moderate Drinker & Social Liberty",
+        "year": 1915,
+        "type": "Distributism, Politics & Social Philosophy",
+        "publisher": "Chatto & Windus / Cecil Palmer / Methuen & Co.",
+        "status": "In Digital Corpus",
+        "slug": "the-moderate-drinker",
+        "notes": "Chesterton's spirited defense of traditional English pub culture and personal liberty against state licensing restrictio..."
+    },
+    {
         "id": "wine-water-and-song-1915",
         "title": "Wine, Water, and Song",
         "year": 1915,
@@ -505,6 +525,16 @@
         "notes": "Chesterton's sharp diplomatic critique examining the moral necessity of returning Alsace-Lorraine to France and dismantl..."
     },
     {
+        "id": "poems-of-the-great-war-1918",
+        "title": "Poems of the Great War",
+        "year": 1918,
+        "type": "Poetry & Epic Verse",
+        "publisher": "Grant Richards / Methuen & Co. / Burns & Oates",
+        "status": "In Digital Corpus",
+        "slug": "poems-of-the-great-war",
+        "notes": "Chesterton's stirring wartime poetry collection, including 'The Wife of Flanders', 'For Four Guilds', 'The English Grave..."
+    },
+    {
         "id": "irish-impressions-1919",
         "title": "Irish Impressions",
         "year": 1919,
@@ -513,6 +543,16 @@
         "status": "In Digital Corpus",
         "slug": "irish-impressions",
         "notes": "Chesterton’s reflections on the Irish peasant economy as a living model of Distributism."
+    },
+    {
+        "id": "the-return-to-the-land-1919",
+        "title": "The Return to the Land",
+        "year": 1919,
+        "type": "Distributism, Politics & Social Philosophy",
+        "publisher": "Chatto & Windus / Cecil Palmer / Methuen & Co.",
+        "status": "In Digital Corpus",
+        "slug": "the-return-to-the-land",
+        "notes": "Chesterton's foundational Distributist agrarian manifesto advocating the re-establishment of small family farms, village..."
     },
     {
         "id": "the-hg-wells-exchanges-1920",
@@ -1033,6 +1073,16 @@
         "status": "In Digital Corpus",
         "slug": "chesterton-on-art-and-aesthetics",
         "notes": "A profound aesthetic treatise collecting Chesterton's writings on painting, sculpture, architecture, and the philosophy ..."
+    },
+    {
+        "id": "chesterton-on-shaw-and-wells-1935",
+        "title": "Chesterton on Shaw and Wells",
+        "year": 1935,
+        "type": "Literary Criticism & Biographies",
+        "publisher": "Macmillan / Duckworth / Faber & Faber",
+        "status": "In Digital Corpus",
+        "slug": "chesterton-on-shaw-and-wells",
+        "notes": "A comprehensive retrospective examining Chesterton's thirty-year intellectual duels and deep personal friendships with G..."
     },
     {
         "id": "the-bertrand-russell-encounter-1935",
