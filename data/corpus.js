@@ -15,50 +15,56 @@
     "companionTitle": "Heretics (1905)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (10 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (11 Sections, 248 Paras, 63,698 Words)",
     "description": "Chesterton’s magnum opus of Christian apologetics, recounting his journey from skepticism to faith through the joyous paradoxes of existence.",
     "sections": [
       {
-        "id": "intro",
-        "titleEn": "Preface & In Defence of Everything Else"
-      },
-      {
         "id": "ch-1",
-        "titleEn": "Chapter I. Introduction in Defence of Everything Else"
+        "titleEn": "Dedication"
       },
       {
         "id": "ch-2",
-        "titleEn": "Chapter II. The Maniac"
+        "titleEn": "Preface"
       },
       {
         "id": "ch-3",
-        "titleEn": "Chapter III. The Suicide of Thought"
+        "titleEn": "I: Introduction in Defence of Everything Else"
       },
       {
         "id": "ch-4",
-        "titleEn": "Chapter IV. The Ethics of Elfland"
+        "titleEn": "II: The Maniac"
       },
       {
         "id": "ch-5",
-        "titleEn": "Chapter V. The Flag of the World"
+        "titleEn": "III: The Suicide of Thought"
       },
       {
         "id": "ch-6",
-        "titleEn": "Chapter VI. The Paradoxes of Christianity"
+        "titleEn": "IV: The Ethics of Elfland"
       },
       {
         "id": "ch-7",
-        "titleEn": "Chapter VII. The Eternal Revolution"
+        "titleEn": "V: The Flag of the World"
       },
       {
         "id": "ch-8",
-        "titleEn": "Chapter VIII. The Romance of Orthodoxy"
+        "titleEn": "VI: The Paradoxes of Christianity"
       },
       {
         "id": "ch-9",
-        "titleEn": "Chapter IX. Authority and the Adventurer"
+        "titleEn": "VII: The Eternal Revolution"
+      },
+      {
+        "id": "ch-10",
+        "titleEn": "VIII: The Romance of Orthodoxy"
+      },
+      {
+        "id": "ch-11",
+        "titleEn": "IX: Authority and the Adventurer"
       }
-    ]
+    ],
+    "totalWords": 63698,
+    "totalParagraphs": 248
   },
   "heretics": {
     "id": "heretics",
@@ -70,50 +76,96 @@
     "companionTitle": "Orthodoxy (1908)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (10 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (21 Sections, 255 Paras, 63,943 Words)",
     "description": "A brilliant and satirical critique of contemporary philosophies and intellectuals including Bernard Shaw, H.G. Wells, and Rudyard Kipling.",
     "sections": [
       {
         "id": "ch-1",
-        "titleEn": "I. On the Importance of Keeping an Eye on the Cosmological"
+        "titleEn": "Dedication"
       },
       {
         "id": "ch-2",
-        "titleEn": "II. On the Negative Spirit & Mr. Rudyard Kipling"
+        "titleEn": "I: Introductory Remarks on the Importance of Orthodoxy"
       },
       {
         "id": "ch-3",
-        "titleEn": "III. On Mr. Bernard Shaw & Progress"
+        "titleEn": "II: On the Negative Spirit"
       },
       {
         "id": "ch-4",
-        "titleEn": "IV. On Mr. H. G. Wells and the Giants"
+        "titleEn": "III: On Mr. Rudyard Kipling and Making the World Small"
       },
       {
         "id": "ch-5",
-        "titleEn": "V. On Christmas and the Aesthetes"
+        "titleEn": "IV: Mr. Bernard Shaw"
       },
       {
         "id": "ch-6",
-        "titleEn": "VI. On Omar and the Sacred Vine"
+        "titleEn": "V: Mr. H. G. Wells and the Giants"
       },
       {
         "id": "ch-7",
-        "titleEn": "VII. On the Yellow Press"
+        "titleEn": "VI: Christmas and the Aesthetes"
       },
       {
         "id": "ch-8",
-        "titleEn": "VIII. On the Wit of Whistler"
+        "titleEn": "VII: Omar and the Sacred Vine"
       },
       {
         "id": "ch-9",
-        "titleEn": "IX. On Modernity and the Pagan"
+        "titleEn": "VIII: The Mildness of the Yellow Press"
       },
       {
         "id": "ch-10",
-        "titleEn": "X. Concluding Remarks on the Importance of Orthodoxy"
+        "titleEn": "IX: The Moods of Mr. George Moore"
+      },
+      {
+        "id": "ch-11",
+        "titleEn": "X: On Sandals and Simplicity"
+      },
+      {
+        "id": "ch-12",
+        "titleEn": "XI: Science and the Savages"
+      },
+      {
+        "id": "ch-13",
+        "titleEn": "XII: Paganism and Mr. Lowes Dickinson"
+      },
+      {
+        "id": "ch-14",
+        "titleEn": "XIII: Celts and Celtophiles"
+      },
+      {
+        "id": "ch-15",
+        "titleEn": "XIV: On Certain Modern Writers and the Institution of the Family"
+      },
+      {
+        "id": "ch-16",
+        "titleEn": "XV: On Smart Novelists and the Smart Set"
+      },
+      {
+        "id": "ch-17",
+        "titleEn": "XVI: On Mr. McCabe and a Divine Frivolity"
+      },
+      {
+        "id": "ch-18",
+        "titleEn": "XVII: On the Wit of Whistler"
+      },
+      {
+        "id": "ch-19",
+        "titleEn": "XVIII: The Fallacy of the Young Nation"
+      },
+      {
+        "id": "ch-20",
+        "titleEn": "XIX: Slum Novelists and the Slums"
+      },
+      {
+        "id": "ch-21",
+        "titleEn": "XX: Concluding Remarks on the Importance of Orthodoxy"
       }
-    ]
+    ],
+    "totalWords": 63943,
+    "totalParagraphs": 255
   },
   "the-everlasting-man": {
     "id": "the-everlasting-man",
@@ -125,70 +177,96 @@
     "companionTitle": "Orthodoxy (1908)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (15 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (21 Sections, 331 Paras, 106,931 Words)",
     "description": "Chesterton’s monumental survey of human history and the incarnation. Famous as the book that converted C.S. Lewis to Christianity.",
     "sections": [
       {
-        "id": "pref",
-        "titleEn": "Prefatory Note: The Plan of This Book"
+        "id": "ch-1",
+        "titleEn": "Prefatory Note"
       },
       {
-        "id": "part1-ch1",
-        "titleEn": "Part I, Ch. 1: The Man in the Cave"
+        "id": "ch-2",
+        "titleEn": "Introduction"
       },
       {
-        "id": "part1-ch2",
-        "titleEn": "Part I, Ch. 2: Professors and Prehistoric Men"
+        "id": "ch-3",
+        "titleEn": "Part I: On the Creature Called Man"
       },
       {
-        "id": "part1-ch3",
-        "titleEn": "Part I, Ch. 3: The Antiquity of Civilisation"
+        "id": "ch-4",
+        "titleEn": "I: The Man in the Cave"
       },
       {
-        "id": "part1-ch4",
-        "titleEn": "Part I, Ch. 4: God and Comparative Religion"
+        "id": "ch-5",
+        "titleEn": "II: Professors and Prehistoric Men"
       },
       {
-        "id": "part1-ch5",
-        "titleEn": "Part I, Ch. 5: Man and Mythologies"
+        "id": "ch-6",
+        "titleEn": "III: The Antiquity of Civilisation"
       },
       {
-        "id": "part1-ch6",
-        "titleEn": "Part I, Ch. 6: The Demons and the Philosophers"
+        "id": "ch-7",
+        "titleEn": "IV: God and Comparative Religion"
       },
       {
-        "id": "part1-ch7",
-        "titleEn": "Part I, Ch. 7: The War of the Gods and Demons"
+        "id": "ch-8",
+        "titleEn": "V: Man and Mythologies"
       },
       {
-        "id": "part1-ch8",
-        "titleEn": "Part I, Ch. 8: The End of the World"
+        "id": "ch-9",
+        "titleEn": "VI: The Demons and the Philosophers"
       },
       {
-        "id": "part2-ch1",
-        "titleEn": "Part II, Ch. 1: The God in the Cave"
+        "id": "ch-10",
+        "titleEn": "VII: The War of the Gods and Demons"
       },
       {
-        "id": "part2-ch2",
-        "titleEn": "Part II, Ch. 2: The Riddles of the Gospel"
+        "id": "ch-11",
+        "titleEn": "VIII: The End of the World"
       },
       {
-        "id": "part2-ch3",
-        "titleEn": "Part II, Ch. 3: The Witness of the Heretics"
+        "id": "ch-12",
+        "titleEn": "Part II: On the Man Called Christ"
       },
       {
-        "id": "part2-ch4",
-        "titleEn": "Part II, Ch. 4: The Escape from Paganism"
+        "id": "ch-13",
+        "titleEn": "I: The God in the Cave"
       },
       {
-        "id": "part2-ch5",
-        "titleEn": "Part II, Ch. 5: The Five Deaths of the Faith"
+        "id": "ch-14",
+        "titleEn": "II: The Riddles of the Gospel"
       },
       {
-        "id": "conclusion",
-        "titleEn": "Conclusion: The Summary of This Strange Story"
+        "id": "ch-15",
+        "titleEn": "III: The Strangest Story in the World"
+      },
+      {
+        "id": "ch-16",
+        "titleEn": "IV: The Witness of the Heretics"
+      },
+      {
+        "id": "ch-17",
+        "titleEn": "V: The Escape from Paganism"
+      },
+      {
+        "id": "ch-18",
+        "titleEn": "VI: The Five Deaths of the Faith"
+      },
+      {
+        "id": "ch-19",
+        "titleEn": "Conclusion"
+      },
+      {
+        "id": "ch-20",
+        "titleEn": "Appendix I: On Prehistoric Man"
+      },
+      {
+        "id": "ch-21",
+        "titleEn": "Appendix II: On Authority and Accuracy"
       }
-    ]
+    ],
+    "totalWords": 106931,
+    "totalParagraphs": 331
   },
   "st-francis-of-assisi": {
     "id": "st-francis-of-assisi",
@@ -528,58 +606,64 @@
     "companionTitle": "The Wisdom of Father Brown (1914)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (12 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (13 Sections, 1,426 Paras, 78,819 Words)",
     "description": "The debut collection introducing Father Brown, the quiet Roman Catholic priest who solves crimes by spiritual empathy.",
     "sections": [
       {
-        "id": "story-1",
-        "titleEn": "I. The Blue Cross"
+        "id": "ch-1",
+        "titleEn": "Dedication"
       },
       {
-        "id": "story-2",
-        "titleEn": "II. The Secret Garden"
+        "id": "ch-2",
+        "titleEn": "The Blue Cross"
       },
       {
-        "id": "story-3",
-        "titleEn": "III. The Queer Feet"
+        "id": "ch-3",
+        "titleEn": "The Secret Garden"
       },
       {
-        "id": "story-4",
-        "titleEn": "IV. The Flying Stars"
+        "id": "ch-4",
+        "titleEn": "The Queer Feet"
       },
       {
-        "id": "story-5",
-        "titleEn": "V. The Invisible Man"
+        "id": "ch-5",
+        "titleEn": "The Flying Stars"
       },
       {
-        "id": "story-6",
-        "titleEn": "VI. The Honour of Israel Gow"
+        "id": "ch-6",
+        "titleEn": "The Invisible Man"
       },
       {
-        "id": "story-7",
-        "titleEn": "VII. The Wrong Shape"
+        "id": "ch-7",
+        "titleEn": "The Honour of Israel Gow"
       },
       {
-        "id": "story-8",
-        "titleEn": "VIII. The Sins of Prince Saradine"
+        "id": "ch-8",
+        "titleEn": "The Wrong Shape"
       },
       {
-        "id": "story-9",
-        "titleEn": "IX. The Hammer of God"
+        "id": "ch-9",
+        "titleEn": "The Sins of Prince Saradine"
       },
       {
-        "id": "story-10",
-        "titleEn": "X. The Eye of Apollo"
+        "id": "ch-10",
+        "titleEn": "The Hammer of God"
       },
       {
-        "id": "story-11",
-        "titleEn": "XI. The Sign of the Broken Sword"
+        "id": "ch-11",
+        "titleEn": "The Eye of Apollo"
       },
       {
-        "id": "story-12",
-        "titleEn": "XII. The Three Tools of Death"
+        "id": "ch-12",
+        "titleEn": "The Sign of the Broken Sword"
+      },
+      {
+        "id": "ch-13",
+        "titleEn": "The Three Tools of Death"
       }
-    ]
+    ],
+    "totalWords": 78819,
+    "totalParagraphs": 1426
   },
   "the-wisdom-of-father-brown": {
     "id": "the-wisdom-of-father-brown",
@@ -591,58 +675,64 @@
     "companionTitle": "The Innocence of Father Brown (1911)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (12 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (13 Sections, 1,152 Paras, 71,601 Words)",
     "description": "The second classic Father Brown collection, exploring crimes that hinge on psychological paradoxes.",
     "sections": [
       {
-        "id": "story-1",
-        "titleEn": "I. The Absence of Mr. Glass"
+        "id": "ch-1",
+        "titleEn": "Dedication"
       },
       {
-        "id": "story-2",
-        "titleEn": "II. The Paradise of Thieves"
+        "id": "ch-2",
+        "titleEn": "The Absence of Mr. Glass"
       },
       {
-        "id": "story-3",
-        "titleEn": "III. The Duel of Dr. Hirsch"
+        "id": "ch-3",
+        "titleEn": "The Paradise of Thieves"
       },
       {
-        "id": "story-4",
-        "titleEn": "IV. The Man in the Passage"
+        "id": "ch-4",
+        "titleEn": "The Duel of Dr. Hirsch"
       },
       {
-        "id": "story-5",
-        "titleEn": "V. The Mistake of the Machine"
+        "id": "ch-5",
+        "titleEn": "The Man in the Passage"
       },
       {
-        "id": "story-6",
-        "titleEn": "VI. The Head of Caesar"
+        "id": "ch-6",
+        "titleEn": "The Mistake of the Machine"
       },
       {
-        "id": "story-7",
-        "titleEn": "VII. The Purple Wig"
+        "id": "ch-7",
+        "titleEn": "The Head of Caesar"
       },
       {
-        "id": "story-8",
-        "titleEn": "VIII. The Perishing of the Pendragons"
+        "id": "ch-8",
+        "titleEn": "The Purple Wig"
       },
       {
-        "id": "story-9",
-        "titleEn": "IX. The God of the Gongs"
+        "id": "ch-9",
+        "titleEn": "The Perishing of the Pendragons"
       },
       {
-        "id": "story-10",
-        "titleEn": "X. The Salad of Colonel Cray"
+        "id": "ch-10",
+        "titleEn": "The God of the Gongs"
       },
       {
-        "id": "story-11",
-        "titleEn": "XI. The Strange Crime of John Boulnois"
+        "id": "ch-11",
+        "titleEn": "The Salad of Colonel Cray"
       },
       {
-        "id": "story-12",
-        "titleEn": "XII. The Fairy Tale of Father Brown"
+        "id": "ch-12",
+        "titleEn": "The Strange Crime of John Boulnois"
+      },
+      {
+        "id": "ch-13",
+        "titleEn": "The Fairy Tale of Father Brown"
       }
-    ]
+    ],
+    "totalWords": 71601,
+    "totalParagraphs": 1152
   },
   "the-incredulity-of-father-brown": {
     "id": "the-incredulity-of-father-brown",
@@ -654,42 +744,52 @@
     "companionTitle": "The Secret of Father Brown (1927)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (8 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (10 Sections, 1,143 Paras, 71,175 Words)",
     "description": "Eight stories where Father Brown unmasks seemingly supernatural miracles and curses through strict common sense.",
     "sections": [
       {
-        "id": "story-1",
-        "titleEn": "I. The Resurrection of Father Brown"
+        "id": "ch-1",
+        "titleEn": "Dedication"
       },
       {
-        "id": "story-2",
-        "titleEn": "II. The Arrow of Heaven"
+        "id": "ch-2",
+        "titleEn": "Preface"
       },
       {
-        "id": "story-3",
-        "titleEn": "III. The Oracle of the Dog"
+        "id": "ch-3",
+        "titleEn": "The Resurrection of Father Brown"
       },
       {
-        "id": "story-4",
-        "titleEn": "IV. The Miracle of Moon Crescent"
+        "id": "ch-4",
+        "titleEn": "The Arrow of Heaven"
       },
       {
-        "id": "story-5",
-        "titleEn": "V. The Curse of the Golden Cross"
+        "id": "ch-5",
+        "titleEn": "The Oracle of the Dog"
       },
       {
-        "id": "story-6",
-        "titleEn": "VI. The Dagger with Wings"
+        "id": "ch-6",
+        "titleEn": "The Miracle of Moon Crescent"
       },
       {
-        "id": "story-7",
-        "titleEn": "VII. The Doom of the Darnaways"
+        "id": "ch-7",
+        "titleEn": "The Curse of the Golden Cross"
       },
       {
-        "id": "story-8",
-        "titleEn": "VIII. The Ghost of Gideon Wise"
+        "id": "ch-8",
+        "titleEn": "The Dagger with Wings"
+      },
+      {
+        "id": "ch-9",
+        "titleEn": "The Doom of the Darnaways"
+      },
+      {
+        "id": "ch-10",
+        "titleEn": "The Ghost of Gideon Wise"
       }
-    ]
+    ],
+    "totalWords": 71175,
+    "totalParagraphs": 1143
   },
   "the-secret-of-father-brown": {
     "id": "the-secret-of-father-brown",
@@ -701,50 +801,56 @@
     "companionTitle": "The Scandal of Father Brown (1935)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (10 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (11 Sections, 1,210 Paras, 62,909 Words)",
     "description": "Framed around Father Brown explaining his inner method of moral identification to an American visitor.",
     "sections": [
       {
-        "id": "intro",
-        "titleEn": "Prologue: The Secret of Father Brown"
+        "id": "ch-1",
+        "titleEn": "Dedication"
       },
       {
-        "id": "story-1",
-        "titleEn": "I. The Mirror of the Magistrate"
+        "id": "ch-2",
+        "titleEn": "The Secret of Father Brown"
       },
       {
-        "id": "story-2",
-        "titleEn": "II. The Man with Two Beards"
+        "id": "ch-3",
+        "titleEn": "The Mirror of the Magistrate"
       },
       {
-        "id": "story-3",
-        "titleEn": "III. The Song of the Flying Fish"
+        "id": "ch-4",
+        "titleEn": "The Man with Two Beards"
       },
       {
-        "id": "story-4",
-        "titleEn": "IV. The Actor and the Alibi"
+        "id": "ch-5",
+        "titleEn": "The Song of the Flying Fish"
       },
       {
-        "id": "story-5",
-        "titleEn": "V. The Vanishing of Vaudrey"
+        "id": "ch-6",
+        "titleEn": "The Actor and the Alibi"
       },
       {
-        "id": "story-6",
-        "titleEn": "VI. The Worst Crime in the World"
+        "id": "ch-7",
+        "titleEn": "The Vanishing of Vaudrey"
       },
       {
-        "id": "story-7",
-        "titleEn": "VII. The Red Moon of Meru"
+        "id": "ch-8",
+        "titleEn": "The Worst Crime in the World"
       },
       {
-        "id": "story-8",
-        "titleEn": "VIII. The Chief Mourner of Marne"
+        "id": "ch-9",
+        "titleEn": "The Red Moon of Meru"
       },
       {
-        "id": "epilogue",
-        "titleEn": "Epilogue: The Secret of Flambeau"
+        "id": "ch-10",
+        "titleEn": "The Chief Mourner of Marne"
+      },
+      {
+        "id": "ch-11",
+        "titleEn": "The Secret of Flambeau"
       }
-    ]
+    ],
+    "totalWords": 62909,
+    "totalParagraphs": 1210
   },
   "the-scandal-of-father-brown": {
     "id": "the-scandal-of-father-brown",
@@ -803,70 +909,76 @@
     "companionTitle": "The Napoleon of Notting Hill (1904)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (15 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (16 Sections, 1,272 Paras, 57,884 Words)",
     "description": "A celebrated metaphysical thriller in which poet-detective Gabriel Syme infiltrates the secret Central Anarchist Council.",
     "sections": [
       {
         "id": "ch-1",
-        "titleEn": "Chapter I. The Two Poets of Saffron Park"
+        "titleEn": "Dedication"
       },
       {
         "id": "ch-2",
-        "titleEn": "Chapter II. The Secret of Gabriel Syme"
+        "titleEn": "I: The Two Poets of Saffron Park"
       },
       {
         "id": "ch-3",
-        "titleEn": "Chapter III. The Man Who Was Thursday"
+        "titleEn": "II: The Secret of Gabriel Syme"
       },
       {
         "id": "ch-4",
-        "titleEn": "Chapter IV. The Tale of a Detective"
+        "titleEn": "III: The Man Who Was Thursday"
       },
       {
         "id": "ch-5",
-        "titleEn": "Chapter V. The Feast of the Fear"
+        "titleEn": "IV: The Tale of a Detective"
       },
       {
         "id": "ch-6",
-        "titleEn": "Chapter VI. The Exposure"
+        "titleEn": "V: The Feast of Fear"
       },
       {
         "id": "ch-7",
-        "titleEn": "Chapter VII. The Unaccountable Professor"
+        "titleEn": "VI: The Exposure"
       },
       {
         "id": "ch-8",
-        "titleEn": "Chapter VIII. The Professor Explains"
+        "titleEn": "VII: The Unaccountable Conduct of Professor de Worms"
       },
       {
         "id": "ch-9",
-        "titleEn": "Chapter IX. The Man in Spectacles"
+        "titleEn": "VIII: The Professor Explains"
       },
       {
         "id": "ch-10",
-        "titleEn": "Chapter X. The Duel"
+        "titleEn": "IX: The Man in Spectacles"
       },
       {
         "id": "ch-11",
-        "titleEn": "Chapter XI. The Criminals Chase the Police"
+        "titleEn": "X: The Duel"
       },
       {
         "id": "ch-12",
-        "titleEn": "Chapter XII. The Earth in Anarchy"
+        "titleEn": "XI: The Criminals Chase the Police"
       },
       {
         "id": "ch-13",
-        "titleEn": "Chapter XIII. The Pursuit of the President"
+        "titleEn": "XII: The Earth in Anarchy"
       },
       {
         "id": "ch-14",
-        "titleEn": "Chapter XIV. The Six Philosophers"
+        "titleEn": "XIII: The Pursuit of the President"
       },
       {
         "id": "ch-15",
-        "titleEn": "Chapter XV. The Accuser"
+        "titleEn": "XIV: The Six Philosophers"
+      },
+      {
+        "id": "ch-16",
+        "titleEn": "XV: The Accuser"
       }
-    ]
+    ],
+    "totalWords": 57884,
+    "totalParagraphs": 1272
   },
   "the-napoleon-of-notting-hill": {
     "id": "the-napoleon-of-notting-hill",
@@ -878,34 +990,40 @@
     "companionTitle": "The Man Who Was Thursday (1908)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (6 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (7 Sections, 1,107 Paras, 54,762 Words)",
     "description": "Chesterton’s first novel, depicting a futuristic London where local boroughs revive medieval heraldry.",
     "sections": [
       {
-        "id": "prologue",
-        "titleEn": "Introductory Remarks on the Art of Prophecy"
+        "id": "ch-1",
+        "titleEn": "Dedication"
       },
       {
-        "id": "bk1",
-        "titleEn": "Book I. The King with the Joke (Auberon Quin)"
+        "id": "ch-2",
+        "titleEn": "Book I"
       },
       {
-        "id": "bk2",
-        "titleEn": "Book II. The Provost of Notting Hill (Adam Wayne)"
+        "id": "ch-3",
+        "titleEn": "Book II"
       },
       {
-        "id": "bk3",
-        "titleEn": "Book III. The War of the Red and Green"
+        "id": "ch-4",
+        "titleEn": "Book III"
       },
       {
-        "id": "bk4",
-        "titleEn": "Book IV. The Siege of Campden Hill"
+        "id": "ch-5",
+        "titleEn": "Book IV"
       },
       {
-        "id": "bk5",
-        "titleEn": "Book V. The Empire of Notting Hill & Epilogue"
+        "id": "ch-6",
+        "titleEn": "Book V"
+      },
+      {
+        "id": "ch-7",
+        "titleEn": "Endnotes"
       }
-    ]
+    ],
+    "totalWords": 54762,
+    "totalParagraphs": 1107
   },
   "the-club-of-queer-trades": {
     "id": "the-club-of-queer-trades",
@@ -917,34 +1035,36 @@
     "companionTitle": "The Innocence of Father Brown (1911)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (6 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (6 Sections, 1,055 Paras, 43,999 Words)",
     "description": "A collection of delightful mysteries featuring retired judge Basil Grant and unique vocations.",
     "sections": [
       {
-        "id": "story-1",
-        "titleEn": "I. The Tremendous Adventure of Major Brown"
+        "id": "ch-1",
+        "titleEn": "I: The Tremendous Adventures of Major Brown"
       },
       {
-        "id": "story-2",
-        "titleEn": "II. The Painful Fall of a Great Reputation"
+        "id": "ch-2",
+        "titleEn": "II: The Painful Fall of a Great Reputation"
       },
       {
-        "id": "story-3",
-        "titleEn": "III. The Awful Reason of the Vicar's Visit"
+        "id": "ch-3",
+        "titleEn": "III: The Awful Reason of the Vicar’s Visit"
       },
       {
-        "id": "story-4",
-        "titleEn": "IV. The Singular Speculation of the House-Agent"
+        "id": "ch-4",
+        "titleEn": "IV: The Singular Speculation of the House-Agent"
       },
       {
-        "id": "story-5",
-        "titleEn": "V. The Noticeable Conduct of Professor Chadd"
+        "id": "ch-5",
+        "titleEn": "V: The Noticeable Conduct of Professor Chadd"
       },
       {
-        "id": "story-6",
-        "titleEn": "VI. The Eccentric Seclusion of the Old Lady"
+        "id": "ch-6",
+        "titleEn": "VI: The Eccentric Seclusion of the Old Lady"
       }
-    ]
+    ],
+    "totalWords": 43999,
+    "totalParagraphs": 1055
   },
   "the-ball-and-the-cross": {
     "id": "the-ball-and-the-cross",
@@ -1003,30 +1123,60 @@
     "companionTitle": "The Napoleon of Notting Hill (1904)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (12 Sections, 928 Paras, 57,713 Words)",
     "description": "The eccentric adventures of Innocent Smith, who forces tired modern men to fall in love with life again.",
     "sections": [
       {
-        "id": "part1-ch1",
-        "titleEn": "Part I, Ch. 1: How the Great Wind Came to Beacon House"
+        "id": "ch-1",
+        "titleEn": "Part I: The Enigmas of Innocent Smith"
       },
       {
-        "id": "part1-ch2",
-        "titleEn": "Part I, Ch. 2: The Arrival of Innocent Smith"
+        "id": "ch-2",
+        "titleEn": "I: How the Great Wind Came to Beacon House"
       },
       {
-        "id": "part1-ch3",
-        "titleEn": "Part I, Ch. 3: The Crime of the Green Garden"
+        "id": "ch-3",
+        "titleEn": "II: The Luggage of an Optimist"
       },
       {
-        "id": "part2-ch1",
-        "titleEn": "Part II, Ch. 1: The Trial of Innocent Smith"
+        "id": "ch-4",
+        "titleEn": "III: The Banner of Beacon"
       },
       {
-        "id": "part2-ch2",
-        "titleEn": "Part II, Ch. 2: The Vindication of Living"
+        "id": "ch-5",
+        "titleEn": "IV: The Garden of the God"
+      },
+      {
+        "id": "ch-6",
+        "titleEn": "V: The Allegorical Practical Joker"
+      },
+      {
+        "id": "ch-7",
+        "titleEn": "Part II: The Explanations of Innocent Smith"
+      },
+      {
+        "id": "ch-8",
+        "titleEn": "I: The Eye of Death; or, the Murder Charge"
+      },
+      {
+        "id": "ch-9",
+        "titleEn": "II: The Two Curates; or, the Burglary Charge"
+      },
+      {
+        "id": "ch-10",
+        "titleEn": "III: The Round Road; or, the Desertion Charge"
+      },
+      {
+        "id": "ch-11",
+        "titleEn": "IV: The Wild Weddings; or, the Polygamy Charge"
+      },
+      {
+        "id": "ch-12",
+        "titleEn": "V: How the Great Wind Went from Beacon House"
       }
-    ]
+    ],
+    "totalWords": 57713,
+    "totalParagraphs": 928
   },
   "the-flying-inn": {
     "id": "the-flying-inn",
@@ -1381,30 +1531,232 @@
     "companionTitle": "The Outline of Sanity (1926)",
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
+    "unabridgedBadge": "Verified Verbatim Unabridged (55 Sections, 290 Paras, 59,781 Words)",
     "description": "Chesterton’s foundational social treatise defending the freedom of the family and distributed property.",
     "sections": [
       {
-        "id": "part1",
-        "titleEn": "Part I. The Homelessness of Man"
+        "id": "ch-1",
+        "titleEn": "Dedication"
       },
       {
-        "id": "part2",
-        "titleEn": "Part II. Imperialism, or the Mistake about Man"
+        "id": "ch-2",
+        "titleEn": "Part I: The Homelessness of Man"
       },
       {
-        "id": "part3",
-        "titleEn": "Part III. Feminism, or the Mistake about Woman"
+        "id": "ch-3",
+        "titleEn": "I: The Medical Mistake"
       },
       {
-        "id": "part4",
-        "titleEn": "Part IV. Education, or the Mistake about the Child"
+        "id": "ch-4",
+        "titleEn": "II: Wanted, an Unpractical Man"
       },
       {
-        "id": "part5",
-        "titleEn": "Part V. The Home of the Man & Conclusion"
+        "id": "ch-5",
+        "titleEn": "III: The New Hypocrite"
+      },
+      {
+        "id": "ch-6",
+        "titleEn": "IV: The Fear of the Past"
+      },
+      {
+        "id": "ch-7",
+        "titleEn": "V: The Unfinished Temple"
+      },
+      {
+        "id": "ch-8",
+        "titleEn": "VI: The Enemies of Property"
+      },
+      {
+        "id": "ch-9",
+        "titleEn": "VII: The Free Family"
+      },
+      {
+        "id": "ch-10",
+        "titleEn": "VIII: The Wildness of Domesticity"
+      },
+      {
+        "id": "ch-11",
+        "titleEn": "IX: History of Hudge and Gudge"
+      },
+      {
+        "id": "ch-12",
+        "titleEn": "X: Oppression by Optimism"
+      },
+      {
+        "id": "ch-13",
+        "titleEn": "XI: The Homelessness of Jones"
+      },
+      {
+        "id": "ch-14",
+        "titleEn": "Part II: Imperialism: Or the Mistake About Man"
+      },
+      {
+        "id": "ch-15",
+        "titleEn": "I: The Charm of Jingoism"
+      },
+      {
+        "id": "ch-16",
+        "titleEn": "II: Wisdom and the Weather"
+      },
+      {
+        "id": "ch-17",
+        "titleEn": "III: The Common Vision"
+      },
+      {
+        "id": "ch-18",
+        "titleEn": "IV: The Insane Necessity"
+      },
+      {
+        "id": "ch-19",
+        "titleEn": "Part III: Feminism: Or the Mistake About Woman"
+      },
+      {
+        "id": "ch-20",
+        "titleEn": "I: The Unmilitary Suffragette"
+      },
+      {
+        "id": "ch-21",
+        "titleEn": "II: The Universal Stick"
+      },
+      {
+        "id": "ch-22",
+        "titleEn": "III: The Emancipation of Domesticity"
+      },
+      {
+        "id": "ch-23",
+        "titleEn": "IV: The Romance of Thrift"
+      },
+      {
+        "id": "ch-24",
+        "titleEn": "V: The Coldness of Chloe"
+      },
+      {
+        "id": "ch-25",
+        "titleEn": "VI: The Pedant and the Savage"
+      },
+      {
+        "id": "ch-26",
+        "titleEn": "VII: The Modern Surrender of Woman"
+      },
+      {
+        "id": "ch-27",
+        "titleEn": "VIII: The Brand of the Fleur-de-Lis"
+      },
+      {
+        "id": "ch-28",
+        "titleEn": "IX: Sincerity and the Gallows"
+      },
+      {
+        "id": "ch-29",
+        "titleEn": "X: The Higher Anarchy"
+      },
+      {
+        "id": "ch-30",
+        "titleEn": "XI: The Queen and the Suffragettes"
+      },
+      {
+        "id": "ch-31",
+        "titleEn": "XII: The Modern Slave"
+      },
+      {
+        "id": "ch-32",
+        "titleEn": "Part IV: Education: Or the Mistake About the Child"
+      },
+      {
+        "id": "ch-33",
+        "titleEn": "I: The Calvinism of Today"
+      },
+      {
+        "id": "ch-34",
+        "titleEn": "II: The Tribal Terror"
+      },
+      {
+        "id": "ch-35",
+        "titleEn": "III: The Tricks of Environment"
+      },
+      {
+        "id": "ch-36",
+        "titleEn": "IV: The Truth About Education"
+      },
+      {
+        "id": "ch-37",
+        "titleEn": "V: An Evil Cry"
+      },
+      {
+        "id": "ch-38",
+        "titleEn": "VI: Authority the Unavoidable"
+      },
+      {
+        "id": "ch-39",
+        "titleEn": "VII: The Humility of Mrs. Grundy"
+      },
+      {
+        "id": "ch-40",
+        "titleEn": "VIII: The Broken Rainbow"
+      },
+      {
+        "id": "ch-41",
+        "titleEn": "IX: The Need for Narrowness"
+      },
+      {
+        "id": "ch-42",
+        "titleEn": "X: The Case for the Public Schools"
+      },
+      {
+        "id": "ch-43",
+        "titleEn": "XI: The School for Hypocrites"
+      },
+      {
+        "id": "ch-44",
+        "titleEn": "XII: The Staleness of the New Schools"
+      },
+      {
+        "id": "ch-45",
+        "titleEn": "XIII: The Outlawed Parent"
+      },
+      {
+        "id": "ch-46",
+        "titleEn": "XIV: Folly and Female Education"
+      },
+      {
+        "id": "ch-47",
+        "titleEn": "Part V: The Home of Man"
+      },
+      {
+        "id": "ch-48",
+        "titleEn": "I: The Empire of the Insect"
+      },
+      {
+        "id": "ch-49",
+        "titleEn": "II: The Fallacy of the Umbrella Stand"
+      },
+      {
+        "id": "ch-50",
+        "titleEn": "III: The Dreadful Duty of Gudge"
+      },
+      {
+        "id": "ch-51",
+        "titleEn": "IV: A Doubt"
+      },
+      {
+        "id": "ch-52",
+        "titleEn": "V: Conclusion"
+      },
+      {
+        "id": "ch-54",
+        "titleEn": "I: On Female Suffrage"
+      },
+      {
+        "id": "ch-55",
+        "titleEn": "II: On Cleanliness in Education"
+      },
+      {
+        "id": "ch-56",
+        "titleEn": "III: On Peasant Proprietorship"
       }
-    ]
+    ],
+    "totalWords": 59781,
+    "totalParagraphs": 290
   },
   "the-outline-of-sanity": {
     "id": "the-outline-of-sanity",
