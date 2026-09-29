@@ -145,7 +145,7 @@ function renderBlocks(work, targetSectionId = "all") {
     const secTitle = secObj ? secObj.titleEn : "";
 
     html += `
-      <div class="reader-block ${isStudy ? 'study-mode' : ''}" id="${para.id}" data-para-id="${para.id}">
+      <div class="reader-block" id="${para.id}" data-para-id="${para.id}">
         <div class="block-content-area">
           <div class="block-meta">
             <span class="block-id-pill">§ ${para.id}</span>
@@ -155,12 +155,6 @@ function renderBlocks(work, targetSectionId = "all") {
             ${paraText}
           </div>
         </div>
-        ${isStudy ? `
-          <div class="study-annotation">
-            <span class="study-annotation-label">Thematic Context</span>
-            <span>${escapeHtmlSafe(para.note || "Chestertonian paradox and philosophical meditation.")}</span>
-          </div>
-        ` : ''}
       </div>
     `;
   });

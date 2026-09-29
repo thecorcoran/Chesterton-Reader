@@ -36,9 +36,8 @@
         </button>
 
         <div class="btn-group mode-toggle-group" role="group" aria-label="Reading Mode">
-          <button class="btn active" id="btn-mode-study" onclick="setReadingMode('study')">Study Mode</button>
-          <button class="btn" id="btn-mode-book" onclick="setReadingMode('book')">Continuous Book</button>
-          <button class="btn" id="btn-mode-focus" onclick="setReadingMode('focus')">Focus</button>
+          <button class="btn active" id="btn-mode-book" onclick="setReadingMode('book')">📖 Book View</button>
+          <button class="btn" id="btn-mode-focus" onclick="setReadingMode('focus')">🧘 Focus Mode</button>
         </div>
 
         <div class="btn-group reader-prefs-group" role="group" aria-label="Reading Preferences">
@@ -114,100 +113,7 @@
       </div>
     </section>
 
-    <!-- Curated Thematic Reading Itineraries -->
-    <section class="itineraries-section" aria-label="Curated Thematic Reading Paths">
-      <div class="itineraries-header">
-        <span class="itineraries-pill">Curated Pathways</span>
-        <h2 class="itineraries-title">Thematic Reading Itineraries</h2>
-        <p class="itineraries-desc">Structured reading itineraries connecting Chesterton’s foundational theological essays, detective inquiries, and satirical romances.</p>
-      </div>
 
-      <div class="itineraries-grid">
-        <!-- Itinerary 1: Paradox & Wonder -->
-        <div class="itinerary-card">
-          <div class="itinerary-badge">Philosophy &amp; Faith</div>
-          <h3 class="itinerary-name">The Logic of Wonder &amp; Christian Paradox</h3>
-          <p class="itinerary-text">Follow Chesterton’s intellectual voyage from skepticism to faith, exploring the 'Ethics of Elfland', the sanity of the poet, and the romance of orthodoxy.</p>
-          <div class="itinerary-steps">
-            <button class="itinerary-step" onclick="loadWork('orthodoxy', 'ch-2')">
-              <span class="step-num">1</span>
-              <span class="step-label"><em>Orthodoxy</em> (Ch. II: The Maniac &amp; Reason)</span>
-            </button>
-            <button class="itinerary-step" onclick="loadWork('orthodoxy', 'ch-4')">
-              <span class="step-num">2</span>
-              <span class="step-label"><em>Orthodoxy</em> (Ch. IV: The Ethics of Elfland)</span>
-            </button>
-            <button class="itinerary-step" onclick="loadWork('heretics', 'ch-1')">
-              <span class="step-num">3</span>
-              <span class="step-label"><em>Heretics</em> (Ch. I: The Landlady &amp; Cosmology)</span>
-            </button>
-          </div>
-        </div>
-
-        <!-- Itinerary 2: Father Brown -->
-        <div class="itinerary-card">
-          <div class="itinerary-badge">Detective Fiction</div>
-          <h3 class="itinerary-name">Father Brown: Moral Detective Mysteries</h3>
-          <p class="itinerary-text">Experience the quiet Essex priest outsmarting European master-thieves and arrogant scientists through spiritual empathy and understanding human sin.</p>
-          <div class="itinerary-steps">
-            <button class="itinerary-step" onclick="loadWork('the-innocence-of-father-brown', 'story-1')">
-              <span class="step-num">1</span>
-              <span class="step-label"><em>The Blue Cross</em> (Flambeau's Debut &amp; Hampstead Heath)</span>
-            </button>
-            <button class="itinerary-step" onclick="loadWork('the-innocence-of-father-brown', 'story-5')">
-              <span class="step-num">2</span>
-              <span class="step-label"><em>The Invisible Man</em> (Psychological Blindness)</span>
-            </button>
-            <button class="itinerary-step" onclick="loadWork('the-innocence-of-father-brown', 'story-9')">
-              <span class="step-num">3</span>
-              <span class="step-label"><em>The Hammer of God</em> (The Temptation of the Spire)</span>
-            </button>
-          </div>
-        </div>
-
-        <!-- Itinerary 3: Metaphysical Thrillers -->
-        <div class="itinerary-card">
-          <div class="itinerary-badge">Cosmic Fiction</div>
-          <h3 class="itinerary-name">Nightmares &amp; Cosmic Romances</h3>
-          <p class="itinerary-text">Infiltrate the Central Anarchist Council with Gabriel Syme or rally the shopkeepers of Notting Hill against bureaucratic uniformity.</p>
-          <div class="itinerary-steps">
-            <button class="itinerary-step" onclick="loadWork('the-man-who-was-thursday', 'ch-1')">
-              <span class="step-num">1</span>
-              <span class="step-label"><em>The Man Who Was Thursday</em> (The Two Poets of Saffron Park)</span>
-            </button>
-            <button class="itinerary-step" onclick="loadWork('the-man-who-was-thursday', 'ch-15')">
-              <span class="step-num">2</span>
-              <span class="step-label"><em>The Man Who Was Thursday</em> (The Great Feast of Sunday)</span>
-            </button>
-            <button class="itinerary-step" onclick="loadWork('the-napoleon-of-notting-hill', 'bk2')">
-              <span class="step-num">3</span>
-              <span class="step-label"><em>The Napoleon of Notting Hill</em> (Adam Wayne's Defiance)</span>
-            </button>
-          </div>
-        </div>
-
-        <!-- Itinerary 4: Distributism -->
-        <div class="itinerary-card">
-          <div class="itinerary-badge">Social Sanity</div>
-          <h3 class="itinerary-name">Distributism &amp; The Common Man</h3>
-          <p class="itinerary-text">Chesterton’s prophetic defense of small family property, the independence of the home, and local culture against both monopoly capitalism and state socialism.</p>
-          <div class="itinerary-steps">
-            <button class="itinerary-step" onclick="loadWork('whats-wrong-with-the-world', 'part1')">
-              <span class="step-num">1</span>
-              <span class="step-label"><em>What's Wrong with the World</em> (The Homelessness of Man)</span>
-            </button>
-            <button class="itinerary-step" onclick="loadWork('the-outline-of-sanity', 'bk1')">
-              <span class="step-num">2</span>
-              <span class="step-label"><em>The Outline of Sanity</em> (General Ideas on Distributism)</span>
-            </button>
-            <button class="itinerary-step" onclick="loadWork('tremendous-trifles', 'essay-3')">
-              <span class="step-num">3</span>
-              <span class="step-label"><em>Tremendous Trifles</em> (The Twelve Men on the Jury)</span>
-            </button>
-          </div>
-        </div>
-      </div>
-    </section>
 
     <!-- Master Corpus Catalog Section -->
     <section class="catalog-section">
