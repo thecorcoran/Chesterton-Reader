@@ -189,7 +189,20 @@ function renderCatalogGrid() {
   const query = normalizeQuery(currentCatalogQuery);
 
   const filtered = entries.filter(w => {
-    if (filter !== "all" && w.category !== filter) return false;
+    if (filter !== "all") {
+      const wCat = (w.category || "").toLowerCase();
+      const fCat = filter.toLowerCase();
+      const matches = wCat === fCat ||
+                      (fCat.includes("distribut") && wCat.includes("distribut")) ||
+                      (fCat.includes("apologet") && wCat.includes("apologet")) ||
+                      (fCat.includes("father brown") && wCat.includes("father brown")) ||
+                      (fCat.includes("novel") && wCat.includes("novel")) ||
+                      (fCat.includes("criticism") && wCat.includes("criticism")) ||
+                      (fCat.includes("essay") && wCat.includes("essay")) ||
+                      (fCat.includes("poet") && wCat.includes("poet")) ||
+                      (fCat.includes("play") && wCat.includes("play"));
+      if (!matches) return false;
+    }
     if (query) {
       const matchTitle = normalizeQuery(w.titleEn).includes(query);
       const matchDesc = normalizeQuery(w.description || "").includes(query);
