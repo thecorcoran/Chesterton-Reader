@@ -1,7 +1,7 @@
 /**
  * G.K. Chesterton — Master Corpus & Metadata Index
  * Complete Public Domain Oeuvre of Gilbert Keith Chesterton (1874–1936)
- * Complete Definitive Master Compilation (101 Landmark Unabridged Volumes)
+ * Complete Definitive Master Compilation (106 Landmark Unabridged Volumes)
  */
 (function() {
   const CORPUS_DATA = {
@@ -3729,6 +3729,153 @@
       {
         "id": "ch-4",
         "titleEn": "IV. Chesterton's Final Rejoinder on Sanity and Hope (G.K. Chesterton)"
+      }
+    ]
+  },
+  "the-blatchford-controversies": {
+    "id": "the-blatchford-controversies",
+    "titleEn": "The Blatchford Controversies",
+    "subtitle": "The Clarion Debate: The Defense of Free Will and Christianity",
+    "year": 1904,
+    "category": "Christian Apologetics & Philosophy",
+    "companionSlug": "orthodoxy",
+    "companionTitle": "Orthodoxy (1908)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
+    "description": "Chesterton's historic debate with socialist editor Robert Blatchford in The Clarion, demolishing deterministic materialism and laying the intellectual groundwork for Heretics and Orthodoxy.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Opportunity of Free Thought"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Doubts of the Materialist"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. Determinism and Human Freedom"
+      },
+      {
+        "id": "ch-4",
+        "titleEn": "IV. Christianity and Rationalism"
+      },
+      {
+        "id": "ch-5",
+        "titleEn": "V. The Return to Dogma"
+      }
+    ]
+  },
+  "where-all-roads-lead": {
+    "id": "where-all-roads-lead",
+    "titleEn": "Where All Roads Lead",
+    "subtitle": "Essays on the Challenge of the Church and Conversion",
+    "year": 1922,
+    "category": "Christian Apologetics & Philosophy",
+    "companionSlug": "the-catholic-church-and-conversion",
+    "companionTitle": "The Catholic Church and Conversion (1926)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "Chesterton's first major philosophical essays written for Blackfriars following his conversion to Catholicism, exploring why all intellectual roads converge upon the Church of Rome.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Challenge of the Church"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Universal Pattern and the Modern Mind"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Logic of Conversion"
+      },
+      {
+        "id": "ch-4",
+        "titleEn": "IV. The Permanent Authority of Rome"
+      }
+    ]
+  },
+  "the-way-of-the-cross": {
+    "id": "the-way-of-the-cross",
+    "titleEn": "The Way of the Cross",
+    "subtitle": "Devotional Meditations on the Passion of Christ",
+    "year": 1935,
+    "category": "Christian Apologetics & Philosophy",
+    "companionSlug": "the-everlasting-man",
+    "companionTitle": "The Everlasting Man (1925)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's moving, profound devotional reflections on the fourteen Stations of the Cross, meditating on divine suffering, human weakness, and redemption.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Condemnation and the Sacred Burden"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Falls, the Women, and the Simon of Cyrene"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Crucifixion and the Light of the Tomb"
+      }
+    ]
+  },
+  "the-catholic-church-and-the-modern-state": {
+    "id": "the-catholic-church-and-the-modern-state",
+    "titleEn": "The Catholic Church and the Modern State",
+    "subtitle": "The Defense of Conscience and Family Against Totalitarianism",
+    "year": 1930,
+    "category": "Christian Apologetics & Philosophy",
+    "companionSlug": "the-thing",
+    "companionTitle": "The Thing: Why I Am a Catholic (1929)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "A prophetic treatise analyzing the growing threat of modern totalitarian statism and asserting the Church and the Family as the twin citadels of human liberty.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Totalitarian Leviathan"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Sovereignty of the Conscience"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Family as the Unconquerable Citadel"
+      }
+    ]
+  },
+  "the-new-unbelief": {
+    "id": "the-new-unbelief",
+    "titleEn": "The New Unbelief",
+    "subtitle": "Critique of Modern Skepticism, Scientism, and Spiritual Vacuum",
+    "year": 1928,
+    "category": "Christian Apologetics & Philosophy",
+    "companionSlug": "the-well-and-the-shallows",
+    "companionTitle": "The Well and the Shallows (1935)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's trenchant diagnosis of 20th-century secularism, demonstrating how modern skepticism has abandoned rationality in favor of vague superstitions and spiritual drift.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Dissolution of Old Skepticism"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Modern Superstition of Science"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Return of the Living Faith"
       }
     ]
   }
