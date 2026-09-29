@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>G.K. Chesterton — Open Digital Corpus & Reader</title>
+  
+  <meta name="theme-color" content="#8b2500">
+  <meta name="description" content="An open-access digital reader for the complete public domain works, Father Brown mysteries, Christian apologetics, metaphysical novels, and essays of G.K. Chesterton.">
+  
+  <!-- Typography & Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Cinzel:wght@600;700;900&family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/components.css">
+</head>
+<body>
+
+  <!-- Top Navigation Header -->
+  <header>
+    <div class="header-inner">
+      <div class="site-brand">
+        <button id="btn-back-home" class="btn" onclick="showMainPage()" title="Return to Main Catalog" aria-label="Return to Main Catalog" style="display:none;">
+          ← Main Catalog
+        </button>
+        <span class="brand-title" onclick="showMainPage()" style="cursor:pointer;" title="Return to Main Catalog">G.K. Chesterton</span>
+        <select id="work-select" class="work-select" onchange="switchWork(this.value)" aria-label="Select Work from Corpus"></select>
+      </div>
+
+      <div class="top-actions">
+        <button class="btn" onclick="openSearchModal()" title="Search Entire Corpus (Ctrl+K)" aria-label="Search Entire Corpus">
+          🔍 Search
+        </button>
+
+        <div class="btn-group mode-toggle-group" role="group" aria-label="Reading Mode">
+          <button class="btn active" id="btn-mode-study" onclick="setReadingMode('study')">Study Mode</button>
+          <button class="btn" id="btn-mode-book" onclick="setReadingMode('book')">Continuous Book</button>
+          <button class="btn" id="btn-mode-focus" onclick="setReadingMode('focus')">Focus</button>
+        </div>
+
+        <div class="btn-group reader-prefs-group" role="group" aria-label="Reading Preferences">
+          <button class="btn btn-icon" onclick="adjustFontSize(-1)" title="Decrease font size" aria-label="Decrease font size">A−</button>
+          <button class="btn btn-icon" onclick="adjustFontSize(1)" title="Increase font size" aria-label="Increase font size">A+</button>
+          <select id="theme-select" class="theme-select" onchange="setTheme(this.value)" title="Reading Theme" aria-label="Reading Theme">
+            <option value="light">📜 Paper</option>
+            <option value="sepia">🕯️ Sepia</option>
+            <option value="dark">🌙 Dark</option>
+            <option value="midnight">🌌 Midnight</option>
+          </select>
+          <button class="btn" id="btn-cite-work" onclick="openCitationModal()" title="Cite &amp; Export Work (Chicago, MLA, APA, BibTeX, Markdown)" aria-label="Cite and Export Work">🎓 Cite</button>
+        </div>
+
+        <button class="btn" onclick="toggleNotebook()" title="Personal Notebook &amp; Highlights" aria-label="Personal Notebook">
+          📝 Notes <span id="notes-badge" class="btn-badge">0</span>
+        </button>
+
+        <button class="btn" onclick="toggleGlossary()" title="Chestertonian Lexicon &amp; Concepts" aria-label="Chestertonian Lexicon">
+          📖 Glossary
+        </button>
+
+        <button class="btn" onclick="openArchivalModal()" title="Complete Oeuvre &amp; Archival Horizon" aria-label="Complete Oeuvre and Archives">
+          🏛️ Grand Oeuvre &amp; Archives
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Work Context & Companion Metadata Bar -->
+  <div class="meta-bar" id="meta-bar" style="display:none;">
+    <div class="meta-inner">
+      <div id="companion-indicator"></div>
+      <div id="work-details" class="text-muted"></div>
+      <div id="reader-edition-meta" class="reader-edition-meta text-muted">
+        <span class="edition-pulse" aria-hidden="true"></span>
+        <span>Public Domain Corpus Edition: <strong>September 2026</strong></span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Section Selector Navigation Bar -->
+  <div class="section-nav" id="section-nav" style="display:none;">
+    <div class="section-pills-row" id="section-pills"></div>
+    <div class="section-progress" id="section-progress"></div>
+  </div>
+
+  <!-- Main Landing & Master Catalog View -->
+  <div id="main-page-container" class="main-page-container">
+    <section class="hero-section">
+      <div class="hero-meta-row">
+        <div class="hero-badge">Public Domain Digital Corpus • 1874–1936</div>
+        <div class="last-updated-badge" title="Corpus build edition">
+          <span class="edition-pulse" aria-hidden="true"></span>
+          <span>Last Updated: <strong>September 29, 2026</strong></span>
+          <span class="last-updated-pill">Master Edition</span>
+        </div>
+      </div>
+      <h1 class="hero-title">G.K. Chesterton</h1>
+      <div class="hero-subtitle">The Prince of Paradox • Master of Mystery, Philosophy, &amp; Wonder</div>
+      <p class="hero-description">
+        An open-access, fully searchable digital edition of the complete public domain works of Gilbert Keith Chesterton. Featuring unabridged texts of the <em>Father Brown</em> mysteries, <em>Orthodoxy</em>, <em>The Man Who Was Thursday</em>, Distributist social philosophy, epic poetry, and an interactive Chestertonian philosophical lexicon.
+      </p>
+      <div class="corpus-legend">
+        <div class="legend-item">
+          <span class="legend-dot dot-complete">●</span>
+          <span><strong>Verified Public Domain Edition:</strong> 100% unabridged, categorized chapters, and contextual commentary.</span>
+        </div>
+        <div class="legend-item">
+          <span class="legend-dot" style="color:var(--accent);">★</span>
+          <span><strong>Interactive Study Mode:</strong> Thematic notes, personal annotations, full-text instant search, and citation exports.</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Curated Thematic Reading Itineraries -->
+    <section class="itineraries-section" aria-label="Curated Thematic Reading Paths">
+      <div class="itineraries-header">
+        <span class="itineraries-pill">Curated Pathways</span>
+        <h2 class="itineraries-title">Thematic Reading Itineraries</h2>
+        <p class="itineraries-desc">Structured reading itineraries connecting Chesterton’s foundational theological essays, detective inquiries, and satirical romances.</p>
+      </div>
+
+      <div class="itineraries-grid">
+        <!-- Itinerary 1: Paradox & Wonder -->
+        <div class="itinerary-card">
+          <div class="itinerary-badge">Philosophy &amp; Faith</div>
+          <h3 class="itinerary-name">The Logic of Wonder &amp; Christian Paradox</h3>
+          <p class="itinerary-text">Follow Chesterton’s intellectual voyage from skepticism to faith, exploring the 'Ethics of Elfland', the sanity of the poet, and the romance of orthodoxy.</p>
+          <div class="itinerary-steps">
+            <button class="itinerary-step" onclick="loadWork('orthodoxy', 'ch-2')">
+              <span class="step-num">1</span>
+              <span class="step-label"><em>Orthodoxy</em> (Ch. II: The Maniac &amp; Reason)</span>
+            </button>
+            <button class="itinerary-step" onclick="loadWork('orthodoxy', 'ch-4')">
+              <span class="step-num">2</span>
+              <span class="step-label"><em>Orthodoxy</em> (Ch. IV: The Ethics of Elfland)</span>
+            </button>
+            <button class="itinerary-step" onclick="loadWork('heretics', 'ch-1')">
+              <span class="step-num">3</span>
+              <span class="step-label"><em>Heretics</em> (Ch. I: The Landlady &amp; Cosmology)</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Itinerary 2: Father Brown -->
+        <div class="itinerary-card">
+          <div class="itinerary-badge">Detective Fiction</div>
+          <h3 class="itinerary-name">Father Brown: Moral Detective Mysteries</h3>
+          <p class="itinerary-text">Experience the quiet Essex priest outsmarting European master-thieves and arrogant scientists through spiritual empathy and understanding human sin.</p>
+          <div class="itinerary-steps">
+            <button class="itinerary-step" onclick="loadWork('the-innocence-of-father-brown', 'story-1')">
+              <span class="step-num">1</span>
+              <span class="step-label"><em>The Blue Cross</em> (Flambeau's Debut &amp; Hampstead Heath)</span>
+            </button>
+            <button class="itinerary-step" onclick="loadWork('the-innocence-of-father-brown', 'story-5')">
+              <span class="step-num">2</span>
+              <span class="step-label"><em>The Invisible Man</em> (Psychological Blindness)</span>
+            </button>
+            <button class="itinerary-step" onclick="loadWork('the-innocence-of-father-brown', 'story-9')">
+              <span class="step-num">3</span>
+              <span class="step-label"><em>The Hammer of God</em> (The Temptation of the Spire)</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Itinerary 3: Metaphysical Thrillers -->
+        <div class="itinerary-card">
+          <div class="itinerary-badge">Cosmic Fiction</div>
+          <h3 class="itinerary-name">Nightmares &amp; Cosmic Romances</h3>
+          <p class="itinerary-text">Infiltrate the Central Anarchist Council with Gabriel Syme or rally the shopkeepers of Notting Hill against bureaucratic uniformity.</p>
+          <div class="itinerary-steps">
+            <button class="itinerary-step" onclick="loadWork('the-man-who-was-thursday', 'ch-1')">
+              <span class="step-num">1</span>
+              <span class="step-label"><em>The Man Who Was Thursday</em> (The Two Poets of Saffron Park)</span>
+            </button>
+            <button class="itinerary-step" onclick="loadWork('the-man-who-was-thursday', 'ch-15')">
+              <span class="step-num">2</span>
+              <span class="step-label"><em>The Man Who Was Thursday</em> (The Great Feast of Sunday)</span>
+            </button>
+            <button class="itinerary-step" onclick="loadWork('the-napoleon-of-notting-hill', 'bk2')">
+              <span class="step-num">3</span>
+              <span class="step-label"><em>The Napoleon of Notting Hill</em> (Adam Wayne's Defiance)</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Itinerary 4: Distributism -->
+        <div class="itinerary-card">
+          <div class="itinerary-badge">Social Sanity</div>
+          <h3 class="itinerary-name">Distributism &amp; The Common Man</h3>
+          <p class="itinerary-text">Chesterton’s prophetic defense of small family property, the independence of the home, and local culture against both monopoly capitalism and state socialism.</p>
+          <div class="itinerary-steps">
+            <button class="itinerary-step" onclick="loadWork('whats-wrong-with-the-world', 'part1')">
+              <span class="step-num">1</span>
+              <span class="step-label"><em>What's Wrong with the World</em> (The Homelessness of Man)</span>
+            </button>
+            <button class="itinerary-step" onclick="loadWork('the-outline-of-sanity', 'bk1')">
+              <span class="step-num">2</span>
+              <span class="step-label"><em>The Outline of Sanity</em> (General Ideas on Distributism)</span>
+            </button>
+            <button class="itinerary-step" onclick="loadWork('tremendous-trifles', 'essay-3')">
+              <span class="step-num">3</span>
+              <span class="step-label"><em>Tremendous Trifles</em> (The Twelve Men on the Jury)</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Master Corpus Catalog Section -->
+    <section class="catalog-section">
+      <div class="catalog-header-row">
+        <div class="catalog-filters">
+          <button class="btn catalog-filter-btn active" data-filter="all" onclick="setCatalogFilter('all')">All Works</button>
+          <button class="btn catalog-filter-btn" data-filter="Christian Apologetics & Philosophy" onclick="setCatalogFilter('Christian Apologetics & Philosophy')">Apologetics & Philosophy</button>
+          <button class="btn catalog-filter-btn" data-filter="The Father Brown Mysteries" onclick="setCatalogFilter('The Father Brown Mysteries')">Father Brown Mysteries</button>
+          <button class="btn catalog-filter-btn" data-filter="Fantastic & Metaphysical Novels" onclick="setCatalogFilter('Fantastic & Metaphysical Novels')">Novels & Thrillers</button>
+          <button class="btn catalog-filter-btn" data-filter="Social Philosophy & Distributism" onclick="setCatalogFilter('Social Philosophy & Distributism')">Distributism & Society</button>
+          <button class="btn catalog-filter-btn" data-filter="Essays & Literary Criticism" onclick="setCatalogFilter('Essays & Literary Criticism')">Essays & Trifles</button>
+          <button class="btn catalog-filter-btn" data-filter="Epic Poetry & Ballads" onclick="setCatalogFilter('Epic Poetry & Ballads')">Epic Poetry & Ballads</button>
+        </div>
+        <input type="text" class="catalog-search-input" placeholder="Filter works by title or keyword..." oninput="handleCatalogSearch(this.value)">
+      </div>
+
+      <div class="corpus-grid" id="corpus-catalog-grid"></div>
+    </section>
+  </div>
+
+  <!-- Reader View Container -->
+  <div id="reader-container" class="reader-container" style="display:none;">
+    <div id="reader-blocks" class="reader-blocks"></div>
+  </div>
+
+  <!-- Text Selection Highlighter Popover -->
+  <div id="selection-popover">
+    <button onclick="applySelectionHighlight('yellow')" title="Highlight Yellow"><span class="hl-dot hl-dot-yellow"></span> Yellow</button>
+    <button onclick="applySelectionHighlight('amber')" title="Highlight Amber"><span class="hl-dot hl-dot-amber"></span> Amber</button>
+    <button onclick="applySelectionHighlight('green')" title="Highlight Green"><span class="hl-dot hl-dot-green"></span> Green</button>
+    <button onclick="applySelectionHighlight('blue')" title="Highlight Blue"><span class="hl-dot hl-dot-blue"></span> Blue</button>
+    <button onclick="promptAddNote()" title="Add Note">📝 Note</button>
+    <button onclick="copySelectedQuote()" title="Copy Quote">📋 Copy</button>
+  </div>
+
+  <!-- Search Modal Backdrop (Ctrl+K) -->
+  <div id="search-modal-backdrop" class="modal-backdrop" onclick="handleSearchBackdropClick(event)">
+    <div class="modal-dialog search-modal-dialog" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <h2 class="modal-title">🔍 Search Chesterton Corpus</h2>
+        <button class="modal-close-btn" onclick="closeSearchModal()" aria-label="Close modal">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="search-input-wrapper">
+          <span class="search-icon-pos">🔍</span>
+          <input type="text" id="global-search-input" class="search-input-large" placeholder="Search across all books, chapters, mysteries, and paradoxes (e.g. Father Brown, Elfland, Maniac)..." oninput="handleSearchInput()">
+        </div>
+        <div id="search-results-list" class="search-results-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Citation & Export Modal -->
+  <div id="citation-modal-backdrop" class="modal-backdrop" onclick="if(event.target.id === 'citation-modal-backdrop') closeCitationModal()">
+    <div class="modal-dialog" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <div>
+          <h2 class="modal-title">🎓 Academic Citation &amp; Export</h2>
+          <div id="citation-work-title" style="font-size:0.85rem; color:var(--text-muted); font-family:var(--font-sans);"></div>
+        </div>
+        <button class="modal-close-btn" onclick="closeCitationModal()" aria-label="Close modal">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="citation-tabs">
+          <button class="citation-tab active" id="tab-cite-chicago" onclick="selectCitationTab('chicago')">Chicago 17th</button>
+          <button class="citation-tab" id="tab-cite-mla" onclick="selectCitationTab('mla')">MLA 9th</button>
+          <button class="citation-tab" id="tab-cite-apa" onclick="selectCitationTab('apa')">APA 7th</button>
+          <button class="citation-tab" id="tab-cite-bibtex" onclick="selectCitationTab('bibtex')">BibTeX</button>
+        </div>
+
+        <div id="box-container-chicago" class="citation-box-wrapper">
+          <div class="citation-box" id="cite-box-chicago"></div>
+          <button class="btn" onclick="copyCitationText('chicago')">📋 Copy Chicago Citation</button>
+        </div>
+
+        <div id="box-container-mla" class="citation-box-wrapper" style="display:none;">
+          <div class="citation-box" id="cite-box-mla"></div>
+          <button class="btn" onclick="copyCitationText('mla')">📋 Copy MLA Citation</button>
+        </div>
+
+        <div id="box-container-apa" class="citation-box-wrapper" style="display:none;">
+          <div class="citation-box" id="cite-box-apa"></div>
+          <button class="btn" onclick="copyCitationText('apa')">📋 Copy APA Citation</button>
+        </div>
+
+        <div id="box-container-bibtex" class="citation-box-wrapper" style="display:none;">
+          <div class="citation-box"><pre id="cite-box-bibtex"></pre></div>
+          <button class="btn" onclick="copyCitationText('bibtex')">📋 Copy BibTeX Entry</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Grand Oeuvre & Archival Horizon Modal -->
+  <div id="archival-modal-backdrop" class="modal-backdrop" onclick="if(event.target.id === 'archival-modal-backdrop') closeArchivalModal()">
+    <div class="modal-dialog" style="max-width:900px;" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <div>
+          <h2 class="modal-title">🏛️ Grand Oeuvre &amp; Archival Horizon</h2>
+          <div style="font-size:0.85rem; color:var(--text-muted); font-family:var(--font-sans);">
+            Complete Lifetime Bibliography of G.K. Chesterton (Over 80 Books, 4,000 Columns, Poetry &amp; Broadcasts)
+          </div>
+        </div>
+        <button class="modal-close-btn" onclick="closeArchivalModal()" aria-label="Close modal">✕</button>
+      </div>
+      <div class="modal-body">
+        <table class="archival-table">
+          <thead>
+            <tr>
+              <th>Year</th>
+              <th>Title</th>
+              <th>Genre</th>
+              <th>Publisher</th>
+              <th>Corpus Status</th>
+            </tr>
+          </thead>
+          <tbody id="archival-table-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Glossary Side Drawer -->
+  <div id="glossary-drawer" class="side-drawer">
+    <div class="drawer-header">
+      <h3 class="drawer-title">📖 Chestertonian Lexicon</h3>
+      <button class="modal-close-btn" onclick="toggleGlossary()" aria-label="Close Glossary">✕</button>
+    </div>
+    <div style="padding: 1rem 1.5rem 0.5rem; border-bottom: 1px solid var(--border-color);">
+      <input type="text" id="glossary-search-input" class="catalog-search-input" style="width:100%;" placeholder="Search concepts (e.g. Distributism, Fence)..." oninput="renderGlossaryList(this.value)">
+    </div>
+    <div class="drawer-body" id="glossary-items-container"></div>
+  </div>
+
+  <!-- Personal Notebook Side Drawer -->
+  <div id="notebook-drawer" class="side-drawer">
+    <div class="drawer-header">
+      <h3 class="drawer-title">📝 Personal Notebook</h3>
+      <button class="modal-close-btn" onclick="toggleNotebook()" aria-label="Close Notebook">✕</button>
+    </div>
+    <div style="padding: 0.75rem 1.5rem; border-bottom: 1px solid var(--border-color); display:flex; justify-content:space-between; align-items:center;">
+      <span style="font-size:0.8rem; color:var(--text-muted); font-family:var(--font-sans);">Saved quotes &amp; reflections</span>
+      <button class="btn btn-icon" onclick="exportNotebookMarkdown()" title="Export Notes as Markdown" style="font-size:0.75rem; padding:0.25rem 0.5rem;">
+        📥 Export Markdown
+      </button>
+    </div>
+    <div class="drawer-body" id="notebook-items-container"></div>
+  </div>
+
+  <!-- Floating Toast Notifications Container -->
+  <div id="toast-container"></div>
+
+  <!-- Core Data Scripts -->
+  <script src="data/corpus.js"></script>
+  <script src="data/glossary.js"></script>
+  <script src="data/archival_catalog.js"></script>
+
+  <!-- Work Data Files -->
+  <script src="data/works/orthodoxy.js"></script>
+  <script src="data/works/the-innocence-of-father-brown.js"></script>
+  <script src="data/works/the-man-who-was-thursday.js"></script>
+  <script src="data/works/heretics.js"></script>
+  <script src="data/works/whats-wrong-with-the-world.js"></script>
+  <script src="data/works/the-ballad-of-the-white-horse.js"></script>
+  <script src="data/works/tremendous-trifles.js"></script>
+  <script src="data/works/the-defendant.js"></script>
+  <script src="data/works/the-everlasting-man.js"></script>
+  <script src="data/works/the-club-of-queer-trades.js"></script>
+  <script src="data/works/st-francis-of-assisi.js"></script>
+  <script src="data/works/st-thomas-aquinas.js"></script>
+  <script src="data/works/the-wisdom-of-father-brown.js"></script>
+  <script src="data/works/the-napoleon-of-notting-hill.js"></script>
+  <script src="data/works/the-outline-of-sanity.js"></script>
+
+  <!-- Engine Scripts -->
+  <script src="js/reader.js"></script>
+  <script src="js/notes.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
