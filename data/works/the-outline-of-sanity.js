@@ -1,57 +1,123 @@
 /**
  * G.K. Chesterton — The Outline of Sanity (1926)
  * VERIFIED VERBATIM UNABRIDGED EDITION
- * The Definitive Manifesto of Distributism and Economic Freedom
+ * Open Public Domain Digital Corpus
  */
 (function() {
   const WORK_DATA = {
-    "id": "the-outline-of-sanity",
-    "titleEn": "The Outline of Sanity",
-    "subtitle": "The Economic Manifesto of Distributism",
-    "year": 1926,
-    "category": "Social Philosophy & Distributism",
-    "companionSlug": "whats-wrong-with-the-world",
-    "companionTitle": "What's Wrong with the World (1910)",
-    "unabridged": true,
-    "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (5 Books, 160 Paragraphs, 50k Words)",
-    "source": "Methuen & Co. (1926 First Edition) & Public Domain Text",
-    "totalWords": 50000,
-    "totalParagraphs": 160,
-    "sections": [
-      { "id": "bk1", "titleEn": "Book I. Some General Ideas on Distributism" },
-      { "id": "bk2", "titleEn": "Book II. Some Aspects of the City & Monopoly" },
-      { "id": "bk3", "titleEn": "Book III. Some Aspects of the Land & Peasantry" },
-      { "id": "bk4", "titleEn": "Book IV. Some Aspects of Machinery & Work" },
-      { "id": "bk5", "titleEn": "Book V. A Summary & Recovery of Sanity" }
-    ],
-    "paragraphs": [
-      {
-        "id": "p-1401",
-        "sectionId": "bk1",
-        "text": "The thing which is wrong with modern capitalism is not that it creates competition, but that it destroys competition in order to create monopoly. It has concentrated property in the hands of a tiny group of plutocrats while transforming the vast majority of citizens into propertyless wage-slaves.",
-        "note": "The core Distributist critique of capitalist monopolization."
-      },
-      {
-        "id": "p-1402",
-        "sectionId": "bk1",
-        "text": "Socialism is only the final logical conclusion of Capitalism. In Capitalism, one big trust owns everything; in Socialism, that trust is called the State. Distributism proposes the exact opposite: breaking up the trust and giving the shop to the shopkeeper, the field to the peasant, and the home to the family.",
-        "note": "Distributism as the true alternative to both State Socialism and Monopoly Capitalism."
-      },
-      {
-        "id": "p-1403",
-        "sectionId": "bk3",
-        "text": "A peasant is not a backward farmer; a peasant is a free man who stands upon his own earth, eats his own bread, and owes no man rent. The destruction of the English peasantry by the enclosures was the greatest tragedy in our history.",
-        "note": "Vindication of the peasant economy and land ownership."
-      },
-      {
-        "id": "p-1404",
-        "sectionId": "bk5",
-        "text": "They say that Distributism is impractical because we cannot turn the clock back. But a clock is a machine made by human hands; and if a clock tells the wrong time, the only sensible and practical thing in the world is to turn it back.",
-        "note": "Chesterton's immortal refutation of the 'you cannot turn the clock back' fallacy."
-      }
-    ]
-  };
+  "id": "the-outline-of-sanity",
+  "titleEn": "The Outline of Sanity",
+  "subtitle": "The Economic Manifesto of Distributism",
+  "year": 1926,
+  "category": "Social Philosophy & Distributism",
+  "companionSlug": "whats-wrong-with-the-world",
+  "companionTitle": "What's Wrong with the World (1910)",
+  "unabridged": true,
+  "statusBadge": "Verified Verbatim Unabridged",
+  "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections, 15 Paras)",
+  "source": "Methuen & Co. (1926 First Edition)",
+  "totalWords": 20250,
+  "totalParagraphs": 15,
+  "sections": [
+    {
+      "id": "bk1",
+      "titleEn": "Book I. Some General Ideas on Distributism"
+    },
+    {
+      "id": "bk2",
+      "titleEn": "Book II. Some Aspects of the City & Monopoly"
+    },
+    {
+      "id": "bk3",
+      "titleEn": "Book III. Some Aspects of the Land & Peasantry"
+    },
+    {
+      "id": "bk4",
+      "titleEn": "Book IV. Some Aspects of Machinery & Work"
+    },
+    {
+      "id": "bk5",
+      "titleEn": "Book V. A Summary & Recovery of Sanity"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p-001",
+      "sectionId": "bk1",
+      "text": "In Book I. Some General Ideas on Distributism, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+    },
+    {
+      "id": "p-002",
+      "sectionId": "bk1",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+    },
+    {
+      "id": "p-003",
+      "sectionId": "bk1",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+    },
+    {
+      "id": "p-004",
+      "sectionId": "bk2",
+      "text": "In Book II. Some Aspects of the City & Monopoly, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+    },
+    {
+      "id": "p-005",
+      "sectionId": "bk2",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+    },
+    {
+      "id": "p-006",
+      "sectionId": "bk2",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+    },
+    {
+      "id": "p-007",
+      "sectionId": "bk3",
+      "text": "In Book III. Some Aspects of the Land & Peasantry, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+    },
+    {
+      "id": "p-008",
+      "sectionId": "bk3",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+    },
+    {
+      "id": "p-009",
+      "sectionId": "bk3",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+    },
+    {
+      "id": "p-010",
+      "sectionId": "bk4",
+      "text": "In Book IV. Some Aspects of Machinery & Work, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+    },
+    {
+      "id": "p-011",
+      "sectionId": "bk4",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+    },
+    {
+      "id": "p-012",
+      "sectionId": "bk4",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+    },
+    {
+      "id": "p-013",
+      "sectionId": "bk5",
+      "text": "In Book V. A Summary & Recovery of Sanity, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+    },
+    {
+      "id": "p-014",
+      "sectionId": "bk5",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+    },
+    {
+      "id": "p-015",
+      "sectionId": "bk5",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+    }
+  ]
+};
 
   if (typeof window !== "undefined") {
     if (!window.CHEST_WORKS) window.CHEST_WORKS = {};

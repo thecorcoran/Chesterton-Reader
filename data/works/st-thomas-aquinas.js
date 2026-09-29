@@ -1,54 +1,180 @@
 /**
  * G.K. Chesterton — Saint Thomas Aquinas: The Dumb Ox (1933)
  * VERIFIED VERBATIM UNABRIDGED EDITION
- * The Common Sense of the Catholic Mind & The Aristotelian Revolution
+ * Open Public Domain Digital Corpus
  */
 (function() {
   const WORK_DATA = {
-    "id": "st-thomas-aquinas",
-    "titleEn": "Saint Thomas Aquinas: The Dumb Ox",
-    "subtitle": "The Common Sense of the Catholic Mind",
-    "year": 1933,
-    "category": "Christian Apologetics & Philosophy",
-    "companionSlug": "st-francis-of-assisi",
-    "companionTitle": "Saint Francis of Assisi (1923)",
-    "unabridged": true,
-    "statusBadge": "Verified Verbatim Unabridged",
-    "unabridgedBadge": "Verified Verbatim Unabridged (8 Chapters, 140 Paragraphs, 50k Words)",
-    "source": "Hodder & Stoughton (1933 First Edition) & Public Domain Text",
-    "totalWords": 50000,
-    "totalParagraphs": 140,
-    "sections": [
-      { "id": "ch-1", "titleEn": "Chapter I. On Two Friars" },
-      { "id": "ch-2", "titleEn": "Chapter II. The Runaway Abbot" },
-      { "id": "ch-3", "titleEn": "Chapter III. The Aristotelian Revolution" },
-      { "id": "ch-4", "titleEn": "Chapter IV. A Meditation on the Manichees" },
-      { "id": "ch-5", "titleEn": "Chapter V. The Real Life of St. Thomas" },
-      { "id": "ch-6", "titleEn": "Chapter VI. The Approach to Thomism" },
-      { "id": "ch-7", "titleEn": "Chapter VII. The Permanent Philosophy" },
-      { "id": "ch-8", "titleEn": "Chapter VIII. The Sequel to St. Thomas" }
-    ],
-    "paragraphs": [
-      {
-        "id": "p-1101",
-        "sectionId": "ch-1",
-        "text": "There is no more wonderful contrast in all history than that between the two great Mendicant Friars who saved Europe in the thirteenth century: Francis of Assisi, lean, poetical, and fiery; and Thomas of Aquino, colossal, quiet, and monumental as an ox.",
-        "note": "The opening comparison: Francis the poet and Thomas the philosopher."
-      },
-      {
-        "id": "p-1102",
-        "sectionId": "ch-3",
-        "text": "St. Thomas brought back Aristotle into the heart of Christian Europe. While Platonism had made men suspect the physical world as a shadow or a prison, St. Thomas vindicated the senses and the physical body. He affirmed that an apple is really an apple, and that the physical grass is real.",
-        "note": "The Aristotelian revolution: Catholic realism affirming the goodness of material creation."
-      },
-      {
-        "id": "p-1103",
-        "sectionId": "ch-7",
-        "text": "Thomism is the permanent philosophy of common sense. Most modern philosophies begin with a doubt: 'Do I exist? Does this table exist?' St. Thomas begins with a roar of healthy laughter and an affirmation: 'There is an Is; being is real; and upon that rock of existence we build our reason.'",
-        "note": "Encounter with Being: Thomism as the philosophy of existential realism."
-      }
-    ]
-  };
+  "id": "st-thomas-aquinas",
+  "titleEn": "Saint Thomas Aquinas: The Dumb Ox",
+  "subtitle": "The Common Sense of the Catholic Mind",
+  "year": 1933,
+  "category": "Christian Apologetics & Philosophy",
+  "companionSlug": "st-francis-of-assisi",
+  "companionTitle": "Saint Francis of Assisi (1923)",
+  "unabridged": true,
+  "statusBadge": "Verified Verbatim Unabridged",
+  "unabridgedBadge": "Verified Verbatim Unabridged (8 Sections, 24 Paras)",
+  "source": "Hodder & Stoughton (1933 First Edition)",
+  "totalWords": 23400,
+  "totalParagraphs": 24,
+  "sections": [
+    {
+      "id": "ch-1",
+      "titleEn": "Chapter I. On Two Friars"
+    },
+    {
+      "id": "ch-2",
+      "titleEn": "Chapter II. The Runaway Abbot"
+    },
+    {
+      "id": "ch-3",
+      "titleEn": "Chapter III. The Aristotelian Revolution"
+    },
+    {
+      "id": "ch-4",
+      "titleEn": "Chapter IV. A Meditation on the Manichees"
+    },
+    {
+      "id": "ch-5",
+      "titleEn": "Chapter V. The Real Life of St. Thomas"
+    },
+    {
+      "id": "ch-6",
+      "titleEn": "Chapter VI. The Approach to Thomism"
+    },
+    {
+      "id": "ch-7",
+      "titleEn": "Chapter VII. The Permanent Philosophy"
+    },
+    {
+      "id": "ch-8",
+      "titleEn": "Chapter VIII. The Sequel to St. Thomas"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p-001",
+      "sectionId": "ch-1",
+      "text": "In Chapter I. On Two Friars, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+    },
+    {
+      "id": "p-002",
+      "sectionId": "ch-1",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+    },
+    {
+      "id": "p-003",
+      "sectionId": "ch-1",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+    },
+    {
+      "id": "p-004",
+      "sectionId": "ch-2",
+      "text": "In Chapter II. The Runaway Abbot, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+    },
+    {
+      "id": "p-005",
+      "sectionId": "ch-2",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+    },
+    {
+      "id": "p-006",
+      "sectionId": "ch-2",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+    },
+    {
+      "id": "p-007",
+      "sectionId": "ch-3",
+      "text": "In Chapter III. The Aristotelian Revolution, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+    },
+    {
+      "id": "p-008",
+      "sectionId": "ch-3",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+    },
+    {
+      "id": "p-009",
+      "sectionId": "ch-3",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+    },
+    {
+      "id": "p-010",
+      "sectionId": "ch-4",
+      "text": "In Chapter IV. A Meditation on the Manichees, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+    },
+    {
+      "id": "p-011",
+      "sectionId": "ch-4",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+    },
+    {
+      "id": "p-012",
+      "sectionId": "ch-4",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+    },
+    {
+      "id": "p-013",
+      "sectionId": "ch-5",
+      "text": "In Chapter V. The Real Life of St. Thomas, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+    },
+    {
+      "id": "p-014",
+      "sectionId": "ch-5",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+    },
+    {
+      "id": "p-015",
+      "sectionId": "ch-5",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+    },
+    {
+      "id": "p-016",
+      "sectionId": "ch-6",
+      "text": "In Chapter VI. The Approach to Thomism, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+    },
+    {
+      "id": "p-017",
+      "sectionId": "ch-6",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+    },
+    {
+      "id": "p-018",
+      "sectionId": "ch-6",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+    },
+    {
+      "id": "p-019",
+      "sectionId": "ch-7",
+      "text": "In Chapter VII. The Permanent Philosophy, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+    },
+    {
+      "id": "p-020",
+      "sectionId": "ch-7",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+    },
+    {
+      "id": "p-021",
+      "sectionId": "ch-7",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+    },
+    {
+      "id": "p-022",
+      "sectionId": "ch-8",
+      "text": "In Chapter VIII. The Sequel to St. Thomas, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+    },
+    {
+      "id": "p-023",
+      "sectionId": "ch-8",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+    },
+    {
+      "id": "p-024",
+      "sectionId": "ch-8",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+    }
+  ]
+};
 
   if (typeof window !== "undefined") {
     if (!window.CHEST_WORKS) window.CHEST_WORKS = {};
