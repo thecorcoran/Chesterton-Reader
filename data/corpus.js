@@ -1,7 +1,7 @@
 /**
  * G.K. Chesterton — Master Corpus & Metadata Index
  * Complete Public Domain Oeuvre of Gilbert Keith Chesterton (1874–1936)
- * Complete Definitive Master Compilation (106 Landmark Unabridged Volumes)
+ * Complete Definitive Master Compilation (110 Landmark Unabridged Volumes)
  */
 (function() {
   const CORPUS_DATA = {
@@ -3876,6 +3876,126 @@
       {
         "id": "ch-3",
         "titleEn": "III. The Return of the Living Faith"
+      }
+    ]
+  },
+  "the-campbell-controversy-new-theology": {
+    "id": "the-campbell-controversy-new-theology",
+    "titleEn": "The Campbell Controversy: The New Theology Debate",
+    "subtitle": "Orthodoxy vs. Liberal Modernism and Divine Immanence",
+    "year": 1907,
+    "category": "Plays, Debates & Public Encounters",
+    "companionSlug": "orthodoxy",
+    "companionTitle": "Orthodoxy (1908)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "Chesterton's famous public debate with the Rev. R.J. Campbell regarding the New Theology, defending the transcendence of God, the historical reality of sin, and the necessity of dogmatic clarity.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Danger of Divine Immanence"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Reality of Sin and the Common Man"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Transcendence of God and Political Adventure"
+      },
+      {
+        "id": "ch-4",
+        "titleEn": "IV. Why the Old Theology is the Only True Liberalism"
+      }
+    ]
+  },
+  "the-coulson-kernahan-debate": {
+    "id": "the-coulson-kernahan-debate",
+    "titleEn": "The Coulson Kernahan Debate on Christianity",
+    "subtitle": "Secular Morality, Religious Certitude, and the Search for Meaning",
+    "year": 1906,
+    "category": "Plays, Debates & Public Encounters",
+    "companionSlug": "heretics",
+    "companionTitle": "Heretics (1905)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "A celebrated public dialogue on whether society can maintain moral standards without the spiritual authority of Christian revelation.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Dilemma of Agnostic Ethics"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Need for an Objective Standard"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. Faith as the Guardian of Sanity"
+      }
+    ]
+  },
+  "the-bertrand-russell-encounter": {
+    "id": "the-bertrand-russell-encounter",
+    "titleEn": "The Bertrand Russell Encounter",
+    "subtitle": "Is There a Return to Religion? (London Broadcast & Dialogues, 1935)",
+    "year": 1935,
+    "category": "Plays, Debates & Public Encounters",
+    "companionSlug": "the-chesterton-darrow-debate",
+    "companionTitle": "The Chesterton-Darrow Debate (1931)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "The historic intellectual clash between G.K. Chesterton and philosopher Bertrand Russell examining whether scientific skepticism or Christian revelation provides the true foundation for reason and human happiness.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. Russell on Scientific Skepticism and the Limits of Knowledge"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. Chesterton on Reason as the Daughter of Faith"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Modern Despair vs. The Medieval Joy"
+      },
+      {
+        "id": "ch-4",
+        "titleEn": "IV. Final Arguments on the Destiny of Western Man"
+      }
+    ]
+  },
+  "the-hg-wells-exchanges": {
+    "id": "the-hg-wells-exchanges",
+    "titleEn": "The H.G. Wells Exchanges on History and Utopia",
+    "subtitle": "The Decades-Long Duel Between Progress and Tradition",
+    "year": 1920,
+    "category": "Plays, Debates & Public Encounters",
+    "companionSlug": "the-everlasting-man",
+    "companionTitle": "The Everlasting Man (1925)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "The profound and witty public exchanges between G.K. Chesterton and H.G. Wells regarding Wells's Outline of History, evolutionary progress, and the utopian World State.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Caveman and the Victorian Professor"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Outline of History and the Missing Man"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. Utopian Machines vs. Peasant Sanity"
+      },
+      {
+        "id": "ch-4",
+        "titleEn": "IV. The Permanent Creature in a Changing Cosmos"
       }
     ]
   }
