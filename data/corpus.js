@@ -1,7 +1,7 @@
 /**
  * G.K. Chesterton — Master Corpus & Metadata Index
  * Complete Public Domain Oeuvre of Gilbert Keith Chesterton (1874–1936)
- * Complete Definitive Master Compilation (59 Landmark Unabridged Volumes)
+ * Complete Definitive Master Compilation (71 Landmark Unabridged Volumes)
  */
 (function() {
   const CORPUS_DATA = {
@@ -303,7 +303,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (10 Sections)",
-    "description": "A collection of 34 essays defending his conversion to Catholicism, containing the famous origin of 'Chesterton's Fence' and incisive critiques of modern secularism.",
+    "description": "A collection of 34 essays defending his conversion to Catholicism, containing the famous origin of 'Chesterton's Fence'.",
     "sections": [
       {
         "id": "ch-1",
@@ -393,7 +393,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Chesterton’s final theological essay collection, defending Catholic realism against modern fads, totalitarianism, and shallow philosophies.",
+    "description": "Chesterton’s final theological essay collection, defending Catholic realism against modern fads and shallow philosophies.",
     "sections": [
       {
         "id": "ch-1",
@@ -428,7 +428,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "A profound theological travelogue of Jerusalem, exploring the Crusades, Islamic thought, Jewish return, and the eternal roots of Christendom.",
+    "description": "A profound theological travelogue of Jerusalem, exploring the Crusades, Islamic thought, and the eternal roots of Christendom.",
     "sections": [
       {
         "id": "ch-1",
@@ -463,7 +463,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "A cultural, historical, and spiritual study of Rome, tracing its rise from the Caesars through the Catacombs, the Papacy, and its perpetual resurrection.",
+    "description": "A cultural, historical, and spiritual study of Rome and its perpetual resurrection across the ages.",
     "sections": [
       {
         "id": "ch-1",
@@ -498,7 +498,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (12 Sections)",
-    "description": "The debut collection introducing Father Brown, the quiet Roman Catholic priest whose profound understanding of human nature and sin solves seemingly impossible crimes.",
+    "description": "The debut collection introducing Father Brown, the quiet Roman Catholic priest who solves seemingly impossible crimes.",
     "sections": [
       {
         "id": "story-1",
@@ -561,7 +561,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (12 Sections)",
-    "description": "The second classic Father Brown collection, exploring crimes that hinge on psychological paradoxes, mechanical illusions, and hidden motives.",
+    "description": "The second classic Father Brown collection, exploring crimes that hinge on psychological paradoxes.",
     "sections": [
       {
         "id": "story-1",
@@ -624,7 +624,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (8 Sections)",
-    "description": "Eight stories where Father Brown unmasks seemingly supernatural miracles, curses, and magical occurrences through rigorous common sense.",
+    "description": "Eight stories where Father Brown unmasks seemingly supernatural miracles and curses through strict common sense.",
     "sections": [
       {
         "id": "story-1",
@@ -671,7 +671,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (10 Sections)",
-    "description": "Framed around Father Brown explaining his inner method of moral identification to an American visitor at Flambeau's Spanish estate.",
+    "description": "Framed around Father Brown explaining his inner method of moral identification to an American visitor.",
     "sections": [
       {
         "id": "intro",
@@ -773,7 +773,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (15 Sections)",
-    "description": "A celebrated metaphysical thriller in which poet-detective Gabriel Syme infiltrates the secret Central Anarchist Council, leading to an allegorical confrontation with Sunday.",
+    "description": "A celebrated metaphysical thriller in which poet-detective Gabriel Syme infiltrates the Central Anarchist Council.",
     "sections": [
       {
         "id": "ch-1",
@@ -848,7 +848,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (6 Sections)",
-    "description": "Chesterton’s first novel, depicting a futuristic London where local boroughs revive medieval heraldry and Adam Wayne takes up arms to defend Notting Hill.",
+    "description": "Chesterton’s first novel, depicting a futuristic London where local boroughs revive medieval heraldry.",
     "sections": [
       {
         "id": "prologue",
@@ -887,7 +887,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (6 Sections)",
-    "description": "A collection of delightful mysteries featuring retired judge Basil Grant, investigating an exclusive club whose members must invent an entirely original trade.",
+    "description": "A collection of delightful mysteries featuring retired judge Basil Grant and unique vocations.",
     "sections": [
       {
         "id": "story-1",
@@ -973,7 +973,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "The eccentric adventures of Innocent Smith, who breaks into his own house, elopes repeatedly with his own wife, and forces tired modern men to fall in love with life again.",
+    "description": "The eccentric adventures of Innocent Smith, who forces tired modern men to fall in love with life again.",
     "sections": [
       {
         "id": "part1-ch1",
@@ -1008,7 +1008,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "A satirical romance championing traditional English taverns and liberty against prohibitionists, featuring Captain Patrick Dalroy and Humphrey Pump.",
+    "description": "A satirical romance championing traditional English taverns and liberty against prohibitionists.",
     "sections": [
       {
         "id": "ch-1",
@@ -1043,7 +1043,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "A quiet librarian is cast as a medieval king in an aristocratic play and decides to take his vows seriously, reviving guild law and chivalry in modern England.",
+    "description": "A quiet librarian is cast as a medieval king in a play and decides to enforce medieval law in modern England.",
     "sections": [
       {
         "id": "ch-1",
@@ -1078,7 +1078,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (8 Sections)",
-    "description": "Eight mysteries solved by landscape painter and poet Gabriel Gale, who understands dangerous psychological manias because of his spiritual intuition.",
+    "description": "Eight mysteries solved by landscape painter and poet Gabriel Gale.",
     "sections": [
       {
         "id": "story-1",
@@ -1125,7 +1125,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Four novellas in which honorable people commit apparent crimes (murder, quackery, theft, treason) to prevent far greater moral evils.",
+    "description": "Four novellas in which honorable people commit apparent crimes to prevent far greater moral evils.",
     "sections": [
       {
         "id": "prologue",
@@ -1160,7 +1160,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (8 Sections)",
-    "description": "Eight paradox-detective stories starring Mr. Pond, an unassuming civil servant who solves impossible crimes that begin with verbal contradictions.",
+    "description": "Eight paradox-detective stories starring Mr. Pond solving impossible crimes.",
     "sections": [
       {
         "id": "story-1",
@@ -1207,7 +1207,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Eight interconnected stories in which Distributist rebels fulfill proverbial impossibilities (eating their hats, making pigs fly, setting the Thames on fire).",
+    "description": "Eight interconnected stories in which Distributist rebels fulfill proverbial impossibilities.",
     "sections": [
       {
         "id": "story-1",
@@ -1242,7 +1242,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
-    "description": "A gothic mystery set on the cliffs of Cornwall, where foreign trees said to bring deadly curses surround an old estate.",
+    "description": "A gothic mystery set on the cliffs of Cornwall.",
     "sections": [
       {
         "id": "ch-1",
@@ -1273,7 +1273,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (8 Sections)",
-    "description": "Eight mysteries featuring Horne Fisher, an aristocratic sleuth whose knowledge of the political elite allows him to solve state secrets.",
+    "description": "Eight mysteries featuring Horne Fisher, an aristocratic sleuth.",
     "sections": [
       {
         "id": "story-1",
@@ -1320,7 +1320,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Chesterton’s foundational social treatise exposing the failures of industrial capitalism and state socialism, defending the freedom of the family and distributed property.",
+    "description": "Chesterton’s foundational social treatise defending the freedom of the family and distributed property.",
     "sections": [
       {
         "id": "part1",
@@ -1355,7 +1355,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "The definitive exposition of Distributist economic theory, arguing for widespread private property, local crafts, family farming, and decentralization.",
+    "description": "The definitive exposition of Distributist economic theory.",
     "sections": [
       {
         "id": "bk1",
@@ -1390,7 +1390,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "A prescient philosophical refutation of eugenics, forced sterilisation, state overreach, and scientism.",
+    "description": "A prescient philosophical refutation of eugenics and scientism.",
     "sections": [
       {
         "id": "ch-1",
@@ -1425,7 +1425,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Fierce attacks on financial oligarchies, commercial advertizing, and the capitalist degradation of art and family life.",
+    "description": "Fierce attacks on financial oligarchies and commercial advertizing.",
     "sections": [
       {
         "id": "ch-1",
@@ -1460,7 +1460,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "A sociological and philosophical defense of lifelong marriage as the essential bulwark protecting the family and society against state domination.",
+    "description": "A defense of lifelong marriage as the essential bulwark protecting the family.",
     "sections": [
       {
         "id": "ch-1",
@@ -1495,7 +1495,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
-    "description": "Chesterton’s reflections on Ireland following his visit in 1918, praising the Irish peasant economy as a living model of Distributism.",
+    "description": "Chesterton’s reflections on the Irish peasant economy as a living model of Distributism.",
     "sections": [
       {
         "id": "ch-1",
@@ -1515,6 +1515,154 @@
       }
     ]
   },
+  "our-note-book-illustrated-london-news": {
+    "id": "our-note-book-illustrated-london-news",
+    "titleEn": "Our Note Book: The Illustrated London News Essays",
+    "subtitle": "Thirty-One Years of Weekly Columns (1905–1936)",
+    "year": 1905,
+    "category": "Periodicals, Journalism & Broadcasts",
+    "companionSlug": "daily-news-essays",
+    "companionTitle": "The Daily News Essays (1902–1913)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (7 Sections)",
+    "description": "Chesterton’s legendary 31-year weekly column in The Illustrated London News.",
+    "sections": [
+      {
+        "id": "iln-1905",
+        "titleEn": "I. First Notes & The Philosophy of Current Events (1905)"
+      },
+      {
+        "id": "iln-1908",
+        "titleEn": "II. On Logic, Crime, and Fairy Tales (1908)"
+      },
+      {
+        "id": "iln-1912",
+        "titleEn": "III. On Property, Sanity, and the Servile State (1912)"
+      },
+      {
+        "id": "iln-1915",
+        "titleEn": "IV. Wartime Reflections & The Soul of England (1915)"
+      },
+      {
+        "id": "iln-1922",
+        "titleEn": "V. Post-War Illusions and Modern Fashion (1922)"
+      },
+      {
+        "id": "iln-1929",
+        "titleEn": "VI. On Orthodoxy and the Modern Skeptic (1929)"
+      },
+      {
+        "id": "iln-1936",
+        "titleEn": "VII. Final Musings and The Last Word (1936)"
+      }
+    ]
+  },
+  "daily-news-essays": {
+    "id": "daily-news-essays",
+    "titleEn": "The Daily News Essays & Saturday Columns",
+    "subtitle": "Fleet Street Columns that Revolutionized English Journalism (1902–1913)",
+    "year": 1902,
+    "category": "Periodicals, Journalism & Broadcasts",
+    "companionSlug": "our-note-book-illustrated-london-news",
+    "companionTitle": "Our Note Book (1905–1936)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
+    "description": "The sparkling Saturday columns that made Chesterton a national household name.",
+    "sections": [
+      {
+        "id": "dn-1",
+        "titleEn": "I. The Romance of Fleet Street"
+      },
+      {
+        "id": "dn-2",
+        "titleEn": "II. On Running After One's Hat & Everyday Adventures"
+      },
+      {
+        "id": "dn-3",
+        "titleEn": "III. The Twelve Men & Trial by Jury"
+      },
+      {
+        "id": "dn-4",
+        "titleEn": "IV. The Defense of Penny Dreadfuls & Popular Literature"
+      },
+      {
+        "id": "dn-5",
+        "titleEn": "V. On Public Houses, Common Lands, and Peasant Liberty"
+      }
+    ]
+  },
+  "gks-weekly-and-distributist-essays": {
+    "id": "gks-weekly-and-distributist-essays",
+    "titleEn": "G.K.'s Weekly: The Distributist Essays",
+    "subtitle": "The Voice of the Distributist League (1925–1936)",
+    "year": 1925,
+    "category": "Periodicals, Journalism & Broadcasts",
+    "companionSlug": "the-outline-of-sanity",
+    "companionTitle": "The Outline of Sanity (1926)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
+    "description": "Chesterton’s fiery editorial essays in his self-founded weekly review.",
+    "sections": [
+      {
+        "id": "gkw-1",
+        "titleEn": "I. The Manifesto of G.K.'s Weekly"
+      },
+      {
+        "id": "gkw-2",
+        "titleEn": "II. Against the Monopolies and Industrial Trusts"
+      },
+      {
+        "id": "gkw-3",
+        "titleEn": "III. The League for the Restoration of Liberty"
+      },
+      {
+        "id": "gkw-4",
+        "titleEn": "IV. The Defense of the Small Shop and Family Farm"
+      },
+      {
+        "id": "gkw-5",
+        "titleEn": "V. The Recovery of Sanity and Real Property"
+      }
+    ]
+  },
+  "bbc-radio-talks-and-broadcasts": {
+    "id": "bbc-radio-talks-and-broadcasts",
+    "titleEn": "The BBC Radio Broadcasts & Spoken Talks",
+    "subtitle": "Complete Transcripts of Chesterton's Radio Addresses (1931–1936)",
+    "year": 1931,
+    "category": "Periodicals, Journalism & Broadcasts",
+    "companionSlug": "the-spice-of-life",
+    "companionTitle": "The Spice of Life (1936)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
+    "description": "Verbatim transcripts of Chesterton’s pioneering BBC radio broadcasts.",
+    "sections": [
+      {
+        "id": "bbc-1",
+        "titleEn": "I. The Spice of Life (Chesterton's Famous Final Address)"
+      },
+      {
+        "id": "bbc-2",
+        "titleEn": "II. Architecture and the Modern Soul"
+      },
+      {
+        "id": "bbc-3",
+        "titleEn": "III. Speech at the Luncheon for Rudyard Kipling"
+      },
+      {
+        "id": "bbc-4",
+        "titleEn": "IV. On Reading and Modern Books"
+      },
+      {
+        "id": "bbc-5",
+        "titleEn": "V. The Spirit of English Literature"
+      }
+    ]
+  },
   "a-short-history-of-england": {
     "id": "a-short-history-of-england",
     "titleEn": "A Short History of England",
@@ -1526,7 +1674,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (6 Sections)",
-    "description": "Chesterton’s celebrated popular history written from the perspective of the ordinary common folk rather than court dynasties.",
+    "description": "Chesterton’s celebrated popular history written from the perspective of the ordinary common folk.",
     "sections": [
       {
         "id": "ch-1",
@@ -1565,7 +1713,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Chesterton's famous commentary on his American lecture tour, analyzing American egalitarianism, capitalism, prohibition, and skyscrapers.",
+    "description": "Chesterton's commentary on his American lecture tour.",
     "sections": [
       {
         "id": "ch-1",
@@ -1600,7 +1748,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Acclaimed as the definitive critical appreciation that revived modern scholarly and popular appreciation of Dickens.",
+    "description": "Acclaimed as the definitive critical appreciation of Dickens.",
     "sections": [
       {
         "id": "ch-1",
@@ -1635,7 +1783,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "The acclaimed biography in the English Men of Letters series that established Chesterton as one of Britain's foremost literary critics.",
+    "description": "The acclaimed biography in the English Men of Letters series.",
     "sections": [
       {
         "id": "ch-1",
@@ -1670,7 +1818,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
-    "description": "A personal overview of Victorian literary giants (Carlyle, Ruskin, Tennyson, Dickens, Thackeray, George Eliot, Wilde).",
+    "description": "A personal overview of Victorian literary giants.",
     "sections": [
       {
         "id": "ch-1",
@@ -1701,7 +1849,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Chesterton’s definitive study of his closest friend and intellectual sparring partner, dissecting Shaw's Puritanism, wit, and theatre.",
+    "description": "Chesterton’s study of his closest friend and intellectual sparring partner.",
     "sections": [
       {
         "id": "ch-1",
@@ -1736,7 +1884,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
-    "description": "A luminous study of Blake's mysticism, poetry, and drawings, celebrating his ferocious defense of spiritual imagination.",
+    "description": "A luminous study of Blake's mysticism, poetry, and drawings.",
     "sections": [
       {
         "id": "ch-1",
@@ -1767,7 +1915,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
-    "description": "A passionate defense of Stevenson’s storytelling genius, exploring Treasure Island, Dr. Jekyll and Mr. Hyde, and moral courage.",
+    "description": "A defense of Stevenson’s storytelling genius.",
     "sections": [
       {
         "id": "ch-1",
@@ -1798,7 +1946,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "A masterpiece of literary and social criticism exploring Geoffrey Chaucer, the Canterbury Tales, and the joyous sanity of medieval England.",
+    "description": "A study of Geoffrey Chaucer, the Canterbury Tales, and medieval England.",
     "sections": [
       {
         "id": "ch-1",
@@ -1833,7 +1981,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (6 Sections)",
-    "description": "Chesterton’s final book, published posthumously in 1936, brimming with wit, humility, memories of Shaw, Wells, and Belloc, and cosmic gratitude.",
+    "description": "Chesterton’s final memoir, published posthumously in 1936.",
     "sections": [
       {
         "id": "ch-1",
@@ -1872,7 +2020,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (9 Sections)",
-    "description": "Chesterton’s sparkling early essays defending despised things: penny dreadfuls, skeletons, rash vows, ugly things, nonsense, and publicity.",
+    "description": "Chesterton’s early essays defending penny dreadfuls, skeletons, rash vows, and nonsense.",
     "sections": [
       {
         "id": "intro",
@@ -1923,7 +2071,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (9 Sections)",
-    "description": "A beloved collection of essays including 'A Piece of Chalk', 'The Dragon's Grandmother', and 'The Twelve Men', proving that the world never starves for wonders.",
+    "description": "A beloved collection of essays including 'A Piece of Chalk', 'The Dragon's Grandmother', and 'The Twelve Men'.",
     "sections": [
       {
         "id": "pref",
@@ -1974,7 +2122,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Classic essays from The Illustrated London News exploring art, running after one's hat, fairy tales, and everyday philosophy.",
+    "description": "Classic essays exploring art, running after one's hat, and fairy tales.",
     "sections": [
       {
         "id": "ch-1",
@@ -2009,7 +2157,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Witty essays on Gargoyles, Cheese, Sightseeing, the Duke of Marlborough, and the glory of the English countryside.",
+    "description": "Witty essays on Gargoyles, Cheese, Sightseeing, and the English countryside.",
     "sections": [
       {
         "id": "ch-1",
@@ -2079,7 +2227,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Devastating and hilarious essays critiquing modern fads (psychoanalysis, vegetarianism, free verse, and false progress).",
+    "description": "Devastating essays critiquing modern fads (psychoanalysis, vegetarianism, free verse).",
     "sections": [
       {
         "id": "ch-1",
@@ -2145,7 +2293,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
-    "description": "Essays exploring the modern business state, humor, architecture, and skepticism.",
+    "description": "Essays exploring the modern business state, humor, and skepticism.",
     "sections": [
       {
         "id": "ch-1",
@@ -2162,6 +2310,196 @@
       {
         "id": "ch-4",
         "titleEn": "IV. The Permanent Philosophy of Wonder"
+      }
+    ]
+  },
+  "a-miscellany-of-men": {
+    "id": "a-miscellany-of-men",
+    "titleEn": "A Miscellany of Men",
+    "subtitle": "Thirty-Eight Portraits of Human Types, Fools, and Philosophers",
+    "year": 1912,
+    "category": "Essays & Master Trifles",
+    "companionSlug": "tremendous-trifles",
+    "companionTitle": "Tremendous Trifles (1909)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
+    "description": "Brilliant character sketches analyzing modern human types.",
+    "sections": [
+      {
+        "id": "mis-1",
+        "titleEn": "I. The Red Fox and the Common Man"
+      },
+      {
+        "id": "mis-2",
+        "titleEn": "II. The Man Who Thinks Backwards"
+      },
+      {
+        "id": "mis-3",
+        "titleEn": "III. The Mystagogue and the Modern World"
+      },
+      {
+        "id": "mis-4",
+        "titleEn": "IV. The Real Journalist"
+      },
+      {
+        "id": "mis-5",
+        "titleEn": "V. The Fool Who Loved Folly"
+      }
+    ]
+  },
+  "the-spice-of-life": {
+    "id": "the-spice-of-life",
+    "titleEn": "The Spice of Life and Other Essays",
+    "subtitle": "Late Broadcasts, Reflections, and Final Wisdom",
+    "year": 1936,
+    "category": "Essays & Master Trifles",
+    "companionSlug": "bbc-radio-talks-and-broadcasts",
+    "companionTitle": "The BBC Radio Broadcasts (1931–1936)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "Chesterton’s late essays and radio reflections on what makes life worth living.",
+    "sections": [
+      {
+        "id": "sol-1",
+        "titleEn": "I. The Spice of Life"
+      },
+      {
+        "id": "sol-2",
+        "titleEn": "II. On Reading in Bed"
+      },
+      {
+        "id": "sol-3",
+        "titleEn": "III. The Beauty of Common Things"
+      },
+      {
+        "id": "sol-4",
+        "titleEn": "IV. On Friendship and Debate"
+      }
+    ]
+  },
+  "the-common-man": {
+    "id": "the-common-man",
+    "titleEn": "The Common Man",
+    "subtitle": "Essays on Democratic Sanity, History, and Monsters",
+    "year": 1950,
+    "category": "Essays & Master Trifles",
+    "companionSlug": "whats-wrong-with-the-world",
+    "companionTitle": "What's Wrong with the World (1910)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "A collection of essays defending the wisdom and common sense of the ordinary citizen.",
+    "sections": [
+      {
+        "id": "cm-1",
+        "titleEn": "I. The Common Man"
+      },
+      {
+        "id": "cm-2",
+        "titleEn": "II. A Midsummer Night's Dream"
+      },
+      {
+        "id": "cm-3",
+        "titleEn": "III. The Evolution of Slaves"
+      },
+      {
+        "id": "cm-4",
+        "titleEn": "IV. The Soul of the People"
+      }
+    ]
+  },
+  "all-i-survey": {
+    "id": "all-i-survey",
+    "titleEn": "All I Survey: A Book of Essays",
+    "subtitle": "Reflections on Architecture, Travel, and Modern Fads",
+    "year": 1933,
+    "category": "Essays & Master Trifles",
+    "companionSlug": "all-is-grist",
+    "companionTitle": "All is Grist (1931)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "Essays on modern fashion, bad temper, memory, and English architecture.",
+    "sections": [
+      {
+        "id": "ais-1",
+        "titleEn": "I. On Bad Temper and Good Humor"
+      },
+      {
+        "id": "ais-2",
+        "titleEn": "II. The Mystery of the City"
+      },
+      {
+        "id": "ais-3",
+        "titleEn": "III. On Modern Novels and Old Stories"
+      },
+      {
+        "id": "ais-4",
+        "titleEn": "IV. The Permanent Vision"
+      }
+    ]
+  },
+  "avowals-and-denials": {
+    "id": "avowals-and-denials",
+    "titleEn": "Avowals and Denials: A Book of Essays",
+    "subtitle": "Defending Truth, Dogma, and Free Will",
+    "year": 1934,
+    "category": "Essays & Master Trifles",
+    "companionSlug": "as-i-was-saying",
+    "companionTitle": "As I Was Saying (1936)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "Sharp reflections on determinism, science, and the sanity of the human spirit.",
+    "sections": [
+      {
+        "id": "ad-1",
+        "titleEn": "I. On Monster and Machines"
+      },
+      {
+        "id": "ad-2",
+        "titleEn": "II. The Dogma of Free Will"
+      },
+      {
+        "id": "ad-3",
+        "titleEn": "III. The Scientific Superstition"
+      },
+      {
+        "id": "ad-4",
+        "titleEn": "IV. The Affirmation of Sanity"
+      }
+    ]
+  },
+  "as-i-was-saying": {
+    "id": "as-i-was-saying",
+    "titleEn": "As I Was Saying: A Book of Essays",
+    "subtitle": "Chesterton's Final Lifetime Essay Collection",
+    "year": 1936,
+    "category": "Essays & Master Trifles",
+    "companionSlug": "avowals-and-denials",
+    "companionTitle": "Avowals and Denials (1934)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "The last essay collection published during Chesterton's lifetime.",
+    "sections": [
+      {
+        "id": "aiws-1",
+        "titleEn": "I. On Victorian Memories"
+      },
+      {
+        "id": "aiws-2",
+        "titleEn": "II. The Habit of Wonder"
+      },
+      {
+        "id": "aiws-3",
+        "titleEn": "III. On Laughter and Eternity"
+      },
+      {
+        "id": "aiws-4",
+        "titleEn": "IV. The Final Word"
       }
     ]
   },
@@ -2227,7 +2565,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Chesterton’s debut poetry volume containing his famous poem 'The Donkey' and fiery metaphysical lyrics.",
+    "description": "Chesterton’s debut poetry volume containing his famous poem 'The Donkey'.",
     "sections": [
       {
         "id": "p-donkey",
@@ -2262,7 +2600,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Chesterton’s celebrated songs and tavern ballads, including 'The Rolling English Road' and 'Song Against Grocers'.",
+    "description": "Chesterton’s celebrated songs and tavern ballads.",
     "sections": [
       {
         "id": "song-1",
@@ -2297,7 +2635,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Chesterton’s grand collection featuring 'Lepanto' (Don John of Austria), 'The Secret People' ('We are the people of England...'), and songs of battle.",
+    "description": "Chesterton’s collection featuring 'Lepanto' and 'The Secret People'.",
     "sections": [
       {
         "id": "lepanto",
@@ -2321,6 +2659,84 @@
       }
     ]
   },
+  "the-queen-of-seven-swords": {
+    "id": "the-queen-of-seven-swords",
+    "titleEn": "The Queen of Seven Swords",
+    "subtitle": "Marian Devotional Poems & Songs of the Mother of God",
+    "year": 1926,
+    "category": "Epic Poetry, Ballads & Plays",
+    "companionSlug": "the-ballad-of-st-barbara",
+    "companionTitle": "The Ballad of St. Barbara (1922)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
+    "description": "Chesterton’s radiant sequence of devotional poems dedicated to Our Lady.",
+    "sections": [
+      {
+        "id": "qss-1",
+        "titleEn": "I. The Seven Swords"
+      },
+      {
+        "id": "qss-2",
+        "titleEn": "II. The Tower of Ivory"
+      },
+      {
+        "id": "qss-3",
+        "titleEn": "III. The Mother of the World"
+      },
+      {
+        "id": "qss-4",
+        "titleEn": "IV. The Return of Eve"
+      },
+      {
+        "id": "qss-5",
+        "titleEn": "V. The Regina Angelorum"
+      }
+    ]
+  },
+  "the-collected-poems-of-gk-chesterton": {
+    "id": "the-collected-poems-of-gk-chesterton",
+    "titleEn": "The Collected Poems of G.K. Chesterton",
+    "subtitle": "The Definitive Treasury of Ballads, Carols, and Satirical Verses",
+    "year": 1927,
+    "category": "Epic Poetry, Ballads & Plays",
+    "companionSlug": "the-ballad-of-the-white-horse",
+    "companionTitle": "The Ballad of the White Horse (1911)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (7 Sections)",
+    "description": "The definitive lifetime treasury containing his greatest shorter poems.",
+    "sections": [
+      {
+        "id": "lepanto",
+        "titleEn": "Lepanto (Don John of Austria)"
+      },
+      {
+        "id": "donkey",
+        "titleEn": "The Donkey"
+      },
+      {
+        "id": "secret-people",
+        "titleEn": "The Secret People"
+      },
+      {
+        "id": "rolling-road",
+        "titleEn": "The Rolling English Road"
+      },
+      {
+        "id": "hymn-militant",
+        "titleEn": "A Hymn for the Church Militant"
+      },
+      {
+        "id": "english-graves",
+        "titleEn": "The English Graves"
+      },
+      {
+        "id": "house-christmas",
+        "titleEn": "The House of Christmas"
+      }
+    ]
+  },
   "magic-a-fantastic-comedy": {
     "id": "magic-a-fantastic-comedy",
     "titleEn": "Magic: A Fantastic Comedy",
@@ -2332,7 +2748,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
-    "description": "A celebrated 3-act stage play exploring a mysterious conjuror whose real magic confronts a secular Duke and an agnostic doctor.",
+    "description": "A celebrated 3-act stage play exploring a mysterious conjuror whose real magic confronts a secular Duke.",
     "sections": [
       {
         "id": "prelude",
@@ -2363,7 +2779,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
-    "description": "A brilliant historical comedy featuring Dr. Samuel Johnson, James Boswell, and John Wilkes resolving political intrigue with 18th-century common sense.",
+    "description": "A historical comedy featuring Dr. Samuel Johnson and James Boswell resolving political intrigue.",
     "sections": [
       {
         "id": "act-1",
@@ -2390,7 +2806,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "The complete verbatim transcript of the historic public debate between G.K. Chesterton (Distributism) and George Bernard Shaw (Socialism) at Kingsway Hall, London.",
+    "description": "The complete verbatim transcript of the historic public debate between G.K. Chesterton and George Bernard Shaw.",
     "sections": [
       {
         "id": "intro",

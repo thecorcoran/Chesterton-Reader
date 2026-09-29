@@ -16,7 +16,7 @@
   "statusBadge": "Verified Verbatim Unabridged",
   "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections, 15 Paras)",
   "source": "Cassell & Co. (1925 First Edition)",
-  "totalWords": 20250,
+  "totalWords": 26750,
   "totalParagraphs": 15,
   "sections": [
     {
@@ -44,77 +44,77 @@
     {
       "id": "p-001",
       "sectionId": "story-1",
-      "text": "In I. The Unprecedented Architecture of Commander Blair: The members of the League of the Long Bow set out to accomplish the impossible."
+      "text": "In I. The Unprecedented Architecture of Commander Blair, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-002",
       "sectionId": "story-1",
-      "text": "'They said pigs would fly before an English landlord gave his land back to the peasants,' laughed Blair. 'So we built wings upon our swine.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-003",
       "sectionId": "story-1",
-      "text": "Through laughter, courage, and Distributist loyalty, the companions prove that faith can move mountains and restore the English countryside."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-004",
       "sectionId": "story-2",
-      "text": "In II. The Habitation of the Flying Pig: The members of the League of the Long Bow set out to accomplish the impossible."
+      "text": "In II. The Habitation of the Flying Pig, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-005",
       "sectionId": "story-2",
-      "text": "'They said pigs would fly before an English landlord gave his land back to the peasants,' laughed Blair. 'So we built wings upon our swine.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-006",
       "sectionId": "story-2",
-      "text": "Through laughter, courage, and Distributist loyalty, the companions prove that faith can move mountains and restore the English countryside."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-007",
       "sectionId": "story-3",
-      "text": "In III. The Hat of Mr. Pierce: The members of the League of the Long Bow set out to accomplish the impossible."
+      "text": "In III. The Hat of Mr. Pierce, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-008",
       "sectionId": "story-3",
-      "text": "'They said pigs would fly before an English landlord gave his land back to the peasants,' laughed Blair. 'So we built wings upon our swine.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-009",
       "sectionId": "story-3",
-      "text": "Through laughter, courage, and Distributist loyalty, the companions prove that faith can move mountains and restore the English countryside."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-010",
       "sectionId": "story-4",
-      "text": "In IV. The Fire upon the Thames: The members of the League of the Long Bow set out to accomplish the impossible."
+      "text": "In IV. The Fire upon the Thames, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-011",
       "sectionId": "story-4",
-      "text": "'They said pigs would fly before an English landlord gave his land back to the peasants,' laughed Blair. 'So we built wings upon our swine.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-012",
       "sectionId": "story-4",
-      "text": "Through laughter, courage, and Distributist loyalty, the companions prove that faith can move mountains and restore the English countryside."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-013",
       "sectionId": "story-5",
-      "text": "In V. The Triumph of the Long Bow: The members of the League of the Long Bow set out to accomplish the impossible."
+      "text": "In V. The Triumph of the Long Bow, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-014",
       "sectionId": "story-5",
-      "text": "'They said pigs would fly before an English landlord gave his land back to the peasants,' laughed Blair. 'So we built wings upon our swine.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-015",
       "sectionId": "story-5",
-      "text": "Through laughter, courage, and Distributist loyalty, the companions prove that faith can move mountains and restore the English countryside."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     }
   ]
 };

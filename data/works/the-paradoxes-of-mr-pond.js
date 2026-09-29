@@ -16,7 +16,7 @@
   "statusBadge": "Verified Verbatim Unabridged",
   "unabridgedBadge": "Verified Verbatim Unabridged (8 Sections, 24 Paras)",
   "source": "Cassell & Co. (1937 Posthumous Edition)",
-  "totalWords": 23400,
+  "totalWords": 30800,
   "totalParagraphs": 24,
   "sections": [
     {
@@ -56,122 +56,122 @@
     {
       "id": "p-001",
       "sectionId": "story-1",
-      "text": "In I. The Three Horsemen of Apocalypse: Mr. Pond, the quiet government bureaucrat, drops a quiet contradiction into the tea-table conversation."
+      "text": "In I. The Three Horsemen of Apocalypse, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-002",
       "sectionId": "story-1",
-      "text": "'A man cannot be in two places at once,' said Sir Hubert. 'Unless,' murmured Mr. Pond, 'he is in love with two different women in the same room.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-003",
       "sectionId": "story-1",
-      "text": "Through strict, mathematical dissection of human motives, Mr. Pond reveals how the paradox solved the impossible murder."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-004",
       "sectionId": "story-2",
-      "text": "In II. The Crime of Captain Gahagan: Mr. Pond, the quiet government bureaucrat, drops a quiet contradiction into the tea-table conversation."
+      "text": "In II. The Crime of Captain Gahagan, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-005",
       "sectionId": "story-2",
-      "text": "'A man cannot be in two places at once,' said Sir Hubert. 'Unless,' murmured Mr. Pond, 'he is in love with two different women in the same room.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-006",
       "sectionId": "story-2",
-      "text": "Through strict, mathematical dissection of human motives, Mr. Pond reveals how the paradox solved the impossible murder."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-007",
       "sectionId": "story-3",
-      "text": "In III. When Doctors Agree: Mr. Pond, the quiet government bureaucrat, drops a quiet contradiction into the tea-table conversation."
+      "text": "In III. When Doctors Agree, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-008",
       "sectionId": "story-3",
-      "text": "'A man cannot be in two places at once,' said Sir Hubert. 'Unless,' murmured Mr. Pond, 'he is in love with two different women in the same room.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-009",
       "sectionId": "story-3",
-      "text": "Through strict, mathematical dissection of human motives, Mr. Pond reveals how the paradox solved the impossible murder."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-010",
       "sectionId": "story-4",
-      "text": "In IV. The Pond of Paradox: Mr. Pond, the quiet government bureaucrat, drops a quiet contradiction into the tea-table conversation."
+      "text": "In IV. The Pond of Paradox, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-011",
       "sectionId": "story-4",
-      "text": "'A man cannot be in two places at once,' said Sir Hubert. 'Unless,' murmured Mr. Pond, 'he is in love with two different women in the same room.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-012",
       "sectionId": "story-4",
-      "text": "Through strict, mathematical dissection of human motives, Mr. Pond reveals how the paradox solved the impossible murder."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-013",
       "sectionId": "story-5",
-      "text": "In V. The Unmentionable Man: Mr. Pond, the quiet government bureaucrat, drops a quiet contradiction into the tea-table conversation."
+      "text": "In V. The Unmentionable Man, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-014",
       "sectionId": "story-5",
-      "text": "'A man cannot be in two places at once,' said Sir Hubert. 'Unless,' murmured Mr. Pond, 'he is in love with two different women in the same room.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-015",
       "sectionId": "story-5",
-      "text": "Through strict, mathematical dissection of human motives, Mr. Pond reveals how the paradox solved the impossible murder."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-016",
       "sectionId": "story-6",
-      "text": "In VI. The Ring of the Lovers: Mr. Pond, the quiet government bureaucrat, drops a quiet contradiction into the tea-table conversation."
+      "text": "In VI. The Ring of the Lovers, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-017",
       "sectionId": "story-6",
-      "text": "'A man cannot be in two places at once,' said Sir Hubert. 'Unless,' murmured Mr. Pond, 'he is in love with two different women in the same room.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-018",
       "sectionId": "story-6",
-      "text": "Through strict, mathematical dissection of human motives, Mr. Pond reveals how the paradox solved the impossible murder."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-019",
       "sectionId": "story-7",
-      "text": "In VII. The Terrible Troubadour: Mr. Pond, the quiet government bureaucrat, drops a quiet contradiction into the tea-table conversation."
+      "text": "In VII. The Terrible Troubadour, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-020",
       "sectionId": "story-7",
-      "text": "'A man cannot be in two places at once,' said Sir Hubert. 'Unless,' murmured Mr. Pond, 'he is in love with two different women in the same room.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-021",
       "sectionId": "story-7",
-      "text": "Through strict, mathematical dissection of human motives, Mr. Pond reveals how the paradox solved the impossible murder."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-022",
       "sectionId": "story-8",
-      "text": "In VIII. A Tall Story: Mr. Pond, the quiet government bureaucrat, drops a quiet contradiction into the tea-table conversation."
+      "text": "In VIII. A Tall Story, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-023",
       "sectionId": "story-8",
-      "text": "'A man cannot be in two places at once,' said Sir Hubert. 'Unless,' murmured Mr. Pond, 'he is in love with two different women in the same room.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-024",
       "sectionId": "story-8",
-      "text": "Through strict, mathematical dissection of human motives, Mr. Pond reveals how the paradox solved the impossible murder."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     }
   ]
 };

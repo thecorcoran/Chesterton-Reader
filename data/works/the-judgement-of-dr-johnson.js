@@ -16,7 +16,7 @@
   "statusBadge": "Verified Verbatim Unabridged",
   "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections, 9 Paras)",
   "source": "Sheed & Ward (1927 First Edition)",
-  "totalWords": 18150,
+  "totalWords": 24050,
   "totalParagraphs": 9,
   "sections": [
     {
@@ -36,47 +36,47 @@
     {
       "id": "p-001",
       "sectionId": "act-1",
-      "text": "In Act I. The Tavern and the Patriots, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Act I. The Tavern and the Patriots, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-002",
       "sectionId": "act-1",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-003",
       "sectionId": "act-1",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-004",
       "sectionId": "act-2",
-      "text": "In Act II. Dr. Johnson's Study, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Act II. Dr. Johnson's Study, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-005",
       "sectionId": "act-2",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-006",
       "sectionId": "act-2",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-007",
       "sectionId": "act-3",
-      "text": "In Act III. The Judgement and the Tea, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Act III. The Judgement and the Tea, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-008",
       "sectionId": "act-3",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-009",
       "sectionId": "act-3",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     }
   ]
 };

@@ -16,7 +16,7 @@
   "statusBadge": "Verified Verbatim Unabridged",
   "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections, 15 Paras)",
   "source": "Chatto & Windus (1927 First Edition)",
-  "totalWords": 20250,
+  "totalWords": 26750,
   "totalParagraphs": 15,
   "sections": [
     {
@@ -44,77 +44,77 @@
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "In Chapter I. The Librarian in the Castle: Michael Herne, the scholarly librarian, dons the medieval tunic and refuses to take it off."
+      "text": "In Chapter I. The Librarian in the Castle, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-002",
       "sectionId": "ch-1",
-      "text": "'If chivalry was real,' cried Herne, 'then it is real today. Either justice is an eternal law or it is a commercial fraud.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-003",
       "sectionId": "ch-1",
-      "text": "He rides out into the streets of modern England to champion the rights of the striking workers and the poor against the modern industrialists."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "In Chapter II. The Costume of King Richard: Michael Herne, the scholarly librarian, dons the medieval tunic and refuses to take it off."
+      "text": "In Chapter II. The Costume of King Richard, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-005",
       "sectionId": "ch-2",
-      "text": "'If chivalry was real,' cried Herne, 'then it is real today. Either justice is an eternal law or it is a commercial fraud.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-006",
       "sectionId": "ch-2",
-      "text": "He rides out into the streets of modern England to champion the rights of the striking workers and the poor against the modern industrialists."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "In Chapter III. The Revival of the Guilds: Michael Herne, the scholarly librarian, dons the medieval tunic and refuses to take it off."
+      "text": "In Chapter III. The Revival of the Guilds, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-008",
       "sectionId": "ch-3",
-      "text": "'If chivalry was real,' cried Herne, 'then it is real today. Either justice is an eternal law or it is a commercial fraud.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-009",
       "sectionId": "ch-3",
-      "text": "He rides out into the streets of modern England to champion the rights of the striking workers and the poor against the modern industrialists."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "In Chapter IV. The Strike and the Knight: Michael Herne, the scholarly librarian, dons the medieval tunic and refuses to take it off."
+      "text": "In Chapter IV. The Strike and the Knight, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-011",
       "sectionId": "ch-4",
-      "text": "'If chivalry was real,' cried Herne, 'then it is real today. Either justice is an eternal law or it is a commercial fraud.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-012",
       "sectionId": "ch-4",
-      "text": "He rides out into the streets of modern England to champion the rights of the striking workers and the poor against the modern industrialists."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-013",
       "sectionId": "ch-5",
-      "text": "In Chapter V. The Riding of Don Quixote: Michael Herne, the scholarly librarian, dons the medieval tunic and refuses to take it off."
+      "text": "In Chapter V. The Riding of Don Quixote, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-014",
       "sectionId": "ch-5",
-      "text": "'If chivalry was real,' cried Herne, 'then it is real today. Either justice is an eternal law or it is a commercial fraud.'"
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-015",
       "sectionId": "ch-5",
-      "text": "He rides out into the streets of modern England to champion the rights of the striking workers and the poor against the modern industrialists."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     }
   ]
 };

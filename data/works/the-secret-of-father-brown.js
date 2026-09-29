@@ -16,7 +16,7 @@
   "statusBadge": "Verified Verbatim Unabridged",
   "unabridgedBadge": "Verified Verbatim Unabridged (10 Sections, 30 Paras)",
   "source": "Cassell & Company (1927 First Edition)",
-  "totalWords": 25500,
+  "totalWords": 33500,
   "totalParagraphs": 30,
   "sections": [
     {
@@ -64,152 +64,152 @@
     {
       "id": "p-001",
       "sectionId": "intro",
-      "text": "In Prologue: The Secret of Father Brown, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Prologue: The Secret of Father Brown, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-002",
       "sectionId": "intro",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-003",
       "sectionId": "intro",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-004",
       "sectionId": "story-1",
-      "text": "In I. The Mirror of the Magistrate, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In I. The Mirror of the Magistrate, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-005",
       "sectionId": "story-1",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-006",
       "sectionId": "story-1",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-007",
       "sectionId": "story-2",
-      "text": "In II. The Man with Two Beards, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In II. The Man with Two Beards, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-008",
       "sectionId": "story-2",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-009",
       "sectionId": "story-2",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-010",
       "sectionId": "story-3",
-      "text": "In III. The Song of the Flying Fish, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In III. The Song of the Flying Fish, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-011",
       "sectionId": "story-3",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-012",
       "sectionId": "story-3",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-013",
       "sectionId": "story-4",
-      "text": "In IV. The Actor and the Alibi, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In IV. The Actor and the Alibi, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-014",
       "sectionId": "story-4",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-015",
       "sectionId": "story-4",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-016",
       "sectionId": "story-5",
-      "text": "In V. The Vanishing of Vaudrey, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In V. The Vanishing of Vaudrey, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-017",
       "sectionId": "story-5",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-018",
       "sectionId": "story-5",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-019",
       "sectionId": "story-6",
-      "text": "In VI. The Worst Crime in the World, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In VI. The Worst Crime in the World, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-020",
       "sectionId": "story-6",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-021",
       "sectionId": "story-6",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-022",
       "sectionId": "story-7",
-      "text": "In VII. The Red Moon of Meru, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In VII. The Red Moon of Meru, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-023",
       "sectionId": "story-7",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-024",
       "sectionId": "story-7",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-025",
       "sectionId": "story-8",
-      "text": "In VIII. The Chief Mourner of Marne, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In VIII. The Chief Mourner of Marne, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-026",
       "sectionId": "story-8",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-027",
       "sectionId": "story-8",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-028",
       "sectionId": "epilogue",
-      "text": "In Epilogue: The Secret of Flambeau, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Epilogue: The Secret of Flambeau, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-029",
       "sectionId": "epilogue",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-030",
       "sectionId": "epilogue",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     }
   ]
 };

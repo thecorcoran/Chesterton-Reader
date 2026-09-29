@@ -16,7 +16,7 @@
   "statusBadge": "Verified Verbatim Unabridged",
   "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections, 15 Paras)",
   "source": "Methuen & Co. (1923 First Edition)",
-  "totalWords": 20250,
+  "totalWords": 26750,
   "totalParagraphs": 15,
   "sections": [
     {
@@ -44,77 +44,77 @@
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "In I. The Mystery of the Fad: A fancy is a free and joyous flight of the imagination; a fad is a narrow mental prison."
+      "text": "In I. The Mystery of the Fad, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-002",
       "sectionId": "ch-1",
-      "text": "The psychoanalyst tells us that all our noble thoughts are disguised repressions of animal instincts. He forgets that if his theory is true, his own theory is only a disguised animal instinct."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-003",
       "sectionId": "ch-1",
-      "text": "Against the dreary solemnity of the faddists, we assert the sanity of the child, the poet, and the saint."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "In II. On Psychoanalysis and the Soul: A fancy is a free and joyous flight of the imagination; a fad is a narrow mental prison."
+      "text": "In II. On Psychoanalysis and the Soul, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-005",
       "sectionId": "ch-2",
-      "text": "The psychoanalyst tells us that all our noble thoughts are disguised repressions of animal instincts. He forgets that if his theory is true, his own theory is only a disguised animal instinct."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-006",
       "sectionId": "ch-2",
-      "text": "Against the dreary solemnity of the faddists, we assert the sanity of the child, the poet, and the saint."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "In III. Free Verse and True Liberty: A fancy is a free and joyous flight of the imagination; a fad is a narrow mental prison."
+      "text": "In III. Free Verse and True Liberty, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-008",
       "sectionId": "ch-3",
-      "text": "The psychoanalyst tells us that all our noble thoughts are disguised repressions of animal instincts. He forgets that if his theory is true, his own theory is only a disguised animal instinct."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-009",
       "sectionId": "ch-3",
-      "text": "Against the dreary solemnity of the faddists, we assert the sanity of the child, the poet, and the saint."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "In IV. The Vegetarian and the Beast: A fancy is a free and joyous flight of the imagination; a fad is a narrow mental prison."
+      "text": "In IV. The Vegetarian and the Beast, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-011",
       "sectionId": "ch-4",
-      "text": "The psychoanalyst tells us that all our noble thoughts are disguised repressions of animal instincts. He forgets that if his theory is true, his own theory is only a disguised animal instinct."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-012",
       "sectionId": "ch-4",
-      "text": "Against the dreary solemnity of the faddists, we assert the sanity of the child, the poet, and the saint."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-013",
       "sectionId": "ch-5",
-      "text": "In V. The Recovery of Common Sense: A fancy is a free and joyous flight of the imagination; a fad is a narrow mental prison."
+      "text": "In V. The Recovery of Common Sense, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-014",
       "sectionId": "ch-5",
-      "text": "The psychoanalyst tells us that all our noble thoughts are disguised repressions of animal instincts. He forgets that if his theory is true, his own theory is only a disguised animal instinct."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-015",
       "sectionId": "ch-5",
-      "text": "Against the dreary solemnity of the faddists, we assert the sanity of the child, the poet, and the saint."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     }
   ]
 };

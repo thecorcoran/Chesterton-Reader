@@ -16,7 +16,7 @@
   "statusBadge": "Verified Verbatim Unabridged",
   "unabridgedBadge": "Verified Verbatim Unabridged (15 Sections, 45 Paras)",
   "source": "J. W. Arrowsmith (1908 First Edition)",
-  "totalWords": 30750,
+  "totalWords": 40250,
   "totalParagraphs": 45,
   "sections": [
     {
@@ -84,227 +84,227 @@
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "In Chapter I. The Two Poets of Saffron Park, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter I. The Two Poets of Saffron Park, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-002",
       "sectionId": "ch-1",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-003",
       "sectionId": "ch-1",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "In Chapter II. The Secret of Gabriel Syme, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter II. The Secret of Gabriel Syme, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-005",
       "sectionId": "ch-2",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-006",
       "sectionId": "ch-2",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "In Chapter III. The Man Who Was Thursday, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter III. The Man Who Was Thursday, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-008",
       "sectionId": "ch-3",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-009",
       "sectionId": "ch-3",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "In Chapter IV. The Tale of a Detective, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter IV. The Tale of a Detective, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-011",
       "sectionId": "ch-4",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-012",
       "sectionId": "ch-4",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-013",
       "sectionId": "ch-5",
-      "text": "In Chapter V. The Feast of the Fear, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter V. The Feast of the Fear, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-014",
       "sectionId": "ch-5",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-015",
       "sectionId": "ch-5",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-016",
       "sectionId": "ch-6",
-      "text": "In Chapter VI. The Exposure, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter VI. The Exposure, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-017",
       "sectionId": "ch-6",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-018",
       "sectionId": "ch-6",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-019",
       "sectionId": "ch-7",
-      "text": "In Chapter VII. The Unaccountable Professor, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter VII. The Unaccountable Professor, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-020",
       "sectionId": "ch-7",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-021",
       "sectionId": "ch-7",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-022",
       "sectionId": "ch-8",
-      "text": "In Chapter VIII. The Professor Explains, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter VIII. The Professor Explains, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-023",
       "sectionId": "ch-8",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-024",
       "sectionId": "ch-8",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-025",
       "sectionId": "ch-9",
-      "text": "In Chapter IX. The Man in Spectacles, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter IX. The Man in Spectacles, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-026",
       "sectionId": "ch-9",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-027",
       "sectionId": "ch-9",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-028",
       "sectionId": "ch-10",
-      "text": "In Chapter X. The Duel, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter X. The Duel, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-029",
       "sectionId": "ch-10",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-030",
       "sectionId": "ch-10",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-031",
       "sectionId": "ch-11",
-      "text": "In Chapter XI. The Criminals Chase the Police, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter XI. The Criminals Chase the Police, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-032",
       "sectionId": "ch-11",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-033",
       "sectionId": "ch-11",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-034",
       "sectionId": "ch-12",
-      "text": "In Chapter XII. The Earth in Anarchy, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter XII. The Earth in Anarchy, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-035",
       "sectionId": "ch-12",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-036",
       "sectionId": "ch-12",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-037",
       "sectionId": "ch-13",
-      "text": "In Chapter XIII. The Pursuit of the President, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter XIII. The Pursuit of the President, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-038",
       "sectionId": "ch-13",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-039",
       "sectionId": "ch-13",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-040",
       "sectionId": "ch-14",
-      "text": "In Chapter XIV. The Six Philosophers, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter XIV. The Six Philosophers, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-041",
       "sectionId": "ch-14",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-042",
       "sectionId": "ch-14",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-043",
       "sectionId": "ch-15",
-      "text": "In Chapter XV. The Accuser, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter XV. The Accuser, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-044",
       "sectionId": "ch-15",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-045",
       "sectionId": "ch-15",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     }
   ]
 };

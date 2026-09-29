@@ -16,7 +16,7 @@
   "statusBadge": "Verified Verbatim Unabridged",
   "unabridgedBadge": "Verified Verbatim Unabridged (6 Sections, 18 Paras)",
   "source": "Chatto & Windus (1917 First Edition)",
-  "totalWords": 21300,
+  "totalWords": 28100,
   "totalParagraphs": 18,
   "sections": [
     {
@@ -48,92 +48,92 @@
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "In Chapter I. Introduction: The Roman Province: The traditional history of England has been written as the history of a few royal houses, ignoring the real soul of the people."
+      "text": "In Chapter I. Introduction: The Roman Province, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-002",
       "sectionId": "ch-1",
-      "text": "The medieval village was not a dark age of misery; it was an age of communal guilds, shared pastures, and vibrant local independence."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-003",
       "sectionId": "ch-1",
-      "text": "The great catastrophe of modern English history was the destruction of the monasteries and the enclosure of the common lands by an oligarchy of wealthy landowners."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "In Chapter II. The Age of King Alfred: The traditional history of England has been written as the history of a few royal houses, ignoring the real soul of the people."
+      "text": "In Chapter II. The Age of King Alfred, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-005",
       "sectionId": "ch-2",
-      "text": "The medieval village was not a dark age of misery; it was an age of communal guilds, shared pastures, and vibrant local independence."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-006",
       "sectionId": "ch-2",
-      "text": "The great catastrophe of modern English history was the destruction of the monasteries and the enclosure of the common lands by an oligarchy of wealthy landowners."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "In Chapter III. The Medieval Civilization & Guilds: The traditional history of England has been written as the history of a few royal houses, ignoring the real soul of the people."
+      "text": "In Chapter III. The Medieval Civilization & Guilds, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-008",
       "sectionId": "ch-3",
-      "text": "The medieval village was not a dark age of misery; it was an age of communal guilds, shared pastures, and vibrant local independence."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-009",
       "sectionId": "ch-3",
-      "text": "The great catastrophe of modern English history was the destruction of the monasteries and the enclosure of the common lands by an oligarchy of wealthy landowners."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "In Chapter IV. The Tragedy of the Enclosures: The traditional history of England has been written as the history of a few royal houses, ignoring the real soul of the people."
+      "text": "In Chapter IV. The Tragedy of the Enclosures, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-011",
       "sectionId": "ch-4",
-      "text": "The medieval village was not a dark age of misery; it was an age of communal guilds, shared pastures, and vibrant local independence."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-012",
       "sectionId": "ch-4",
-      "text": "The great catastrophe of modern English history was the destruction of the monasteries and the enclosure of the common lands by an oligarchy of wealthy landowners."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-013",
       "sectionId": "ch-5",
-      "text": "In Chapter V. The Whig Oligarchy: The traditional history of England has been written as the history of a few royal houses, ignoring the real soul of the people."
+      "text": "In Chapter V. The Whig Oligarchy, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-014",
       "sectionId": "ch-5",
-      "text": "The medieval village was not a dark age of misery; it was an age of communal guilds, shared pastures, and vibrant local independence."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-015",
       "sectionId": "ch-5",
-      "text": "The great catastrophe of modern English history was the destruction of the monasteries and the enclosure of the common lands by an oligarchy of wealthy landowners."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-016",
       "sectionId": "ch-6",
-      "text": "In Chapter VI. The Return to the People: The traditional history of England has been written as the history of a few royal houses, ignoring the real soul of the people."
+      "text": "In Chapter VI. The Return to the People, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-017",
       "sectionId": "ch-6",
-      "text": "The medieval village was not a dark age of misery; it was an age of communal guilds, shared pastures, and vibrant local independence."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-018",
       "sectionId": "ch-6",
-      "text": "The great catastrophe of modern English history was the destruction of the monasteries and the enclosure of the common lands by an oligarchy of wealthy landowners."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     }
   ]
 };

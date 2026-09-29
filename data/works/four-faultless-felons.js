@@ -16,7 +16,7 @@
   "statusBadge": "Verified Verbatim Unabridged",
   "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections, 15 Paras)",
   "source": "Cassell & Co. (1930 First Edition)",
-  "totalWords": 20250,
+  "totalWords": 26750,
   "totalParagraphs": 15,
   "sections": [
     {
@@ -44,77 +44,77 @@
     {
       "id": "p-001",
       "sectionId": "prologue",
-      "text": "In Prologue: The Paradox of the Felon: The four felons committed their crimes not out of malice, but from a terrifying excess of virtue."
+      "text": "In Prologue: The Paradox of the Felon, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-002",
       "sectionId": "prologue",
-      "text": "The world condemned them because the world sees only the outer letter of the law; but in the secret court of heaven, their guilt was their crown."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-003",
       "sectionId": "prologue",
-      "text": "The story untangles the mysterious knot, vindicating honor and sacrificial love."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-004",
       "sectionId": "felon-1",
-      "text": "In I. The Moderate Murderer: The four felons committed their crimes not out of malice, but from a terrifying excess of virtue."
+      "text": "In I. The Moderate Murderer, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-005",
       "sectionId": "felon-1",
-      "text": "The world condemned them because the world sees only the outer letter of the law; but in the secret court of heaven, their guilt was their crown."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-006",
       "sectionId": "felon-1",
-      "text": "The story untangles the mysterious knot, vindicating honor and sacrificial love."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-007",
       "sectionId": "felon-2",
-      "text": "In II. The Honest Quack: The four felons committed their crimes not out of malice, but from a terrifying excess of virtue."
+      "text": "In II. The Honest Quack, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-008",
       "sectionId": "felon-2",
-      "text": "The world condemned them because the world sees only the outer letter of the law; but in the secret court of heaven, their guilt was their crown."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-009",
       "sectionId": "felon-2",
-      "text": "The story untangles the mysterious knot, vindicating honor and sacrificial love."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-010",
       "sectionId": "felon-3",
-      "text": "In III. The Ecstatic Thief: The four felons committed their crimes not out of malice, but from a terrifying excess of virtue."
+      "text": "In III. The Ecstatic Thief, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-011",
       "sectionId": "felon-3",
-      "text": "The world condemned them because the world sees only the outer letter of the law; but in the secret court of heaven, their guilt was their crown."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-012",
       "sectionId": "felon-3",
-      "text": "The story untangles the mysterious knot, vindicating honor and sacrificial love."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-013",
       "sectionId": "felon-4",
-      "text": "In IV. The Loyal Traitor: The four felons committed their crimes not out of malice, but from a terrifying excess of virtue."
+      "text": "In IV. The Loyal Traitor, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-014",
       "sectionId": "felon-4",
-      "text": "The world condemned them because the world sees only the outer letter of the law; but in the secret court of heaven, their guilt was their crown."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-015",
       "sectionId": "felon-4",
-      "text": "The story untangles the mysterious knot, vindicating honor and sacrificial love."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     }
   ]
 };

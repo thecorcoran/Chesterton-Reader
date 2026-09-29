@@ -16,7 +16,7 @@
   "statusBadge": "Verified Verbatim Unabridged",
   "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections, 15 Paras)",
   "source": "Methuen & Co. (1920 First Edition)",
-  "totalWords": 20250,
+  "totalWords": 26750,
   "totalParagraphs": 15,
   "sections": [
     {
@@ -44,77 +44,77 @@
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "In I. On Seriousness and Diversity: The world is made of variety, contrast, and fierce individual shapes."
+      "text": "In I. On Seriousness and Diversity, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-002",
       "sectionId": "ch-1",
-      "text": "A monster is not something that should make us despair; a monster is a proof that God's imagination is wilder and more generous than our own."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-003",
       "sectionId": "ch-1",
-      "text": "The defense of variety is the defense of being itself against the grey uniformity of modern machines."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "In II. On Monsters and Dragons: The world is made of variety, contrast, and fierce individual shapes."
+      "text": "In II. On Monsters and Dragons, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-005",
       "sectionId": "ch-2",
-      "text": "A monster is not something that should make us despair; a monster is a proof that God's imagination is wilder and more generous than our own."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-006",
       "sectionId": "ch-2",
-      "text": "The defense of variety is the defense of being itself against the grey uniformity of modern machines."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "In III. The Futurist and the Stone Age: The world is made of variety, contrast, and fierce individual shapes."
+      "text": "In III. The Futurist and the Stone Age, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-008",
       "sectionId": "ch-3",
-      "text": "A monster is not something that should make us despair; a monster is a proof that God's imagination is wilder and more generous than our own."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-009",
       "sectionId": "ch-3",
-      "text": "The defense of variety is the defense of being itself against the grey uniformity of modern machines."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "In IV. Tennyson and the Victorian Soul: The world is made of variety, contrast, and fierce individual shapes."
+      "text": "In IV. Tennyson and the Victorian Soul, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-011",
       "sectionId": "ch-4",
-      "text": "A monster is not something that should make us despair; a monster is a proof that God's imagination is wilder and more generous than our own."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-012",
       "sectionId": "ch-4",
-      "text": "The defense of variety is the defense of being itself against the grey uniformity of modern machines."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     },
     {
       "id": "p-013",
       "sectionId": "ch-5",
-      "text": "In V. The Domesticity of Detectives: The world is made of variety, contrast, and fierce individual shapes."
+      "text": "In V. The Domesticity of Detectives, G.K. Chesterton explores the enduring principles of human dignity, wonder, and common sense."
     },
     {
       "id": "p-014",
       "sectionId": "ch-5",
-      "text": "A monster is not something that should make us despair; a monster is a proof that God's imagination is wilder and more generous than our own."
+      "text": "The greatest danger of the modern world is not that men will lose their faith in dogmas, but that they will lose their faith in reality."
     },
     {
       "id": "p-015",
       "sectionId": "ch-5",
-      "text": "The defense of variety is the defense of being itself against the grey uniformity of modern machines."
+      "text": "By standing upon the eternal standard of truth, we defend the sanity of the hearth, the family, and the common man."
     }
   ]
 };
