@@ -9,7 +9,7 @@
   "titleEn": "Manalive",
   "subtitle": "The Joyous Adventures of Innocent Smith",
   "year": 1912,
-  "category": "Fantastic & Metaphysical Novels",
+  "category": "Novels & Fantastic Romances",
   "companionSlug": "the-napoleon-of-notting-hill",
   "companionTitle": "The Napoleon of Notting Hill (1904)",
   "unabridged": true,

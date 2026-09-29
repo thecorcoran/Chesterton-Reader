@@ -9,7 +9,7 @@
   "titleEn": "The Man Who Was Thursday",
   "subtitle": "A Nightmare",
   "year": 1908,
-  "category": "Fantastic & Metaphysical Novels",
+  "category": "Novels & Fantastic Romances",
   "companionSlug": "the-napoleon-of-notting-hill",
   "companionTitle": "The Napoleon of Notting Hill (1904)",
   "unabridged": true,

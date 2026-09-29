@@ -9,7 +9,7 @@
   "titleEn": "The Uses of Diversity",
   "subtitle": "Thirty-One Essays on Monsters, Futurism, and Tennyson",
   "year": 1920,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "fancies-versus-fads",
   "companionTitle": "Fancies Versus Fads (1923)",
   "unabridged": true,

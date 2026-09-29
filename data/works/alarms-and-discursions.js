@@ -9,7 +9,7 @@
   "titleEn": "Alarms and Discursions",
   "subtitle": "Forty Meditations on Gargoyles, Cheese, and English Roads",
   "year": 1910,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "all-things-considered",
   "companionTitle": "All Things Considered (1908)",
   "unabridged": true,

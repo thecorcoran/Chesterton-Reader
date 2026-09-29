@@ -9,7 +9,7 @@
   "titleEn": "The BBC Radio Broadcasts & Spoken Talks",
   "subtitle": "Complete Transcripts of Chesterton's Radio Addresses (1931–1936)",
   "year": 1931,
-  "category": "Periodicals, Journalism & Broadcasts",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "the-spice-of-life",
   "companionTitle": "The Spice of Life (1936)",
   "unabridged": true,

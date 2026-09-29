@@ -9,7 +9,7 @@
   "titleEn": "The Wild Knight and Other Poems",
   "subtitle": "Early Lyrical Poems, The Donkey, and Cosmic Verses",
   "year": 1900,
-  "category": "Epic Poetry, Ballads & Plays",
+  "category": "Poetry & Epic Verse",
   "companionSlug": "the-ballad-of-the-white-horse",
   "companionTitle": "The Ballad of the White Horse (1911)",
   "unabridged": true,

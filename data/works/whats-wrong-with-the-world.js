@@ -9,7 +9,7 @@
   "titleEn": "What's Wrong with the World",
   "subtitle": "The Family, Education, Property, and the Modern State",
   "year": 1910,
-  "category": "Social Philosophy & Distributism",
+  "category": "Distributism, Politics & Social Philosophy",
   "companionSlug": "the-outline-of-sanity",
   "companionTitle": "The Outline of Sanity (1926)",
   "unabridged": true,

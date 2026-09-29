@@ -9,7 +9,7 @@
   "titleEn": "The Secret of Father Brown",
   "subtitle": "Ten Mysteries and the True Method of Detection",
   "year": 1927,
-  "category": "The Father Brown Mysteries",
+  "category": "Father Brown Mysteries & Detective Fiction",
   "companionSlug": "the-scandal-of-father-brown",
   "companionTitle": "The Scandal of Father Brown (1935)",
   "unabridged": true,

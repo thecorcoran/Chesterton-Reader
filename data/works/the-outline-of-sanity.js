@@ -9,7 +9,7 @@
   "titleEn": "The Outline of Sanity",
   "subtitle": "The Economic Manifesto of Distributism",
   "year": 1926,
-  "category": "Social Philosophy & Distributism",
+  "category": "Distributism, Politics & Social Philosophy",
   "companionSlug": "whats-wrong-with-the-world",
   "companionTitle": "What's Wrong with the World (1910)",
   "unabridged": true,

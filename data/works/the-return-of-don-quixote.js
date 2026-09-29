@@ -9,7 +9,7 @@
   "titleEn": "The Return of Don Quixote",
   "subtitle": "Medieval Chivalry in the Modern World",
   "year": 1927,
-  "category": "Fantastic & Metaphysical Novels",
+  "category": "Novels & Fantastic Romances",
   "companionSlug": "the-napoleon-of-notting-hill",
   "companionTitle": "The Napoleon of Notting Hill (1904)",
   "unabridged": true,

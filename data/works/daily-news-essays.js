@@ -9,7 +9,7 @@
   "titleEn": "The Daily News Essays & Saturday Columns",
   "subtitle": "Fleet Street Columns that Revolutionized English Journalism (1902–1913)",
   "year": 1902,
-  "category": "Periodicals, Journalism & Broadcasts",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "our-note-book-illustrated-london-news",
   "companionTitle": "Our Note Book (1905–1936)",
   "unabridged": true,

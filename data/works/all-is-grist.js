@@ -9,7 +9,7 @@
   "titleEn": "All is Grist: A Book of Essays",
   "subtitle": "Meditations on Business, Humor, and Modern Skepticism",
   "year": 1931,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "all-i-survey",
   "companionTitle": "All I Survey (1933)",
   "unabridged": true,

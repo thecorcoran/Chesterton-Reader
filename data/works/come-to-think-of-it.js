@@ -9,7 +9,7 @@
   "titleEn": "Come to Think of It: A Book of Essays",
   "subtitle": "Meditations on Modern Man, Slang, and Psychoanalysis",
   "year": 1930,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "all-is-grist",
   "companionTitle": "All is Grist (1931)",
   "unabridged": true,

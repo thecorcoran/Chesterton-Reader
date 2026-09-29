@@ -9,7 +9,7 @@
   "titleEn": "Sidelights on New London and Newer York",
   "subtitle": "Essays on American Energy, Cinema, and Commercial Fashion",
   "year": 1932,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "what-i-saw-in-america",
   "companionTitle": "What I Saw in America (1922)",
   "unabridged": true,

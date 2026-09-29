@@ -9,7 +9,7 @@
   "titleEn": "All Things Considered",
   "subtitle": "Thirty-Five Meditations on Art, Fairy Tales, and Human Nature",
   "year": 1908,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "tremendous-trifles",
   "companionTitle": "Tremendous Trifles (1909)",
   "unabridged": true,

@@ -9,7 +9,7 @@
   "titleEn": "The Collected Poems of G.K. Chesterton",
   "subtitle": "The Definitive Treasury of Ballads, Carols, and Satirical Verses",
   "year": 1927,
-  "category": "Epic Poetry, Ballads & Plays",
+  "category": "Poetry & Epic Verse",
   "companionSlug": "the-ballad-of-the-white-horse",
   "companionTitle": "The Ballad of the White Horse (1911)",
   "unabridged": true,

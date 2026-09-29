@@ -9,7 +9,7 @@
   "titleEn": "The Coloured Lands",
   "subtitle": "Fairy Stories, Satirical Sketches, and Early Tales",
   "year": 1937,
-  "category": "Fantastic & Metaphysical Novels",
+  "category": "Novels & Fantastic Romances",
   "companionSlug": "the-man-who-was-thursday",
   "companionTitle": "The Man Who Was Thursday (1908)",
   "unabridged": true,

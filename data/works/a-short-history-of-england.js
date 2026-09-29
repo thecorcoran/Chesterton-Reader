@@ -9,7 +9,7 @@
   "titleEn": "A Short History of England",
   "subtitle": "The Epic Story of the English People",
   "year": 1917,
-  "category": "History & Travelogues",
+  "category": "Distributism, Politics & Social Philosophy",
   "companionSlug": "the-ballad-of-the-white-horse",
   "companionTitle": "The Ballad of the White Horse (1911)",
   "unabridged": true,

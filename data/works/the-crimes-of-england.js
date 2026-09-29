@@ -9,7 +9,7 @@
   "titleEn": "The Crimes of England",
   "subtitle": "Historical Reflections on European Treaties and Foreign Policy",
   "year": 1915,
-  "category": "Social Philosophy & Distributism",
+  "category": "Distributism, Politics & Social Philosophy",
   "companionSlug": "a-short-history-of-england",
   "companionTitle": "A Short History of England (1917)",
   "unabridged": true,

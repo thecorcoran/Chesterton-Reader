@@ -9,7 +9,7 @@
   "titleEn": "The Wisdom of Father Brown",
   "subtitle": "Twelve Further Riddles of Moral Psychology",
   "year": 1914,
-  "category": "The Father Brown Mysteries",
+  "category": "Father Brown Mysteries & Detective Fiction",
   "companionSlug": "the-innocence-of-father-brown",
   "companionTitle": "The Innocence of Father Brown (1911)",
   "unabridged": true,

@@ -9,7 +9,7 @@
   "titleEn": "The Common Man",
   "subtitle": "Essays on Democratic Sanity, History, and Monsters",
   "year": 1950,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "whats-wrong-with-the-world",
   "companionTitle": "What's Wrong with the World (1910)",
   "unabridged": true,

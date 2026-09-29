@@ -9,7 +9,7 @@
   "titleEn": "The Glass Walking-Stick and Other Essays",
   "subtitle": "Uncollected Essays from The Illustrated London News",
   "year": 1955,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "our-note-book-illustrated-london-news",
   "companionTitle": "Our Note Book (1905–1936)",
   "unabridged": true,

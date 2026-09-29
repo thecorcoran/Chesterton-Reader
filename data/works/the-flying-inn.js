@@ -9,7 +9,7 @@
   "titleEn": "The Flying Inn",
   "subtitle": "The Defence of the English Tavern & The Rolling English Road",
   "year": 1914,
-  "category": "Fantastic & Metaphysical Novels",
+  "category": "Novels & Fantastic Romances",
   "companionSlug": "the-napoleon-of-notting-hill",
   "companionTitle": "The Napoleon of Notting Hill (1904)",
   "unabridged": true,

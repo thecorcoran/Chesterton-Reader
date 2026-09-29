@@ -9,7 +9,7 @@
   "titleEn": "The Trees of Pride",
   "subtitle": "A Mystery of Cornwall & The Curse of the Peacock Trees",
   "year": 1922,
-  "category": "Fantastic & Metaphysical Novels",
+  "category": "Novels & Fantastic Romances",
   "companionSlug": "the-man-who-knew-too-much",
   "companionTitle": "The Man Who Knew Too Much (1922)",
   "unabridged": true,

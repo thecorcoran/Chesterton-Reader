@@ -9,7 +9,7 @@
   "titleEn": "Four Faultless Felons",
   "subtitle": "Four Romances of Innocent Crimes",
   "year": 1930,
-  "category": "Fantastic & Metaphysical Novels",
+  "category": "Novels & Fantastic Romances",
   "companionSlug": "the-club-of-queer-trades",
   "companionTitle": "The Club of Queer Trades (1905)",
   "unabridged": true,

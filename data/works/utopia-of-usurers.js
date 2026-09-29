@@ -9,7 +9,7 @@
   "titleEn": "Utopia of Usurers",
   "subtitle": "Essays on Plutocracy, Servile Labour, and Modern Monopoly",
   "year": 1917,
-  "category": "Social Philosophy & Distributism",
+  "category": "Distributism, Politics & Social Philosophy",
   "companionSlug": "the-outline-of-sanity",
   "companionTitle": "The Outline of Sanity (1926)",
   "unabridged": true,

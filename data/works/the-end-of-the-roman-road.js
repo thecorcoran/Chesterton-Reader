@@ -9,7 +9,7 @@
   "titleEn": "The End of the Roman Road",
   "subtitle": "A Pageant of Wayfarers Across English History",
   "year": 1924,
-  "category": "Novels & Philosophical Romances",
+  "category": "Novels & Fantastic Romances",
   "companionSlug": "a-short-history-of-england",
   "companionTitle": "A Short History of England (1917)",
   "unabridged": true,

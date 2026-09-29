@@ -9,7 +9,7 @@
   "titleEn": "Avowals and Denials: A Book of Essays",
   "subtitle": "Defending Truth, Dogma, and Free Will",
   "year": 1934,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "as-i-was-saying",
   "companionTitle": "As I Was Saying (1936)",
   "unabridged": true,

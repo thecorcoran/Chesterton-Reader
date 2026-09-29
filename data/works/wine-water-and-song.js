@@ -9,7 +9,7 @@
   "titleEn": "Wine, Water, and Song",
   "subtitle": "Songs of The Flying Inn & The Rolling English Road",
   "year": 1915,
-  "category": "Epic Poetry, Ballads & Plays",
+  "category": "Poetry & Epic Verse",
   "companionSlug": "the-flying-inn",
   "companionTitle": "The Flying Inn (1914)",
   "unabridged": true,

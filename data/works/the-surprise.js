@@ -9,7 +9,7 @@
   "titleEn": "The Surprise: A Play in Two Acts",
   "subtitle": "A Philosophical Comedy on Puppets, Free Will, and the Creator",
   "year": 1932,
-  "category": "Epic Poetry, Ballads & Plays",
+  "category": "Poetry & Epic Verse",
   "companionSlug": "magic-a-fantastic-comedy",
   "companionTitle": "Magic: A Fantastic Comedy (1913)",
   "unabridged": true,

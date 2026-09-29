@@ -9,7 +9,7 @@
   "titleEn": "Magic: A Fantastic Comedy",
   "subtitle": "A Three-Act Play on the Reality of the Supernatural",
   "year": 1913,
-  "category": "Epic Poetry, Ballads & Plays",
+  "category": "Poetry & Epic Verse",
   "companionSlug": "the-judgement-of-dr-johnson",
   "companionTitle": "The Judgement of Dr. Johnson (1927)",
   "unabridged": true,

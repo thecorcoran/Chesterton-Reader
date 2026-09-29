@@ -9,7 +9,7 @@
   "titleEn": "The Defendant",
   "subtitle": "Sixteen Joyous Defences of Rash Vows, Nonsense, and Penny Dreadfuls",
   "year": 1901,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "tremendous-trifles",
   "companionTitle": "Tremendous Trifles (1909)",
   "unabridged": true,

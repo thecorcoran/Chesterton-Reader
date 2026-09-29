@@ -9,7 +9,7 @@
   "titleEn": "As I Was Saying: A Book of Essays",
   "subtitle": "Chesterton's Final Lifetime Essay Collection",
   "year": 1936,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "avowals-and-denials",
   "companionTitle": "Avowals and Denials (1934)",
   "unabridged": true,

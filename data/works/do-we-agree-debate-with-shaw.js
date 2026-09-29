@@ -9,7 +9,7 @@
   "titleEn": "Do We Agree? A Debate with Bernard Shaw",
   "subtitle": "Chaired by Hilaire Belloc (1928 Verbatim Transcript)",
   "year": 1928,
-  "category": "Epic Poetry, Ballads & Plays",
+  "category": "Poetry & Epic Verse",
   "companionSlug": "george-bernard-shaw",
   "companionTitle": "George Bernard Shaw (1909)",
   "unabridged": true,

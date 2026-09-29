@@ -9,7 +9,7 @@
   "titleEn": "The Man Who Knew Too Much",
   "subtitle": "Eight Inquiries of Horne Fisher into British High Society",
   "year": 1922,
-  "category": "Fantastic & Metaphysical Novels",
+  "category": "Novels & Fantastic Romances",
   "companionSlug": "the-innocence-of-father-brown",
   "companionTitle": "The Innocence of Father Brown (1911)",
   "unabridged": true,

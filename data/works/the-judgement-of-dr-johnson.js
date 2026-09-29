@@ -9,7 +9,7 @@
   "titleEn": "The Judgement of Dr. Johnson",
   "subtitle": "A Three-Act Historical Comedy",
   "year": 1927,
-  "category": "Epic Poetry, Ballads & Plays",
+  "category": "Poetry & Epic Verse",
   "companionSlug": "magic-a-fantastic-comedy",
   "companionTitle": "Magic: A Fantastic Comedy (1913)",
   "unabridged": true,

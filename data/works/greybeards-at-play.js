@@ -9,7 +9,7 @@
   "titleEn": "Greybeards at Play",
   "subtitle": "Literature and Art for Old Gentlemen (Chesterton's First Book)",
   "year": 1900,
-  "category": "Epic Poetry, Ballads & Plays",
+  "category": "Poetry & Epic Verse",
   "companionSlug": "the-wild-knight-and-other-poems",
   "companionTitle": "The Wild Knight and Other Poems (1900)",
   "unabridged": true,

@@ -9,7 +9,7 @@
   "titleEn": "Irish Impressions",
   "subtitle": "Peasant Ownership, Nationalism, and the Soul of Ireland",
   "year": 1919,
-  "category": "Social Philosophy & Distributism",
+  "category": "Distributism, Politics & Social Philosophy",
   "companionSlug": "the-outline-of-sanity",
   "companionTitle": "The Outline of Sanity (1926)",
   "unabridged": true,

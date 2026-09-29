@@ -9,7 +9,7 @@
   "titleEn": "Lunacy and Letters",
   "subtitle": "Essays on Nonsense, Literature, and Fleet Street Fun",
   "year": 1958,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "the-defendant",
   "companionTitle": "The Defendant (1901)",
   "unabridged": true,

@@ -9,7 +9,7 @@
   "titleEn": "What I Saw in America",
   "subtitle": "Impressions of Democracy, Prohibition, and American Energy",
   "year": 1922,
-  "category": "History & Travelogues",
+  "category": "Distributism, Politics & Social Philosophy",
   "companionSlug": "a-short-history-of-england",
   "companionTitle": "A Short History of England (1917)",
   "unabridged": true,

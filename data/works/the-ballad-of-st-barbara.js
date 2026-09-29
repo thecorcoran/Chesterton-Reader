@@ -9,7 +9,7 @@
   "titleEn": "The Ballad of St. Barbara and Other Verses",
   "subtitle": "Lepanto, The Secret People, and Heroic Ballads",
   "year": 1922,
-  "category": "Epic Poetry, Ballads & Plays",
+  "category": "Poetry & Epic Verse",
   "companionSlug": "the-ballad-of-the-white-horse",
   "companionTitle": "The Ballad of the White Horse (1911)",
   "unabridged": true,

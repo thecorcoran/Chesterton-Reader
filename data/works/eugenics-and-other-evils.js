@@ -9,7 +9,7 @@
   "titleEn": "Eugenics and Other Evils",
   "subtitle": "An Argument Against the Scientifically Organized State",
   "year": 1922,
-  "category": "Social Philosophy & Distributism",
+  "category": "Distributism, Politics & Social Philosophy",
   "companionSlug": "whats-wrong-with-the-world",
   "companionTitle": "What's Wrong with the World (1910)",
   "unabridged": true,

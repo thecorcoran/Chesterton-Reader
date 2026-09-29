@@ -9,7 +9,7 @@
   "titleEn": "G.K.'s Weekly: The Distributist Essays",
   "subtitle": "The Voice of the Distributist League (1925–1936)",
   "year": 1925,
-  "category": "Periodicals, Journalism & Broadcasts",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "the-outline-of-sanity",
   "companionTitle": "The Outline of Sanity (1926)",
   "unabridged": true,

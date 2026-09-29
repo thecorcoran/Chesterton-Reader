@@ -9,7 +9,7 @@
   "titleEn": "The Scandal of Father Brown",
   "subtitle": "The Final Eight Cases of Father Brown",
   "year": 1935,
-  "category": "The Father Brown Mysteries",
+  "category": "Father Brown Mysteries & Detective Fiction",
   "companionSlug": "the-innocence-of-father-brown",
   "companionTitle": "The Innocence of Father Brown (1911)",
   "unabridged": true,

@@ -9,7 +9,7 @@
   "titleEn": "All I Survey: A Book of Essays",
   "subtitle": "Reflections on Architecture, Travel, and Modern Fads",
   "year": 1933,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "all-is-grist",
   "companionTitle": "All is Grist (1931)",
   "unabridged": true,

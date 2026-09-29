@@ -9,7 +9,7 @@
   "titleEn": "The Incredulity of Father Brown",
   "subtitle": "Eight Inquiries into Miracles, Curses, and Supernatural Illusions",
   "year": 1926,
-  "category": "The Father Brown Mysteries",
+  "category": "Father Brown Mysteries & Detective Fiction",
   "companionSlug": "the-secret-of-father-brown",
   "companionTitle": "The Secret of Father Brown (1927)",
   "unabridged": true,

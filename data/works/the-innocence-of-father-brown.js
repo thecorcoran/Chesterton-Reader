@@ -9,7 +9,7 @@
   "titleEn": "The Innocence of Father Brown",
   "subtitle": "The Complete 12 Canonical Inquiries",
   "year": 1911,
-  "category": "The Father Brown Mysteries",
+  "category": "Father Brown Mysteries & Detective Fiction",
   "companionSlug": "the-wisdom-of-father-brown",
   "companionTitle": "The Wisdom of Father Brown (1914)",
   "unabridged": true,

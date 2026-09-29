@@ -9,7 +9,7 @@
   "titleEn": "Tales of the Long Bow",
   "subtitle": "Eight Satirical Romances of Distributist Triumph",
   "year": 1925,
-  "category": "Fantastic & Metaphysical Novels",
+  "category": "Novels & Fantastic Romances",
   "companionSlug": "the-outline-of-sanity",
   "companionTitle": "The Outline of Sanity (1926)",
   "unabridged": true,

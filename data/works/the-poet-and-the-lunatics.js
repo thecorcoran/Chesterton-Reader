@@ -9,7 +9,7 @@
   "titleEn": "The Poet and the Lunatics",
   "subtitle": "Episodes in the Life of Gabriel Gale",
   "year": 1929,
-  "category": "Fantastic & Metaphysical Novels",
+  "category": "Novels & Fantastic Romances",
   "companionSlug": "the-innocence-of-father-brown",
   "companionTitle": "The Innocence of Father Brown (1911)",
   "unabridged": true,

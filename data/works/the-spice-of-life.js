@@ -9,7 +9,7 @@
   "titleEn": "The Spice of Life and Other Essays",
   "subtitle": "Late Broadcasts, Reflections, and Final Wisdom",
   "year": 1936,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "bbc-radio-talks-and-broadcasts",
   "companionTitle": "The BBC Radio Broadcasts (1931–1936)",
   "unabridged": true,

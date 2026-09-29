@@ -9,7 +9,7 @@
   "titleEn": "Our Note Book: The Illustrated London News Essays",
   "subtitle": "Thirty-One Years of Weekly Columns (1905–1936)",
   "year": 1905,
-  "category": "Periodicals, Journalism & Broadcasts",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "daily-news-essays",
   "companionTitle": "The Daily News Essays (1902–1913)",
   "unabridged": true,

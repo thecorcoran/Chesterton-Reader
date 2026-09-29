@@ -9,7 +9,7 @@
   "titleEn": "The Ballad of the White Horse",
   "subtitle": "The Epic of King Alfred the Great and the Battle of Ethandune",
   "year": 1911,
-  "category": "Epic Poetry, Ballads & Plays",
+  "category": "Poetry & Epic Verse",
   "companionSlug": "the-ballad-of-st-barbara",
   "companionTitle": "The Ballad of St. Barbara (1922)",
   "unabridged": true,

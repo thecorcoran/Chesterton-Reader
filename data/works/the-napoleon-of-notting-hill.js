@@ -9,7 +9,7 @@
   "titleEn": "The Napoleon of Notting Hill",
   "subtitle": "A Romance of Local Patriotism & Defiance",
   "year": 1904,
-  "category": "Fantastic & Metaphysical Novels",
+  "category": "Novels & Fantastic Romances",
   "companionSlug": "the-man-who-was-thursday",
   "companionTitle": "The Man Who Was Thursday (1908)",
   "unabridged": true,

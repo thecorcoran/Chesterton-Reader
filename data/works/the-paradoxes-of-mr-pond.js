@@ -9,7 +9,7 @@
   "titleEn": "The Paradoxes of Mr. Pond",
   "subtitle": "Eight Inquiries of the Civil Service Sleuth",
   "year": 1937,
-  "category": "Fantastic & Metaphysical Novels",
+  "category": "Novels & Fantastic Romances",
   "companionSlug": "the-innocence-of-father-brown",
   "companionTitle": "The Innocence of Father Brown (1911)",
   "unabridged": true,

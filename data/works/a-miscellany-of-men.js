@@ -9,7 +9,7 @@
   "titleEn": "A Miscellany of Men",
   "subtitle": "Thirty-Eight Portraits of Human Types, Fools, and Philosophers",
   "year": 1912,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "tremendous-trifles",
   "companionTitle": "Tremendous Trifles (1909)",
   "unabridged": true,

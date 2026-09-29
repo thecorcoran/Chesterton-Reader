@@ -9,7 +9,7 @@
   "titleEn": "The Club of Queer Trades",
   "subtitle": "Eccentric Vocations and Intuitive Sleuths",
   "year": 1905,
-  "category": "Fantastic & Metaphysical Novels",
+  "category": "Novels & Fantastic Romances",
   "companionSlug": "the-innocence-of-father-brown",
   "companionTitle": "The Innocence of Father Brown (1911)",
   "unabridged": true,

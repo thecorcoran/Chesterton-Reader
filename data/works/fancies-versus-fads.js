@@ -9,7 +9,7 @@
   "titleEn": "Fancies Versus Fads",
   "subtitle": "Thirty Essays on Modern Manias, Psychoanalysis, and Free Verse",
   "year": 1923,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "the-uses-of-diversity",
   "companionTitle": "The Uses of Diversity (1920)",
   "unabridged": true,

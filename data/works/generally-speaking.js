@@ -9,7 +9,7 @@
   "titleEn": "Generally Speaking",
   "subtitle": "Essays on Archaeology, Christmas, and Modern Fashions",
   "year": 1928,
-  "category": "Essays & Master Trifles",
+  "category": "Essays & Fleet Street Journalism",
   "companionSlug": "all-is-grist",
   "companionTitle": "All is Grist (1931)",
   "unabridged": true,

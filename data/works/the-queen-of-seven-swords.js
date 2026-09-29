@@ -9,7 +9,7 @@
   "titleEn": "The Queen of Seven Swords",
   "subtitle": "Marian Devotional Poems & Songs of the Mother of God",
   "year": 1926,
-  "category": "Epic Poetry, Ballads & Plays",
+  "category": "Poetry & Epic Verse",
   "companionSlug": "the-ballad-of-st-barbara",
   "companionTitle": "The Ballad of St. Barbara (1922)",
   "unabridged": true,

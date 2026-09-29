@@ -9,7 +9,7 @@
   "titleEn": "The End of the Armistice",
   "subtitle": "Prophetic Essays on Totalitarianism and the Defense of Europe",
   "year": 1940,
-  "category": "Social Philosophy & Distributism",
+  "category": "Distributism, Politics & Social Philosophy",
   "companionSlug": "eugenics-and-other-evils",
   "companionTitle": "Eugenics and Other Evils (1922)",
   "unabridged": true,
