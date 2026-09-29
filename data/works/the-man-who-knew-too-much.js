@@ -56,122 +56,122 @@
     {
       "id": "p-001",
       "sectionId": "story-1",
-      "text": "In I. The Face in the Target, Horne Fisher looks with sad, weary eyes upon the political elite of Britain."
+      "text": "In I. The Face in the Target, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "story-1",
-      "text": "'I know too much,' said Horne Fisher. 'That is my tragedy. I know the Prime Minister is the cousin of the murderer, and the Chancellor is the debtor of the thief. The law cannot touch them; but truth remains.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "story-1",
-      "text": "Horne Fisher solves the dark puzzle, balancing private integrity against public ruin."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
       "sectionId": "story-2",
-      "text": "In II. The Vanishing Prince, Horne Fisher looks with sad, weary eyes upon the political elite of Britain."
+      "text": "In II. The Vanishing Prince, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
       "sectionId": "story-2",
-      "text": "'I know too much,' said Horne Fisher. 'That is my tragedy. I know the Prime Minister is the cousin of the murderer, and the Chancellor is the debtor of the thief. The law cannot touch them; but truth remains.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "story-2",
-      "text": "Horne Fisher solves the dark puzzle, balancing private integrity against public ruin."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
       "sectionId": "story-3",
-      "text": "In III. The Soul of the Schoolboy, Horne Fisher looks with sad, weary eyes upon the political elite of Britain."
+      "text": "In III. The Soul of the Schoolboy, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
       "sectionId": "story-3",
-      "text": "'I know too much,' said Horne Fisher. 'That is my tragedy. I know the Prime Minister is the cousin of the murderer, and the Chancellor is the debtor of the thief. The law cannot touch them; but truth remains.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
       "sectionId": "story-3",
-      "text": "Horne Fisher solves the dark puzzle, balancing private integrity against public ruin."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
       "sectionId": "story-4",
-      "text": "In IV. The Bottomless Well, Horne Fisher looks with sad, weary eyes upon the political elite of Britain."
+      "text": "In IV. The Bottomless Well, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
       "sectionId": "story-4",
-      "text": "'I know too much,' said Horne Fisher. 'That is my tragedy. I know the Prime Minister is the cousin of the murderer, and the Chancellor is the debtor of the thief. The law cannot touch them; but truth remains.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
       "sectionId": "story-4",
-      "text": "Horne Fisher solves the dark puzzle, balancing private integrity against public ruin."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
       "sectionId": "story-5",
-      "text": "In V. The Fad of the Fisherman, Horne Fisher looks with sad, weary eyes upon the political elite of Britain."
+      "text": "In V. The Fad of the Fisherman, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
       "sectionId": "story-5",
-      "text": "'I know too much,' said Horne Fisher. 'That is my tragedy. I know the Prime Minister is the cousin of the murderer, and the Chancellor is the debtor of the thief. The law cannot touch them; but truth remains.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
       "sectionId": "story-5",
-      "text": "Horne Fisher solves the dark puzzle, balancing private integrity against public ruin."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-016",
       "sectionId": "story-6",
-      "text": "In VI. The Hole in the Wall, Horne Fisher looks with sad, weary eyes upon the political elite of Britain."
+      "text": "In VI. The Hole in the Wall, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-017",
       "sectionId": "story-6",
-      "text": "'I know too much,' said Horne Fisher. 'That is my tragedy. I know the Prime Minister is the cousin of the murderer, and the Chancellor is the debtor of the thief. The law cannot touch them; but truth remains.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-018",
       "sectionId": "story-6",
-      "text": "Horne Fisher solves the dark puzzle, balancing private integrity against public ruin."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-019",
       "sectionId": "story-7",
-      "text": "In VII. The Temple of the Tower, Horne Fisher looks with sad, weary eyes upon the political elite of Britain."
+      "text": "In VII. The Temple of the Tower, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-020",
       "sectionId": "story-7",
-      "text": "'I know too much,' said Horne Fisher. 'That is my tragedy. I know the Prime Minister is the cousin of the murderer, and the Chancellor is the debtor of the thief. The law cannot touch them; but truth remains.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-021",
       "sectionId": "story-7",
-      "text": "Horne Fisher solves the dark puzzle, balancing private integrity against public ruin."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-022",
       "sectionId": "story-8",
-      "text": "In VIII. The Vengeance of the Statue, Horne Fisher looks with sad, weary eyes upon the political elite of Britain."
+      "text": "In VIII. The Vengeance of the Statue, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-023",
       "sectionId": "story-8",
-      "text": "'I know too much,' said Horne Fisher. 'That is my tragedy. I know the Prime Minister is the cousin of the murderer, and the Chancellor is the debtor of the thief. The law cannot touch them; but truth remains.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-024",
       "sectionId": "story-8",
-      "text": "Horne Fisher solves the dark puzzle, balancing private integrity against public ruin."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };

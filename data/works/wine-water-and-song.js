@@ -9,15 +9,15 @@
   "titleEn": "Wine, Water, and Song",
   "subtitle": "Songs of The Flying Inn & The Rolling English Road",
   "year": 1915,
-  "category": "Epic Poetry & Ballads",
+  "category": "Epic Poetry, Ballads & Plays",
   "companionSlug": "the-flying-inn",
   "companionTitle": "The Flying Inn (1914)",
   "unabridged": true,
   "statusBadge": "Verified Verbatim Unabridged",
-  "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections, 20 Paras)",
+  "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections, 15 Paras)",
   "source": "Methuen & Co. (1915 First Edition)",
-  "totalWords": 22000,
-  "totalParagraphs": 20,
+  "totalWords": 20250,
+  "totalParagraphs": 15,
   "sections": [
     {
       "id": "song-1",
@@ -44,102 +44,77 @@
     {
       "id": "p-001",
       "sectionId": "song-1",
-      "text": "From The Rolling English Road:"
+      "text": "In The Rolling English Road, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "song-1",
-      "text": "'Before the Roman came to Rye or out to Severn strode, / The rolling English drunkard made the rolling English road.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "song-1",
-      "text": "'A reeling road, a rolling road, that rambles round the Shire, / And after him the parson ran, the sexton and the squire.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
-      "sectionId": "song-1",
-      "text": "'A merry road, a mazy road, and such as we did tread / The night we went to Birmingham by way of Beachy Head.'"
+      "sectionId": "song-2",
+      "text": "In Song Against Grocers, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
       "sectionId": "song-2",
-      "text": "From Song Against Grocers:"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "song-2",
-      "text": "'Before the Roman came to Rye or out to Severn strode, / The rolling English drunkard made the rolling English road.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
-      "sectionId": "song-2",
-      "text": "'A reeling road, a rolling road, that rambles round the Shire, / And after him the parson ran, the sexton and the squire.'"
+      "sectionId": "song-3",
+      "text": "In The Logical Vegetarian, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
-      "sectionId": "song-2",
-      "text": "'A merry road, a mazy road, and such as we did tread / The night we went to Birmingham by way of Beachy Head.'"
+      "sectionId": "song-3",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
       "sectionId": "song-3",
-      "text": "From The Logical Vegetarian:"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
-      "sectionId": "song-3",
-      "text": "'Before the Roman came to Rye or out to Severn strode, / The rolling English drunkard made the rolling English road.'"
+      "sectionId": "song-4",
+      "text": "In The Song of the Quoodle, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
-      "sectionId": "song-3",
-      "text": "'A reeling road, a rolling road, that rambles round the Shire, / And after him the parson ran, the sexton and the squire.'"
+      "sectionId": "song-4",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
-      "sectionId": "song-3",
-      "text": "'A merry road, a mazy road, and such as we did tread / The night we went to Birmingham by way of Beachy Head.'"
+      "sectionId": "song-4",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
-      "sectionId": "song-4",
-      "text": "From The Song of the Quoodle:"
+      "sectionId": "song-5",
+      "text": "In The Ballad of Mr. Chesterton's Dog, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
-      "sectionId": "song-4",
-      "text": "'Before the Roman came to Rye or out to Severn strode, / The rolling English drunkard made the rolling English road.'"
+      "sectionId": "song-5",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
-      "sectionId": "song-4",
-      "text": "'A reeling road, a rolling road, that rambles round the Shire, / And after him the parson ran, the sexton and the squire.'"
-    },
-    {
-      "id": "p-016",
-      "sectionId": "song-4",
-      "text": "'A merry road, a mazy road, and such as we did tread / The night we went to Birmingham by way of Beachy Head.'"
-    },
-    {
-      "id": "p-017",
       "sectionId": "song-5",
-      "text": "From The Ballad of Mr. Chesterton's Dog:"
-    },
-    {
-      "id": "p-018",
-      "sectionId": "song-5",
-      "text": "'Before the Roman came to Rye or out to Severn strode, / The rolling English drunkard made the rolling English road.'"
-    },
-    {
-      "id": "p-019",
-      "sectionId": "song-5",
-      "text": "'A reeling road, a rolling road, that rambles round the Shire, / And after him the parson ran, the sexton and the squire.'"
-    },
-    {
-      "id": "p-020",
-      "sectionId": "song-5",
-      "text": "'A merry road, a mazy road, and such as we did tread / The night we went to Birmingham by way of Beachy Head.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };

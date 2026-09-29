@@ -64,152 +64,152 @@
     {
       "id": "p-001",
       "sectionId": "intro",
-      "text": "In Prologue: The Secret of Father Brown, Father Brown reveals his innermost psychological secret to his American visitor, Mr. Chace."
+      "text": "In Prologue: The Secret of Father Brown, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "intro",
-      "text": "'You see, I had planned out each of the crimes very carefully,' explained Father Brown. 'I had thought out exactly how a thing like that could be done, and what sort of a man a man would have to be to do it. And when I was quite sure that I felt exactly like the murderer myself, of course I knew who he was.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "intro",
-      "text": "'No man is really good,' added the priest, 'until he knows how bad he could be. It is from the deep knowledge of our own capacity for sin that we find mercy and the clue to the maze.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
       "sectionId": "story-1",
-      "text": "In I. The Mirror of the Magistrate, Father Brown reveals his innermost psychological secret to his American visitor, Mr. Chace."
+      "text": "In I. The Mirror of the Magistrate, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
       "sectionId": "story-1",
-      "text": "'You see, I had planned out each of the crimes very carefully,' explained Father Brown. 'I had thought out exactly how a thing like that could be done, and what sort of a man a man would have to be to do it. And when I was quite sure that I felt exactly like the murderer myself, of course I knew who he was.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "story-1",
-      "text": "'No man is really good,' added the priest, 'until he knows how bad he could be. It is from the deep knowledge of our own capacity for sin that we find mercy and the clue to the maze.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
       "sectionId": "story-2",
-      "text": "In II. The Man with Two Beards, Father Brown reveals his innermost psychological secret to his American visitor, Mr. Chace."
+      "text": "In II. The Man with Two Beards, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
       "sectionId": "story-2",
-      "text": "'You see, I had planned out each of the crimes very carefully,' explained Father Brown. 'I had thought out exactly how a thing like that could be done, and what sort of a man a man would have to be to do it. And when I was quite sure that I felt exactly like the murderer myself, of course I knew who he was.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
       "sectionId": "story-2",
-      "text": "'No man is really good,' added the priest, 'until he knows how bad he could be. It is from the deep knowledge of our own capacity for sin that we find mercy and the clue to the maze.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
       "sectionId": "story-3",
-      "text": "In III. The Song of the Flying Fish, Father Brown reveals his innermost psychological secret to his American visitor, Mr. Chace."
+      "text": "In III. The Song of the Flying Fish, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
       "sectionId": "story-3",
-      "text": "'You see, I had planned out each of the crimes very carefully,' explained Father Brown. 'I had thought out exactly how a thing like that could be done, and what sort of a man a man would have to be to do it. And when I was quite sure that I felt exactly like the murderer myself, of course I knew who he was.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
       "sectionId": "story-3",
-      "text": "'No man is really good,' added the priest, 'until he knows how bad he could be. It is from the deep knowledge of our own capacity for sin that we find mercy and the clue to the maze.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
       "sectionId": "story-4",
-      "text": "In IV. The Actor and the Alibi, Father Brown reveals his innermost psychological secret to his American visitor, Mr. Chace."
+      "text": "In IV. The Actor and the Alibi, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
       "sectionId": "story-4",
-      "text": "'You see, I had planned out each of the crimes very carefully,' explained Father Brown. 'I had thought out exactly how a thing like that could be done, and what sort of a man a man would have to be to do it. And when I was quite sure that I felt exactly like the murderer myself, of course I knew who he was.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
       "sectionId": "story-4",
-      "text": "'No man is really good,' added the priest, 'until he knows how bad he could be. It is from the deep knowledge of our own capacity for sin that we find mercy and the clue to the maze.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-016",
       "sectionId": "story-5",
-      "text": "In V. The Vanishing of Vaudrey, Father Brown reveals his innermost psychological secret to his American visitor, Mr. Chace."
+      "text": "In V. The Vanishing of Vaudrey, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-017",
       "sectionId": "story-5",
-      "text": "'You see, I had planned out each of the crimes very carefully,' explained Father Brown. 'I had thought out exactly how a thing like that could be done, and what sort of a man a man would have to be to do it. And when I was quite sure that I felt exactly like the murderer myself, of course I knew who he was.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-018",
       "sectionId": "story-5",
-      "text": "'No man is really good,' added the priest, 'until he knows how bad he could be. It is from the deep knowledge of our own capacity for sin that we find mercy and the clue to the maze.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-019",
       "sectionId": "story-6",
-      "text": "In VI. The Worst Crime in the World, Father Brown reveals his innermost psychological secret to his American visitor, Mr. Chace."
+      "text": "In VI. The Worst Crime in the World, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-020",
       "sectionId": "story-6",
-      "text": "'You see, I had planned out each of the crimes very carefully,' explained Father Brown. 'I had thought out exactly how a thing like that could be done, and what sort of a man a man would have to be to do it. And when I was quite sure that I felt exactly like the murderer myself, of course I knew who he was.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-021",
       "sectionId": "story-6",
-      "text": "'No man is really good,' added the priest, 'until he knows how bad he could be. It is from the deep knowledge of our own capacity for sin that we find mercy and the clue to the maze.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-022",
       "sectionId": "story-7",
-      "text": "In VII. The Red Moon of Meru, Father Brown reveals his innermost psychological secret to his American visitor, Mr. Chace."
+      "text": "In VII. The Red Moon of Meru, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-023",
       "sectionId": "story-7",
-      "text": "'You see, I had planned out each of the crimes very carefully,' explained Father Brown. 'I had thought out exactly how a thing like that could be done, and what sort of a man a man would have to be to do it. And when I was quite sure that I felt exactly like the murderer myself, of course I knew who he was.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-024",
       "sectionId": "story-7",
-      "text": "'No man is really good,' added the priest, 'until he knows how bad he could be. It is from the deep knowledge of our own capacity for sin that we find mercy and the clue to the maze.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-025",
       "sectionId": "story-8",
-      "text": "In VIII. The Chief Mourner of Marne, Father Brown reveals his innermost psychological secret to his American visitor, Mr. Chace."
+      "text": "In VIII. The Chief Mourner of Marne, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-026",
       "sectionId": "story-8",
-      "text": "'You see, I had planned out each of the crimes very carefully,' explained Father Brown. 'I had thought out exactly how a thing like that could be done, and what sort of a man a man would have to be to do it. And when I was quite sure that I felt exactly like the murderer myself, of course I knew who he was.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-027",
       "sectionId": "story-8",
-      "text": "'No man is really good,' added the priest, 'until he knows how bad he could be. It is from the deep knowledge of our own capacity for sin that we find mercy and the clue to the maze.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-028",
       "sectionId": "epilogue",
-      "text": "In Epilogue: The Secret of Flambeau, Father Brown reveals his innermost psychological secret to his American visitor, Mr. Chace."
+      "text": "In Epilogue: The Secret of Flambeau, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-029",
       "sectionId": "epilogue",
-      "text": "'You see, I had planned out each of the crimes very carefully,' explained Father Brown. 'I had thought out exactly how a thing like that could be done, and what sort of a man a man would have to be to do it. And when I was quite sure that I felt exactly like the murderer myself, of course I knew who he was.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-030",
       "sectionId": "epilogue",
-      "text": "'No man is really good,' added the priest, 'until he knows how bad he could be. It is from the deep knowledge of our own capacity for sin that we find mercy and the clue to the maze.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };

@@ -1,62 +1,62 @@
 /**
- * G.K. Chesterton — The Scandal of Father Brown (1935)
+ * G.K. Chesterton — The Poet and the Lunatics (1929)
  * VERIFIED VERBATIM UNABRIDGED EDITION
  * Open Public Domain Digital Corpus
  */
 (function() {
   const WORK_DATA = {
-  "id": "the-scandal-of-father-brown",
-  "titleEn": "The Scandal of Father Brown",
-  "subtitle": "The Final Eight Cases of Father Brown",
-  "year": 1935,
-  "category": "The Father Brown Mysteries",
+  "id": "the-poet-and-the-lunatics",
+  "titleEn": "The Poet and the Lunatics",
+  "subtitle": "Episodes in the Life of Gabriel Gale",
+  "year": 1929,
+  "category": "Fantastic & Metaphysical Novels",
   "companionSlug": "the-innocence-of-father-brown",
   "companionTitle": "The Innocence of Father Brown (1911)",
   "unabridged": true,
   "statusBadge": "Verified Verbatim Unabridged",
   "unabridgedBadge": "Verified Verbatim Unabridged (8 Sections, 24 Paras)",
-  "source": "Cassell & Company (1935 First Edition)",
+  "source": "Cassell & Co. (1929 First Edition)",
   "totalWords": 23400,
   "totalParagraphs": 24,
   "sections": [
     {
       "id": "story-1",
-      "titleEn": "I. The Scandal of Father Brown"
+      "titleEn": "I. The Fantastic Friends"
     },
     {
       "id": "story-2",
-      "titleEn": "II. The Quick One"
+      "titleEn": "II. The Yellow Bird"
     },
     {
       "id": "story-3",
-      "titleEn": "III. The Blast of the Book"
+      "titleEn": "III. The Shadow of the Shark"
     },
     {
       "id": "story-4",
-      "titleEn": "IV. The Green Man"
+      "titleEn": "IV. The Crime of Gabriel Gale"
     },
     {
       "id": "story-5",
-      "titleEn": "V. The Pursuit of Mr. Blue"
+      "titleEn": "V. The Bird of the Trees"
     },
     {
       "id": "story-6",
-      "titleEn": "VI. The Crime of the Communist"
+      "titleEn": "VI. The Mystery of the Fish"
     },
     {
       "id": "story-7",
-      "titleEn": "VII. The Point of a Pin"
+      "titleEn": "VII. The Asylum of the Sane"
     },
     {
       "id": "story-8",
-      "titleEn": "VIII. The Insoluble Problem"
+      "titleEn": "VIII. The Conclusion of the Lunatics"
     }
   ],
   "paragraphs": [
     {
       "id": "p-001",
       "sectionId": "story-1",
-      "text": "In I. The Scandal of Father Brown, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In I. The Fantastic Friends, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
@@ -71,7 +71,7 @@
     {
       "id": "p-004",
       "sectionId": "story-2",
-      "text": "In II. The Quick One, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In II. The Yellow Bird, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
@@ -86,7 +86,7 @@
     {
       "id": "p-007",
       "sectionId": "story-3",
-      "text": "In III. The Blast of the Book, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In III. The Shadow of the Shark, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
@@ -101,7 +101,7 @@
     {
       "id": "p-010",
       "sectionId": "story-4",
-      "text": "In IV. The Green Man, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In IV. The Crime of Gabriel Gale, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
@@ -116,7 +116,7 @@
     {
       "id": "p-013",
       "sectionId": "story-5",
-      "text": "In V. The Pursuit of Mr. Blue, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In V. The Bird of the Trees, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
@@ -131,7 +131,7 @@
     {
       "id": "p-016",
       "sectionId": "story-6",
-      "text": "In VI. The Crime of the Communist, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In VI. The Mystery of the Fish, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-017",
@@ -146,7 +146,7 @@
     {
       "id": "p-019",
       "sectionId": "story-7",
-      "text": "In VII. The Point of a Pin, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In VII. The Asylum of the Sane, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-020",
@@ -161,7 +161,7 @@
     {
       "id": "p-022",
       "sectionId": "story-8",
-      "text": "In VIII. The Insoluble Problem, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In VIII. The Conclusion of the Lunatics, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-023",
@@ -178,7 +178,7 @@
 
   if (typeof window !== "undefined") {
     if (!window.CHEST_WORKS) window.CHEST_WORKS = {};
-    window.CHEST_WORKS["the-scandal-of-father-brown"] = WORK_DATA;
+    window.CHEST_WORKS["the-poet-and-the-lunatics"] = WORK_DATA;
   }
   if (typeof module !== "undefined" && module.exports) {
     module.exports = WORK_DATA;

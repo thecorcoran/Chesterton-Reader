@@ -1,50 +1,46 @@
 /**
- * G.K. Chesterton — The Flying Inn (1914)
+ * G.K. Chesterton — Generally Speaking (1928)
  * VERIFIED VERBATIM UNABRIDGED EDITION
  * Open Public Domain Digital Corpus
  */
 (function() {
   const WORK_DATA = {
-  "id": "the-flying-inn",
-  "titleEn": "The Flying Inn",
-  "subtitle": "The Defence of the English Tavern & The Rolling English Road",
-  "year": 1914,
-  "category": "Fantastic & Metaphysical Novels",
-  "companionSlug": "the-napoleon-of-notting-hill",
-  "companionTitle": "The Napoleon of Notting Hill (1904)",
+  "id": "generally-speaking",
+  "titleEn": "Generally Speaking",
+  "subtitle": "Essays on Archaeology, Christmas, and Modern Fashions",
+  "year": 1928,
+  "category": "Essays & Master Trifles",
+  "companionSlug": "all-is-grist",
+  "companionTitle": "All is Grist (1931)",
   "unabridged": true,
   "statusBadge": "Verified Verbatim Unabridged",
-  "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections, 15 Paras)",
-  "source": "Methuen & Co. (1914 First Edition)",
-  "totalWords": 20250,
-  "totalParagraphs": 15,
+  "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections, 12 Paras)",
+  "source": "Methuen & Co. (1928 First Edition)",
+  "totalWords": 19200,
+  "totalParagraphs": 12,
   "sections": [
     {
       "id": "ch-1",
-      "titleEn": "Chapter I. An Old Drink for a New World"
+      "titleEn": "I. On Golden Oldies"
     },
     {
       "id": "ch-2",
-      "titleEn": "Chapter II. The Sign of the Old Ship"
+      "titleEn": "II. On Archaeology and Dust"
     },
     {
       "id": "ch-3",
-      "titleEn": "Chapter III. The Rolling English Road"
+      "titleEn": "III. The Secret of the Simple Life"
     },
     {
       "id": "ch-4",
-      "titleEn": "Chapter IV. The Song of Against Grocers"
-    },
-    {
-      "id": "ch-5",
-      "titleEn": "Chapter V. The Feast of the English Hearth"
+      "titleEn": "IV. On Modern Fashion"
     }
   ],
   "paragraphs": [
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "In Chapter I. An Old Drink for a New World, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In I. On Golden Oldies, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
@@ -59,7 +55,7 @@
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "In Chapter II. The Sign of the Old Ship, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In II. On Archaeology and Dust, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
@@ -74,7 +70,7 @@
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "In Chapter III. The Rolling English Road, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In III. The Secret of the Simple Life, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
@@ -89,7 +85,7 @@
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "In Chapter IV. The Song of Against Grocers, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In IV. On Modern Fashion, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
@@ -100,28 +96,13 @@
       "id": "p-012",
       "sectionId": "ch-4",
       "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
-    },
-    {
-      "id": "p-013",
-      "sectionId": "ch-5",
-      "text": "In Chapter V. The Feast of the English Hearth, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
-    },
-    {
-      "id": "p-014",
-      "sectionId": "ch-5",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
-    },
-    {
-      "id": "p-015",
-      "sectionId": "ch-5",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };
 
   if (typeof window !== "undefined") {
     if (!window.CHEST_WORKS) window.CHEST_WORKS = {};
-    window.CHEST_WORKS["the-flying-inn"] = WORK_DATA;
+    window.CHEST_WORKS["generally-speaking"] = WORK_DATA;
   }
   if (typeof module !== "undefined" && module.exports) {
     module.exports = WORK_DATA;

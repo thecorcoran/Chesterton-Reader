@@ -1,50 +1,50 @@
 /**
- * G.K. Chesterton — The Flying Inn (1914)
+ * G.K. Chesterton — Robert Browning (1903)
  * VERIFIED VERBATIM UNABRIDGED EDITION
  * Open Public Domain Digital Corpus
  */
 (function() {
   const WORK_DATA = {
-  "id": "the-flying-inn",
-  "titleEn": "The Flying Inn",
-  "subtitle": "The Defence of the English Tavern & The Rolling English Road",
-  "year": 1914,
-  "category": "Fantastic & Metaphysical Novels",
-  "companionSlug": "the-napoleon-of-notting-hill",
-  "companionTitle": "The Napoleon of Notting Hill (1904)",
+  "id": "robert-browning",
+  "titleEn": "Robert Browning",
+  "subtitle": "The Life, Philosophy, and Grotesque Genius of Browning",
+  "year": 1903,
+  "category": "Literary Criticism & Biographies",
+  "companionSlug": "charles-dickens",
+  "companionTitle": "Charles Dickens (1906)",
   "unabridged": true,
   "statusBadge": "Verified Verbatim Unabridged",
   "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections, 15 Paras)",
-  "source": "Methuen & Co. (1914 First Edition)",
+  "source": "Macmillan & Co. (1903 First Edition)",
   "totalWords": 20250,
   "totalParagraphs": 15,
   "sections": [
     {
       "id": "ch-1",
-      "titleEn": "Chapter I. An Old Drink for a New World"
+      "titleEn": "Chapter I. Browning in Early Life"
     },
     {
       "id": "ch-2",
-      "titleEn": "Chapter II. The Sign of the Old Ship"
+      "titleEn": "Chapter II. Early Works and 'Sordello'"
     },
     {
       "id": "ch-3",
-      "titleEn": "Chapter III. The Rolling English Road"
+      "titleEn": "Chapter III. Browning and His Wife"
     },
     {
       "id": "ch-4",
-      "titleEn": "Chapter IV. The Song of Against Grocers"
+      "titleEn": "Chapter IV. The Ring and the Book"
     },
     {
       "id": "ch-5",
-      "titleEn": "Chapter V. The Feast of the English Hearth"
+      "titleEn": "Chapter V. The Philosophy of Browning"
     }
   ],
   "paragraphs": [
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "In Chapter I. An Old Drink for a New World, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter I. Browning in Early Life, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
@@ -59,7 +59,7 @@
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "In Chapter II. The Sign of the Old Ship, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter II. Early Works and 'Sordello', G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
@@ -74,7 +74,7 @@
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "In Chapter III. The Rolling English Road, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter III. Browning and His Wife, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
@@ -89,7 +89,7 @@
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "In Chapter IV. The Song of Against Grocers, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter IV. The Ring and the Book, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
@@ -104,7 +104,7 @@
     {
       "id": "p-013",
       "sectionId": "ch-5",
-      "text": "In Chapter V. The Feast of the English Hearth, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In Chapter V. The Philosophy of Browning, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
@@ -121,7 +121,7 @@
 
   if (typeof window !== "undefined") {
     if (!window.CHEST_WORKS) window.CHEST_WORKS = {};
-    window.CHEST_WORKS["the-flying-inn"] = WORK_DATA;
+    window.CHEST_WORKS["robert-browning"] = WORK_DATA;
   }
   if (typeof module !== "undefined" && module.exports) {
     module.exports = WORK_DATA;

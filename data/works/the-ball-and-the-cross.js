@@ -56,122 +56,122 @@
     {
       "id": "p-001",
       "sectionId": "intro",
-      "text": "In Introductory: The Flying Ship, the duel between Evan MacIan the devout Highland Jacobite and James Turnbull the militant atheist editor reaches a new crisis."
+      "text": "In Introductory: The Flying Ship, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "intro",
-      "text": "They were the only two men in the whole British Empire who took religion seriously enough to fight for it. The police, the magistrates, and the alienists treated them as lunatics because the modern world could not conceive that an idea could be worth a life."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "intro",
-      "text": "'The ball is the world, complete and self-contained,' said Turnbull. 'And the cross is the sign of contradiction,' answered MacIan, 'shattering the sphere to let in the light of the eternal.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
       "sectionId": "ch-1",
-      "text": "In Chapter I. The Duel on Ludgate Hill, the duel between Evan MacIan the devout Highland Jacobite and James Turnbull the militant atheist editor reaches a new crisis."
+      "text": "In Chapter I. The Duel on Ludgate Hill, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
       "sectionId": "ch-1",
-      "text": "They were the only two men in the whole British Empire who took religion seriously enough to fight for it. The police, the magistrates, and the alienists treated them as lunatics because the modern world could not conceive that an idea could be worth a life."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "ch-1",
-      "text": "'The ball is the world, complete and self-contained,' said Turnbull. 'And the cross is the sign of contradiction,' answered MacIan, 'shattering the sphere to let in the light of the eternal.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
       "sectionId": "ch-2",
-      "text": "In Chapter II. The Flight from the Police, the duel between Evan MacIan the devout Highland Jacobite and James Turnbull the militant atheist editor reaches a new crisis."
+      "text": "In Chapter II. The Flight from the Police, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
       "sectionId": "ch-2",
-      "text": "They were the only two men in the whole British Empire who took religion seriously enough to fight for it. The police, the magistrates, and the alienists treated them as lunatics because the modern world could not conceive that an idea could be worth a life."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
       "sectionId": "ch-2",
-      "text": "'The ball is the world, complete and self-contained,' said Turnbull. 'And the cross is the sign of contradiction,' answered MacIan, 'shattering the sphere to let in the light of the eternal.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
       "sectionId": "ch-3",
-      "text": "In Chapter III. The Inn by the Sea, the duel between Evan MacIan the devout Highland Jacobite and James Turnbull the militant atheist editor reaches a new crisis."
+      "text": "In Chapter III. The Inn by the Sea, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
       "sectionId": "ch-3",
-      "text": "They were the only two men in the whole British Empire who took religion seriously enough to fight for it. The police, the magistrates, and the alienists treated them as lunatics because the modern world could not conceive that an idea could be worth a life."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
       "sectionId": "ch-3",
-      "text": "'The ball is the world, complete and self-contained,' said Turnbull. 'And the cross is the sign of contradiction,' answered MacIan, 'shattering the sphere to let in the light of the eternal.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
       "sectionId": "ch-4",
-      "text": "In Chapter IV. The Strange Hermit, the duel between Evan MacIan the devout Highland Jacobite and James Turnbull the militant atheist editor reaches a new crisis."
+      "text": "In Chapter IV. The Strange Hermit, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
       "sectionId": "ch-4",
-      "text": "They were the only two men in the whole British Empire who took religion seriously enough to fight for it. The police, the magistrates, and the alienists treated them as lunatics because the modern world could not conceive that an idea could be worth a life."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
       "sectionId": "ch-4",
-      "text": "'The ball is the world, complete and self-contained,' said Turnbull. 'And the cross is the sign of contradiction,' answered MacIan, 'shattering the sphere to let in the light of the eternal.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-016",
       "sectionId": "ch-5",
-      "text": "In Chapter V. The Duel in the Garden, the duel between Evan MacIan the devout Highland Jacobite and James Turnbull the militant atheist editor reaches a new crisis."
+      "text": "In Chapter V. The Duel in the Garden, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-017",
       "sectionId": "ch-5",
-      "text": "They were the only two men in the whole British Empire who took religion seriously enough to fight for it. The police, the magistrates, and the alienists treated them as lunatics because the modern world could not conceive that an idea could be worth a life."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-018",
       "sectionId": "ch-5",
-      "text": "'The ball is the world, complete and self-contained,' said Turnbull. 'And the cross is the sign of contradiction,' answered MacIan, 'shattering the sphere to let in the light of the eternal.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-019",
       "sectionId": "ch-6",
-      "text": "In Chapter VI. The Great Asylum, the duel between Evan MacIan the devout Highland Jacobite and James Turnbull the militant atheist editor reaches a new crisis."
+      "text": "In Chapter VI. The Great Asylum, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-020",
       "sectionId": "ch-6",
-      "text": "They were the only two men in the whole British Empire who took religion seriously enough to fight for it. The police, the magistrates, and the alienists treated them as lunatics because the modern world could not conceive that an idea could be worth a life."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-021",
       "sectionId": "ch-6",
-      "text": "'The ball is the world, complete and self-contained,' said Turnbull. 'And the cross is the sign of contradiction,' answered MacIan, 'shattering the sphere to let in the light of the eternal.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-022",
       "sectionId": "ch-7",
-      "text": "In Chapter VII. The Triumph of the Cross, the duel between Evan MacIan the devout Highland Jacobite and James Turnbull the militant atheist editor reaches a new crisis."
+      "text": "In Chapter VII. The Triumph of the Cross, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-023",
       "sectionId": "ch-7",
-      "text": "They were the only two men in the whole British Empire who took religion seriously enough to fight for it. The police, the magistrates, and the alienists treated them as lunatics because the modern world could not conceive that an idea could be worth a life."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-024",
       "sectionId": "ch-7",
-      "text": "'The ball is the world, complete and self-contained,' said Turnbull. 'And the cross is the sign of contradiction,' answered MacIan, 'shattering the sphere to let in the light of the eternal.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };

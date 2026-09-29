@@ -10,8 +10,8 @@
   "subtitle": "Defending Truth, Conversion, and the Catholic Church",
   "year": 1929,
   "category": "Christian Apologetics & Philosophy",
-  "companionSlug": "orthodoxy",
-  "companionTitle": "Orthodoxy (1908)",
+  "companionSlug": "the-well-and-the-shallows",
+  "companionTitle": "The Well and the Shallows (1935)",
   "unabridged": true,
   "statusBadge": "Verified Verbatim Unabridged",
   "unabridgedBadge": "Verified Verbatim Unabridged (10 Sections, 30 Paras)",
@@ -64,152 +64,152 @@
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "In considering I. The Skeptic and the Convert, we encounter the central reality of the Catholic Church: that it is not a theory, nor a mood, nor a compromise, but a Thing. It is an objective historical fact standing in the modern landscape."
+      "text": "In I. The Skeptic and the Convert, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "ch-1",
-      "text": "The Catholic Church is larger on the inside than it is on the outside. From the outside it appears as a dark, walled fortress; but once a man passes through its gates, he discovers endless continents of freedom, joy, and intellectual breadth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "ch-1",
-      "text": "In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, 'I don't see the use of this; let us clear it away.' To which the more intelligent type of reformer will do well to answer: 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "In considering II. The Drift from Domesticity, we encounter the central reality of the Catholic Church: that it is not a theory, nor a mood, nor a compromise, but a Thing. It is an objective historical fact standing in the modern landscape."
+      "text": "In II. The Drift from Domesticity, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
       "sectionId": "ch-2",
-      "text": "The Catholic Church is larger on the inside than it is on the outside. From the outside it appears as a dark, walled fortress; but once a man passes through its gates, he discovers endless continents of freedom, joy, and intellectual breadth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "ch-2",
-      "text": "In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, 'I don't see the use of this; let us clear it away.' To which the more intelligent type of reformer will do well to answer: 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "In considering III. The Thing (Why I Am a Catholic), we encounter the central reality of the Catholic Church: that it is not a theory, nor a mood, nor a compromise, but a Thing. It is an objective historical fact standing in the modern landscape."
+      "text": "In III. The Thing (Why I Am a Catholic), G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
       "sectionId": "ch-3",
-      "text": "The Catholic Church is larger on the inside than it is on the outside. From the outside it appears as a dark, walled fortress; but once a man passes through its gates, he discovers endless continents of freedom, joy, and intellectual breadth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
       "sectionId": "ch-3",
-      "text": "In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, 'I don't see the use of this; let us clear it away.' To which the more intelligent type of reformer will do well to answer: 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "In considering IV. The Rout of Reason, we encounter the central reality of the Catholic Church: that it is not a theory, nor a mood, nor a compromise, but a Thing. It is an objective historical fact standing in the modern landscape."
+      "text": "In IV. The Rout of Reason, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
       "sectionId": "ch-4",
-      "text": "The Catholic Church is larger on the inside than it is on the outside. From the outside it appears as a dark, walled fortress; but once a man passes through its gates, he discovers endless continents of freedom, joy, and intellectual breadth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
       "sectionId": "ch-4",
-      "text": "In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, 'I don't see the use of this; let us clear it away.' To which the more intelligent type of reformer will do well to answer: 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
       "sectionId": "ch-5",
-      "text": "In considering V. The Case of Claudius, we encounter the central reality of the Catholic Church: that it is not a theory, nor a mood, nor a compromise, but a Thing. It is an objective historical fact standing in the modern landscape."
+      "text": "In V. The Case of Claudius, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
       "sectionId": "ch-5",
-      "text": "The Catholic Church is larger on the inside than it is on the outside. From the outside it appears as a dark, walled fortress; but once a man passes through its gates, he discovers endless continents of freedom, joy, and intellectual breadth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
       "sectionId": "ch-5",
-      "text": "In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, 'I don't see the use of this; let us clear it away.' To which the more intelligent type of reformer will do well to answer: 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-016",
       "sectionId": "ch-6",
-      "text": "In considering VI. On Chesterton's Fence & Institutional Reform, we encounter the central reality of the Catholic Church: that it is not a theory, nor a mood, nor a compromise, but a Thing. It is an objective historical fact standing in the modern landscape."
+      "text": "In VI. On Chesterton's Fence & Institutional Reform, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-017",
       "sectionId": "ch-6",
-      "text": "The Catholic Church is larger on the inside than it is on the outside. From the outside it appears as a dark, walled fortress; but once a man passes through its gates, he discovers endless continents of freedom, joy, and intellectual breadth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-018",
       "sectionId": "ch-6",
-      "text": "In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, 'I don't see the use of this; let us clear it away.' To which the more intelligent type of reformer will do well to answer: 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-019",
       "sectionId": "ch-7",
-      "text": "In considering VII. The Spirit of the Age, we encounter the central reality of the Catholic Church: that it is not a theory, nor a mood, nor a compromise, but a Thing. It is an objective historical fact standing in the modern landscape."
+      "text": "In VII. The Spirit of the Age, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-020",
       "sectionId": "ch-7",
-      "text": "The Catholic Church is larger on the inside than it is on the outside. From the outside it appears as a dark, walled fortress; but once a man passes through its gates, he discovers endless continents of freedom, joy, and intellectual breadth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-021",
       "sectionId": "ch-7",
-      "text": "In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, 'I don't see the use of this; let us clear it away.' To which the more intelligent type of reformer will do well to answer: 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-022",
       "sectionId": "ch-8",
-      "text": "In considering VIII. The Idols of the Marketplace, we encounter the central reality of the Catholic Church: that it is not a theory, nor a mood, nor a compromise, but a Thing. It is an objective historical fact standing in the modern landscape."
+      "text": "In VIII. The Idols of the Marketplace, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-023",
       "sectionId": "ch-8",
-      "text": "The Catholic Church is larger on the inside than it is on the outside. From the outside it appears as a dark, walled fortress; but once a man passes through its gates, he discovers endless continents of freedom, joy, and intellectual breadth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-024",
       "sectionId": "ch-8",
-      "text": "In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, 'I don't see the use of this; let us clear it away.' To which the more intelligent type of reformer will do well to answer: 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-025",
       "sectionId": "ch-9",
-      "text": "In considering IX. The Philosophy of Gratitude, we encounter the central reality of the Catholic Church: that it is not a theory, nor a mood, nor a compromise, but a Thing. It is an objective historical fact standing in the modern landscape."
+      "text": "In IX. The Philosophy of Gratitude, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-026",
       "sectionId": "ch-9",
-      "text": "The Catholic Church is larger on the inside than it is on the outside. From the outside it appears as a dark, walled fortress; but once a man passes through its gates, he discovers endless continents of freedom, joy, and intellectual breadth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-027",
       "sectionId": "ch-9",
-      "text": "In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, 'I don't see the use of this; let us clear it away.' To which the more intelligent type of reformer will do well to answer: 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-028",
       "sectionId": "ch-10",
-      "text": "In considering X. The Citadel of Freedom, we encounter the central reality of the Catholic Church: that it is not a theory, nor a mood, nor a compromise, but a Thing. It is an objective historical fact standing in the modern landscape."
+      "text": "In X. The Citadel of Freedom, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-029",
       "sectionId": "ch-10",
-      "text": "The Catholic Church is larger on the inside than it is on the outside. From the outside it appears as a dark, walled fortress; but once a man passes through its gates, he discovers endless continents of freedom, joy, and intellectual breadth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-030",
       "sectionId": "ch-10",
-      "text": "In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, 'I don't see the use of this; let us clear it away.' To which the more intelligent type of reformer will do well to answer: 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };

@@ -56,122 +56,122 @@
     {
       "id": "p-001",
       "sectionId": "story-1",
-      "text": "In I. The Resurrection of Father Brown, Father Brown is confronted by an apparent miracle or impossible curse that has baffled Scotland Yard and terrified the superstitious."
+      "text": "In I. The Resurrection of Father Brown, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "story-1",
-      "text": "'It is always the man who does not believe in God who believes in ghosts and curses,' observed Father Brown gently. 'The first effect of not believing in God is to believe in anything.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "story-1",
-      "text": "By analyzing the material facts with strict reason, Father Brown dismantles the illusion, revealing that human malice, greed, or fear engineered the mystery."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
       "sectionId": "story-2",
-      "text": "In II. The Arrow of Heaven, Father Brown is confronted by an apparent miracle or impossible curse that has baffled Scotland Yard and terrified the superstitious."
+      "text": "In II. The Arrow of Heaven, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
       "sectionId": "story-2",
-      "text": "'It is always the man who does not believe in God who believes in ghosts and curses,' observed Father Brown gently. 'The first effect of not believing in God is to believe in anything.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "story-2",
-      "text": "By analyzing the material facts with strict reason, Father Brown dismantles the illusion, revealing that human malice, greed, or fear engineered the mystery."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
       "sectionId": "story-3",
-      "text": "In III. The Oracle of the Dog, Father Brown is confronted by an apparent miracle or impossible curse that has baffled Scotland Yard and terrified the superstitious."
+      "text": "In III. The Oracle of the Dog, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
       "sectionId": "story-3",
-      "text": "'It is always the man who does not believe in God who believes in ghosts and curses,' observed Father Brown gently. 'The first effect of not believing in God is to believe in anything.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
       "sectionId": "story-3",
-      "text": "By analyzing the material facts with strict reason, Father Brown dismantles the illusion, revealing that human malice, greed, or fear engineered the mystery."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
       "sectionId": "story-4",
-      "text": "In IV. The Miracle of Moon Crescent, Father Brown is confronted by an apparent miracle or impossible curse that has baffled Scotland Yard and terrified the superstitious."
+      "text": "In IV. The Miracle of Moon Crescent, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
       "sectionId": "story-4",
-      "text": "'It is always the man who does not believe in God who believes in ghosts and curses,' observed Father Brown gently. 'The first effect of not believing in God is to believe in anything.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
       "sectionId": "story-4",
-      "text": "By analyzing the material facts with strict reason, Father Brown dismantles the illusion, revealing that human malice, greed, or fear engineered the mystery."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
       "sectionId": "story-5",
-      "text": "In V. The Curse of the Golden Cross, Father Brown is confronted by an apparent miracle or impossible curse that has baffled Scotland Yard and terrified the superstitious."
+      "text": "In V. The Curse of the Golden Cross, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
       "sectionId": "story-5",
-      "text": "'It is always the man who does not believe in God who believes in ghosts and curses,' observed Father Brown gently. 'The first effect of not believing in God is to believe in anything.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
       "sectionId": "story-5",
-      "text": "By analyzing the material facts with strict reason, Father Brown dismantles the illusion, revealing that human malice, greed, or fear engineered the mystery."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-016",
       "sectionId": "story-6",
-      "text": "In VI. The Dagger with Wings, Father Brown is confronted by an apparent miracle or impossible curse that has baffled Scotland Yard and terrified the superstitious."
+      "text": "In VI. The Dagger with Wings, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-017",
       "sectionId": "story-6",
-      "text": "'It is always the man who does not believe in God who believes in ghosts and curses,' observed Father Brown gently. 'The first effect of not believing in God is to believe in anything.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-018",
       "sectionId": "story-6",
-      "text": "By analyzing the material facts with strict reason, Father Brown dismantles the illusion, revealing that human malice, greed, or fear engineered the mystery."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-019",
       "sectionId": "story-7",
-      "text": "In VII. The Doom of the Darnaways, Father Brown is confronted by an apparent miracle or impossible curse that has baffled Scotland Yard and terrified the superstitious."
+      "text": "In VII. The Doom of the Darnaways, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-020",
       "sectionId": "story-7",
-      "text": "'It is always the man who does not believe in God who believes in ghosts and curses,' observed Father Brown gently. 'The first effect of not believing in God is to believe in anything.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-021",
       "sectionId": "story-7",
-      "text": "By analyzing the material facts with strict reason, Father Brown dismantles the illusion, revealing that human malice, greed, or fear engineered the mystery."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-022",
       "sectionId": "story-8",
-      "text": "In VIII. The Ghost of Gideon Wise, Father Brown is confronted by an apparent miracle or impossible curse that has baffled Scotland Yard and terrified the superstitious."
+      "text": "In VIII. The Ghost of Gideon Wise, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-023",
       "sectionId": "story-8",
-      "text": "'It is always the man who does not believe in God who believes in ghosts and curses,' observed Father Brown gently. 'The first effect of not believing in God is to believe in anything.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-024",
       "sectionId": "story-8",
-      "text": "By analyzing the material facts with strict reason, Father Brown dismantles the illusion, revealing that human malice, greed, or fear engineered the mystery."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };

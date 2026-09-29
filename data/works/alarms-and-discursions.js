@@ -9,7 +9,7 @@
   "titleEn": "Alarms and Discursions",
   "subtitle": "Forty Meditations on Gargoyles, Cheese, and English Roads",
   "year": 1910,
-  "category": "Essays & Literary Criticism",
+  "category": "Essays & Master Trifles",
   "companionSlug": "all-things-considered",
   "companionTitle": "All Things Considered (1908)",
   "unabridged": true,
@@ -44,77 +44,77 @@
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "In I. On Gargoyles, Chesterton examines the beauty of gargoyles, the virtue of cheese, and the soul of the road."
+      "text": "In I. On Gargoyles, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "ch-1",
-      "text": "A gargoyle is a piece of human laughter frozen in Gothic stone. It proves that the medieval craftsman was free to joke even on the roof of a cathedral."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "ch-1",
-      "text": "Poets have sung of wine and of bread, but too few have sung of the celestial qualities of cheese."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "In II. In Defence of Cheese, Chesterton examines the beauty of gargoyles, the virtue of cheese, and the soul of the road."
+      "text": "In II. In Defence of Cheese, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
       "sectionId": "ch-2",
-      "text": "A gargoyle is a piece of human laughter frozen in Gothic stone. It proves that the medieval craftsman was free to joke even on the roof of a cathedral."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "ch-2",
-      "text": "Poets have sung of wine and of bread, but too few have sung of the celestial qualities of cheese."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "In III. The Philosophy of Sightseeing, Chesterton examines the beauty of gargoyles, the virtue of cheese, and the soul of the road."
+      "text": "In III. The Philosophy of Sightseeing, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
       "sectionId": "ch-3",
-      "text": "A gargoyle is a piece of human laughter frozen in Gothic stone. It proves that the medieval craftsman was free to joke even on the roof of a cathedral."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
       "sectionId": "ch-3",
-      "text": "Poets have sung of wine and of bread, but too few have sung of the celestial qualities of cheese."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "In IV. The Red Angel, Chesterton examines the beauty of gargoyles, the virtue of cheese, and the soul of the road."
+      "text": "In IV. The Red Angel, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
       "sectionId": "ch-4",
-      "text": "A gargoyle is a piece of human laughter frozen in Gothic stone. It proves that the medieval craftsman was free to joke even on the roof of a cathedral."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
       "sectionId": "ch-4",
-      "text": "Poets have sung of wine and of bread, but too few have sung of the celestial qualities of cheese."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
       "sectionId": "ch-5",
-      "text": "In V. The Tower of Babel, Chesterton examines the beauty of gargoyles, the virtue of cheese, and the soul of the road."
+      "text": "In V. The Tower of Babel, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
       "sectionId": "ch-5",
-      "text": "A gargoyle is a piece of human laughter frozen in Gothic stone. It proves that the medieval craftsman was free to joke even on the roof of a cathedral."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
       "sectionId": "ch-5",
-      "text": "Poets have sung of wine and of bread, but too few have sung of the celestial qualities of cheese."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };

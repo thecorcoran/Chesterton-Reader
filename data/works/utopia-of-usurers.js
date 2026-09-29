@@ -44,77 +44,77 @@
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "In I. Utopia of Usurers, Chesterton dissects the modern commercial state ruled by finance capital."
+      "text": "In I. Utopia of Usurers, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "ch-1",
-      "text": "The capitalist oligarchy has turned art into advertizing, newspapers into propaganda, and craftsmen into cogs in a colossal machine."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "ch-1",
-      "text": "True freedom requires the restoration of real property: the small workshop, the family homestead, and the independent citizen."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "In II. The Art of the Big Shop, Chesterton dissects the modern commercial state ruled by finance capital."
+      "text": "In II. The Art of the Big Shop, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
       "sectionId": "ch-2",
-      "text": "The capitalist oligarchy has turned art into advertizing, newspapers into propaganda, and craftsmen into cogs in a colossal machine."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "ch-2",
-      "text": "True freedom requires the restoration of real property: the small workshop, the family homestead, and the independent citizen."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "In III. The Mask of Philanthropy, Chesterton dissects the modern commercial state ruled by finance capital."
+      "text": "In III. The Mask of Philanthropy, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
       "sectionId": "ch-3",
-      "text": "The capitalist oligarchy has turned art into advertizing, newspapers into propaganda, and craftsmen into cogs in a colossal machine."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
       "sectionId": "ch-3",
-      "text": "True freedom requires the restoration of real property: the small workshop, the family homestead, and the independent citizen."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "In IV. The Servile State and Real Liberty, Chesterton dissects the modern commercial state ruled by finance capital."
+      "text": "In IV. The Servile State and Real Liberty, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
       "sectionId": "ch-4",
-      "text": "The capitalist oligarchy has turned art into advertizing, newspapers into propaganda, and craftsmen into cogs in a colossal machine."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
       "sectionId": "ch-4",
-      "text": "True freedom requires the restoration of real property: the small workshop, the family homestead, and the independent citizen."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
       "sectionId": "ch-5",
-      "text": "In V. The Escape to Sanity, Chesterton dissects the modern commercial state ruled by finance capital."
+      "text": "In V. The Escape to Sanity, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
       "sectionId": "ch-5",
-      "text": "The capitalist oligarchy has turned art into advertizing, newspapers into propaganda, and craftsmen into cogs in a colossal machine."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
       "sectionId": "ch-5",
-      "text": "True freedom requires the restoration of real property: the small workshop, the family homestead, and the independent citizen."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };

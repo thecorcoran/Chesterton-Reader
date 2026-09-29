@@ -9,7 +9,7 @@
   "titleEn": "The Autobiography of G. K. Chesterton",
   "subtitle": "The Full Memoir of Childhood, Friendship, and Faith",
   "year": 1936,
-  "category": "Essays & Literary Criticism",
+  "category": "Literary Criticism & Biographies",
   "companionSlug": "orthodoxy",
   "companionTitle": "Orthodoxy (1908)",
   "unabridged": true,
@@ -48,92 +48,92 @@
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "In Chapter I. The Man with the Golden Key (Childhood), Chesterton recounts his journey with warmth, humility, and indelible memories."
+      "text": "In Chapter I. The Man with the Golden Key (Childhood), G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "ch-1",
-      "text": "Looking back over my life, I find that my existence has been one long, unearned holiday in a world of astonishing generosity."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "ch-1",
-      "text": "I have known great men—Shaw, Wells, Belloc—and I have argued with them fiercely; but I have never hated any man. At the end of the road, the only word that remains is gratitude."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "In Chapter II. How to be a Dunce, Chesterton recounts his journey with warmth, humility, and indelible memories."
+      "text": "In Chapter II. How to be a Dunce, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
       "sectionId": "ch-2",
-      "text": "Looking back over my life, I find that my existence has been one long, unearned holiday in a world of astonishing generosity."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "ch-2",
-      "text": "I have known great men—Shaw, Wells, Belloc—and I have argued with them fiercely; but I have never hated any man. At the end of the road, the only word that remains is gratitude."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "In Chapter III. The Art School and the 90s, Chesterton recounts his journey with warmth, humility, and indelible memories."
+      "text": "In Chapter III. The Art School and the 90s, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
       "sectionId": "ch-3",
-      "text": "Looking back over my life, I find that my existence has been one long, unearned holiday in a world of astonishing generosity."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
       "sectionId": "ch-3",
-      "text": "I have known great men—Shaw, Wells, Belloc—and I have argued with them fiercely; but I have never hated any man. At the end of the road, the only word that remains is gratitude."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "In Chapter IV. Figures in Fleet Street, Chesterton recounts his journey with warmth, humility, and indelible memories."
+      "text": "In Chapter IV. Figures in Fleet Street, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
       "sectionId": "ch-4",
-      "text": "Looking back over my life, I find that my existence has been one long, unearned holiday in a world of astonishing generosity."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
       "sectionId": "ch-4",
-      "text": "I have known great men—Shaw, Wells, Belloc—and I have argued with them fiercely; but I have never hated any man. At the end of the road, the only word that remains is gratitude."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
       "sectionId": "ch-5",
-      "text": "In Chapter V. Friendship with Belloc & Shaw, Chesterton recounts his journey with warmth, humility, and indelible memories."
+      "text": "In Chapter V. Friendship with Belloc & Shaw, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
       "sectionId": "ch-5",
-      "text": "Looking back over my life, I find that my existence has been one long, unearned holiday in a world of astonishing generosity."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
       "sectionId": "ch-5",
-      "text": "I have known great men—Shaw, Wells, Belloc—and I have argued with them fiercely; but I have never hated any man. At the end of the road, the only word that remains is gratitude."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-016",
       "sectionId": "ch-6",
-      "text": "In Chapter VI. The Journey Home to the Church, Chesterton recounts his journey with warmth, humility, and indelible memories."
+      "text": "In Chapter VI. The Journey Home to the Church, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-017",
       "sectionId": "ch-6",
-      "text": "Looking back over my life, I find that my existence has been one long, unearned holiday in a world of astonishing generosity."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-018",
       "sectionId": "ch-6",
-      "text": "I have known great men—Shaw, Wells, Belloc—and I have argued with them fiercely; but I have never hated any man. At the end of the road, the only word that remains is gratitude."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };

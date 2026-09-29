@@ -44,77 +44,77 @@
     {
       "id": "p-001",
       "sectionId": "part1-ch1",
-      "text": "In Part I, Ch. 1: How the Great Wind Came to Beacon House, Innocent Smith brings his wild, holy gust of wind into the quiet and respectable boarding-house."
+      "text": "In Part I, Ch. 1: How the Great Wind Came to Beacon House, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "part1-ch1",
-      "text": "Innocent Smith went round the world with a revolver, shooting at pessimists to make them leap for their lives and realize how much they loved the earth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "part1-ch1",
-      "text": "'I do not want to be dead,' said Innocent Smith. 'I want to be alive. And to be alive a man must look upon his wife, his house, and his bread as if they were miracles newly dropped from the hands of God.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
       "sectionId": "part1-ch2",
-      "text": "In Part I, Ch. 2: The Arrival of Innocent Smith, Innocent Smith brings his wild, holy gust of wind into the quiet and respectable boarding-house."
+      "text": "In Part I, Ch. 2: The Arrival of Innocent Smith, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
       "sectionId": "part1-ch2",
-      "text": "Innocent Smith went round the world with a revolver, shooting at pessimists to make them leap for their lives and realize how much they loved the earth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "part1-ch2",
-      "text": "'I do not want to be dead,' said Innocent Smith. 'I want to be alive. And to be alive a man must look upon his wife, his house, and his bread as if they were miracles newly dropped from the hands of God.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
       "sectionId": "part1-ch3",
-      "text": "In Part I, Ch. 3: The Crime of the Green Garden, Innocent Smith brings his wild, holy gust of wind into the quiet and respectable boarding-house."
+      "text": "In Part I, Ch. 3: The Crime of the Green Garden, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
       "sectionId": "part1-ch3",
-      "text": "Innocent Smith went round the world with a revolver, shooting at pessimists to make them leap for their lives and realize how much they loved the earth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
       "sectionId": "part1-ch3",
-      "text": "'I do not want to be dead,' said Innocent Smith. 'I want to be alive. And to be alive a man must look upon his wife, his house, and his bread as if they were miracles newly dropped from the hands of God.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
       "sectionId": "part2-ch1",
-      "text": "In Part II, Ch. 1: The Trial of Innocent Smith, Innocent Smith brings his wild, holy gust of wind into the quiet and respectable boarding-house."
+      "text": "In Part II, Ch. 1: The Trial of Innocent Smith, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
       "sectionId": "part2-ch1",
-      "text": "Innocent Smith went round the world with a revolver, shooting at pessimists to make them leap for their lives and realize how much they loved the earth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
       "sectionId": "part2-ch1",
-      "text": "'I do not want to be dead,' said Innocent Smith. 'I want to be alive. And to be alive a man must look upon his wife, his house, and his bread as if they were miracles newly dropped from the hands of God.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
       "sectionId": "part2-ch2",
-      "text": "In Part II, Ch. 2: The Vindication of Living, Innocent Smith brings his wild, holy gust of wind into the quiet and respectable boarding-house."
+      "text": "In Part II, Ch. 2: The Vindication of Living, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
       "sectionId": "part2-ch2",
-      "text": "Innocent Smith went round the world with a revolver, shooting at pessimists to make them leap for their lives and realize how much they loved the earth."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
       "sectionId": "part2-ch2",
-      "text": "'I do not want to be dead,' said Innocent Smith. 'I want to be alive. And to be alive a man must look upon his wife, his house, and his bread as if they were miracles newly dropped from the hands of God.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };

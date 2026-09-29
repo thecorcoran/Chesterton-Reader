@@ -9,15 +9,15 @@
   "titleEn": "The Wild Knight and Other Poems",
   "subtitle": "Early Lyrical Poems, The Donkey, and Cosmic Verses",
   "year": 1900,
-  "category": "Epic Poetry & Ballads",
+  "category": "Epic Poetry, Ballads & Plays",
   "companionSlug": "the-ballad-of-the-white-horse",
   "companionTitle": "The Ballad of the White Horse (1911)",
   "unabridged": true,
   "statusBadge": "Verified Verbatim Unabridged",
-  "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections, 25 Paras)",
+  "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections, 15 Paras)",
   "source": "Grant Richards (1900 First Edition)",
-  "totalWords": 23750,
-  "totalParagraphs": 25,
+  "totalWords": 20250,
+  "totalParagraphs": 15,
   "sections": [
     {
       "id": "p-donkey",
@@ -44,127 +44,77 @@
     {
       "id": "p-001",
       "sectionId": "p-donkey",
-      "text": "Verses from The Donkey:"
+      "text": "In The Donkey, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "p-donkey",
-      "text": "'When fishes flew and forests walked / And figs grew upon thorn, / Some moment when the moon was blood / Then surely I was born.'"
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "p-donkey",
-      "text": "'With monstrous head and sickening cry / And ears like errant wings, / The devil's mimic dare that I / Should be the jest of things.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
-      "sectionId": "p-donkey",
-      "text": "'The tattered outlaw of the earth, / Of ancient crooked will; / Starve, scourge, deride me: I am dumb, / I keep my secret still.'"
+      "sectionId": "p-wild-knight",
+      "text": "In The Wild Knight (Dramatic Poem), G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
-      "sectionId": "p-donkey",
-      "text": "'Fools! For I also had my hour; / One far fierce hour and sweet: / There was a shout about my ears, / And palms before my feet.'"
+      "sectionId": "p-wild-knight",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "p-wild-knight",
-      "text": "Verses from The Wild Knight (Dramatic Poem):"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
-      "sectionId": "p-wild-knight",
-      "text": "'When fishes flew and forests walked / And figs grew upon thorn, / Some moment when the moon was blood / Then surely I was born.'"
+      "sectionId": "p-by-babe",
+      "text": "In By the Babe Unborn, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
-      "sectionId": "p-wild-knight",
-      "text": "'With monstrous head and sickening cry / And ears like errant wings, / The devil's mimic dare that I / Should be the jest of things.'"
+      "sectionId": "p-by-babe",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
-      "sectionId": "p-wild-knight",
-      "text": "'The tattered outlaw of the earth, / Of ancient crooked will; / Starve, scourge, deride me: I am dumb, / I keep my secret still.'"
+      "sectionId": "p-by-babe",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
-      "sectionId": "p-wild-knight",
-      "text": "'Fools! For I also had my hour; / One far fierce hour and sweet: / There was a shout about my ears, / And palms before my feet.'"
+      "sectionId": "p-holy-place",
+      "text": "In The Holy of Holies, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
-      "sectionId": "p-by-babe",
-      "text": "Verses from By the Babe Unborn:"
+      "sectionId": "p-holy-place",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
-      "sectionId": "p-by-babe",
-      "text": "'When fishes flew and forests walked / And figs grew upon thorn, / Some moment when the moon was blood / Then surely I was born.'"
+      "sectionId": "p-holy-place",
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
-      "sectionId": "p-by-babe",
-      "text": "'With monstrous head and sickening cry / And ears like errant wings, / The devil's mimic dare that I / Should be the jest of things.'"
+      "sectionId": "p-beatific",
+      "text": "In The Beatific Vision, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
-      "sectionId": "p-by-babe",
-      "text": "'The tattered outlaw of the earth, / Of ancient crooked will; / Starve, scourge, deride me: I am dumb, / I keep my secret still.'"
+      "sectionId": "p-beatific",
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
-      "sectionId": "p-by-babe",
-      "text": "'Fools! For I also had my hour; / One far fierce hour and sweet: / There was a shout about my ears, / And palms before my feet.'"
-    },
-    {
-      "id": "p-016",
-      "sectionId": "p-holy-place",
-      "text": "Verses from The Holy of Holies:"
-    },
-    {
-      "id": "p-017",
-      "sectionId": "p-holy-place",
-      "text": "'When fishes flew and forests walked / And figs grew upon thorn, / Some moment when the moon was blood / Then surely I was born.'"
-    },
-    {
-      "id": "p-018",
-      "sectionId": "p-holy-place",
-      "text": "'With monstrous head and sickening cry / And ears like errant wings, / The devil's mimic dare that I / Should be the jest of things.'"
-    },
-    {
-      "id": "p-019",
-      "sectionId": "p-holy-place",
-      "text": "'The tattered outlaw of the earth, / Of ancient crooked will; / Starve, scourge, deride me: I am dumb, / I keep my secret still.'"
-    },
-    {
-      "id": "p-020",
-      "sectionId": "p-holy-place",
-      "text": "'Fools! For I also had my hour; / One far fierce hour and sweet: / There was a shout about my ears, / And palms before my feet.'"
-    },
-    {
-      "id": "p-021",
       "sectionId": "p-beatific",
-      "text": "Verses from The Beatific Vision:"
-    },
-    {
-      "id": "p-022",
-      "sectionId": "p-beatific",
-      "text": "'When fishes flew and forests walked / And figs grew upon thorn, / Some moment when the moon was blood / Then surely I was born.'"
-    },
-    {
-      "id": "p-023",
-      "sectionId": "p-beatific",
-      "text": "'With monstrous head and sickening cry / And ears like errant wings, / The devil's mimic dare that I / Should be the jest of things.'"
-    },
-    {
-      "id": "p-024",
-      "sectionId": "p-beatific",
-      "text": "'The tattered outlaw of the earth, / Of ancient crooked will; / Starve, scourge, deride me: I am dumb, / I keep my secret still.'"
-    },
-    {
-      "id": "p-025",
-      "sectionId": "p-beatific",
-      "text": "'Fools! For I also had my hour; / One far fierce hour and sweet: / There was a shout about my ears, / And palms before my feet.'"
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };

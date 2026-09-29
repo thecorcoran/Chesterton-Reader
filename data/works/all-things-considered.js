@@ -9,7 +9,7 @@
   "titleEn": "All Things Considered",
   "subtitle": "Thirty-Five Meditations on Art, Fairy Tales, and Human Nature",
   "year": 1908,
-  "category": "Essays & Literary Criticism",
+  "category": "Essays & Master Trifles",
   "companionSlug": "tremendous-trifles",
   "companionTitle": "Tremendous Trifles (1909)",
   "unabridged": true,
@@ -44,77 +44,77 @@
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "In I. On Running After One's Hat, Chesterton reflects with characteristic wit on the philosophy of everyday experience."
+      "text": "In I. On Running After One's Hat, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "ch-1",
-      "text": "There is an idea abroad that a man running after his hat is a ridiculous object. But why should it be ridiculous to pursue that which covers the temple of thought? It is a noble sport, as romantic as hunting a tiger."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "ch-1",
-      "text": "If we look at life with true humility, everything from a post-box to an omnibus becomes an adventure."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "In II. The Worship of the Wealthy, Chesterton reflects with characteristic wit on the philosophy of everyday experience."
+      "text": "In II. The Worship of the Wealthy, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
       "sectionId": "ch-2",
-      "text": "There is an idea abroad that a man running after his hat is a ridiculous object. But why should it be ridiculous to pursue that which covers the temple of thought? It is a noble sport, as romantic as hunting a tiger."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "ch-2",
-      "text": "If we look at life with true humility, everything from a post-box to an omnibus becomes an adventure."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "In III. Thoughts on Fairy Tales, Chesterton reflects with characteristic wit on the philosophy of everyday experience."
+      "text": "In III. Thoughts on Fairy Tales, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
       "sectionId": "ch-3",
-      "text": "There is an idea abroad that a man running after his hat is a ridiculous object. But why should it be ridiculous to pursue that which covers the temple of thought? It is a noble sport, as romantic as hunting a tiger."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
       "sectionId": "ch-3",
-      "text": "If we look at life with true humility, everything from a post-box to an omnibus becomes an adventure."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "In IV. The Boyhood of the World, Chesterton reflects with characteristic wit on the philosophy of everyday experience."
+      "text": "In IV. The Boyhood of the World, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
       "sectionId": "ch-4",
-      "text": "There is an idea abroad that a man running after his hat is a ridiculous object. But why should it be ridiculous to pursue that which covers the temple of thought? It is a noble sport, as romantic as hunting a tiger."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
       "sectionId": "ch-4",
-      "text": "If we look at life with true humility, everything from a post-box to an omnibus becomes an adventure."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
       "sectionId": "ch-5",
-      "text": "In V. On Conceit and Humility, Chesterton reflects with characteristic wit on the philosophy of everyday experience."
+      "text": "In V. On Conceit and Humility, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
       "sectionId": "ch-5",
-      "text": "There is an idea abroad that a man running after his hat is a ridiculous object. But why should it be ridiculous to pursue that which covers the temple of thought? It is a noble sport, as romantic as hunting a tiger."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
       "sectionId": "ch-5",
-      "text": "If we look at life with true humility, everything from a post-box to an omnibus becomes an adventure."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };

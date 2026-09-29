@@ -9,7 +9,7 @@
   "titleEn": "Tremendous Trifles",
   "subtitle": "Thirty-Nine Meditations on the Wonders of Daily Life",
   "year": 1909,
-  "category": "Essays & Literary Criticism",
+  "category": "Essays & Master Trifles",
   "companionSlug": "the-defendant",
   "companionTitle": "The Defendant (1901)",
   "unabridged": true,

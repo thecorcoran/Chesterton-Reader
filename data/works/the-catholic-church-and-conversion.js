@@ -44,77 +44,77 @@
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "Regarding Chapter I. The Three Stages of Conversion: The process of conversion to the Catholic Church is one of the most singular intellectual adventures in human life."
+      "text": "In Chapter I. The Three Stages of Conversion, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "ch-1",
-      "text": "In the first stage, the convert is merely patronizing. He thinks the Church has some quaint artistic charm, some old medieval hymns, but is obsolete. In the second stage, he begins to examine her doctrines and is astonished to find they are supremely rational. In the third stage, he realizes with panic that the Catholic Church is true, and he tries desperately to run away from her—until at last he submits with tears of laughter and relief."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "ch-1",
-      "text": "It is impossible to be just to the Catholic Church. The moment a man ceases to pull against it he feels a tug towards it. The moment he ceases to shout it down he begins to listen to its voice."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "Regarding Chapter II. The First Stage: Patronising the Church: The process of conversion to the Catholic Church is one of the most singular intellectual adventures in human life."
+      "text": "In Chapter II. The First Stage: Patronising the Church, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
       "sectionId": "ch-2",
-      "text": "In the first stage, the convert is merely patronizing. He thinks the Church has some quaint artistic charm, some old medieval hymns, but is obsolete. In the second stage, he begins to examine her doctrines and is astonished to find they are supremely rational. In the third stage, he realizes with panic that the Catholic Church is true, and he tries desperately to run away from her—until at last he submits with tears of laughter and relief."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "ch-2",
-      "text": "It is impossible to be just to the Catholic Church. The moment a man ceases to pull against it he feels a tug towards it. The moment he ceases to shout it down he begins to listen to its voice."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "Regarding Chapter III. The Second Stage: Discovering the Church: The process of conversion to the Catholic Church is one of the most singular intellectual adventures in human life."
+      "text": "In Chapter III. The Second Stage: Discovering the Church, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
       "sectionId": "ch-3",
-      "text": "In the first stage, the convert is merely patronizing. He thinks the Church has some quaint artistic charm, some old medieval hymns, but is obsolete. In the second stage, he begins to examine her doctrines and is astonished to find they are supremely rational. In the third stage, he realizes with panic that the Catholic Church is true, and he tries desperately to run away from her—until at last he submits with tears of laughter and relief."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
       "sectionId": "ch-3",
-      "text": "It is impossible to be just to the Catholic Church. The moment a man ceases to pull against it he feels a tug towards it. The moment he ceases to shout it down he begins to listen to its voice."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "Regarding Chapter IV. The Third Stage: Running from the Church: The process of conversion to the Catholic Church is one of the most singular intellectual adventures in human life."
+      "text": "In Chapter IV. The Third Stage: Running from the Church, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
       "sectionId": "ch-4",
-      "text": "In the first stage, the convert is merely patronizing. He thinks the Church has some quaint artistic charm, some old medieval hymns, but is obsolete. In the second stage, he begins to examine her doctrines and is astonished to find they are supremely rational. In the third stage, he realizes with panic that the Catholic Church is true, and he tries desperately to run away from her—until at last he submits with tears of laughter and relief."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
       "sectionId": "ch-4",
-      "text": "It is impossible to be just to the Catholic Church. The moment a man ceases to pull against it he feels a tug towards it. The moment he ceases to shout it down he begins to listen to its voice."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
       "sectionId": "ch-5",
-      "text": "Regarding Chapter V. The End of the Journey & Real Freedom: The process of conversion to the Catholic Church is one of the most singular intellectual adventures in human life."
+      "text": "In Chapter V. The End of the Journey & Real Freedom, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
       "sectionId": "ch-5",
-      "text": "In the first stage, the convert is merely patronizing. He thinks the Church has some quaint artistic charm, some old medieval hymns, but is obsolete. In the second stage, he begins to examine her doctrines and is astonished to find they are supremely rational. In the third stage, he realizes with panic that the Catholic Church is true, and he tries desperately to run away from her—until at last he submits with tears of laughter and relief."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
       "sectionId": "ch-5",
-      "text": "It is impossible to be just to the Catholic Church. The moment a man ceases to pull against it he feels a tug towards it. The moment he ceases to shout it down he begins to listen to its voice."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };

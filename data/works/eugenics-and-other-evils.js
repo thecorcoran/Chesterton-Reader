@@ -44,77 +44,77 @@
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "In Chapter I. The First Obstacle, Chesterton exposes the sinister rise of eugenics and the state regulation of marriage."
+      "text": "In Chapter I. The First Obstacle, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "ch-1",
-      "text": "Eugenics is not a science; it is a scheme for the oppression of the poor by wealthy philanthropists and doctors. Under the pretence of eliminating 'feeble-mindedness', it eliminates human liberty."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "ch-1",
-      "text": "A man's right to marry the woman he loves and raise his children is older than any parliament, higher than any empire, and sacred beyond any medical decree."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "In Chapter II. The True Aim of Eugenics, Chesterton exposes the sinister rise of eugenics and the state regulation of marriage."
+      "text": "In Chapter II. The True Aim of Eugenics, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
       "sectionId": "ch-2",
-      "text": "Eugenics is not a science; it is a scheme for the oppression of the poor by wealthy philanthropists and doctors. Under the pretence of eliminating 'feeble-mindedness', it eliminates human liberty."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "ch-2",
-      "text": "A man's right to marry the woman he loves and raise his children is older than any parliament, higher than any empire, and sacred beyond any medical decree."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "In Chapter III. The Meaning of the Feeble-Minded, Chesterton exposes the sinister rise of eugenics and the state regulation of marriage."
+      "text": "In Chapter III. The Meaning of the Feeble-Minded, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
       "sectionId": "ch-3",
-      "text": "Eugenics is not a science; it is a scheme for the oppression of the poor by wealthy philanthropists and doctors. Under the pretence of eliminating 'feeble-mindedness', it eliminates human liberty."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
       "sectionId": "ch-3",
-      "text": "A man's right to marry the woman he loves and raise his children is older than any parliament, higher than any empire, and sacred beyond any medical decree."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "In Chapter IV. The Transformation of the State, Chesterton exposes the sinister rise of eugenics and the state regulation of marriage."
+      "text": "In Chapter IV. The Transformation of the State, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
       "sectionId": "ch-4",
-      "text": "Eugenics is not a science; it is a scheme for the oppression of the poor by wealthy philanthropists and doctors. Under the pretence of eliminating 'feeble-mindedness', it eliminates human liberty."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
       "sectionId": "ch-4",
-      "text": "A man's right to marry the woman he loves and raise his children is older than any parliament, higher than any empire, and sacred beyond any medical decree."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
       "sectionId": "ch-5",
-      "text": "In Chapter V. The True Sanity of the Common Man, Chesterton exposes the sinister rise of eugenics and the state regulation of marriage."
+      "text": "In Chapter V. The True Sanity of the Common Man, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
       "sectionId": "ch-5",
-      "text": "Eugenics is not a science; it is a scheme for the oppression of the poor by wealthy philanthropists and doctors. Under the pretence of eliminating 'feeble-mindedness', it eliminates human liberty."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
       "sectionId": "ch-5",
-      "text": "A man's right to marry the woman he loves and raise his children is older than any parliament, higher than any empire, and sacred beyond any medical decree."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };

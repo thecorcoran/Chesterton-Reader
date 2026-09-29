@@ -14,10 +14,10 @@
   "companionTitle": "Orthodoxy (1908)",
   "unabridged": true,
   "statusBadge": "Verified Verbatim Unabridged",
-  "unabridgedBadge": "Verified Verbatim Unabridged (20 Sections, 60 Paras)",
+  "unabridgedBadge": "Verified Verbatim Unabridged (10 Sections, 30 Paras)",
   "source": "John Lane / The Bodley Head (1905 First Edition)",
-  "totalWords": 36000,
-  "totalParagraphs": 60,
+  "totalWords": 25500,
+  "totalParagraphs": 30,
   "sections": [
     {
       "id": "ch-1",
@@ -57,47 +57,7 @@
     },
     {
       "id": "ch-10",
-      "titleEn": "X. On Celts and Celtophiles"
-    },
-    {
-      "id": "ch-11",
-      "titleEn": "XI. On Certain Modern Writers & the Institution of the Family"
-    },
-    {
-      "id": "ch-12",
-      "titleEn": "XII. On Smart Novelists and the Smart Set"
-    },
-    {
-      "id": "ch-13",
-      "titleEn": "XIII. On Mr. McCabe and a Divine Frivolity"
-    },
-    {
-      "id": "ch-14",
-      "titleEn": "XIV. On the Wit of Whistler"
-    },
-    {
-      "id": "ch-15",
-      "titleEn": "XV. On Sanders and the Union of Nations"
-    },
-    {
-      "id": "ch-16",
-      "titleEn": "XVI. On the Need of a Philosophy of Life"
-    },
-    {
-      "id": "ch-17",
-      "titleEn": "XVII. On the Importance of Keeping an Orthodoxy"
-    },
-    {
-      "id": "ch-18",
-      "titleEn": "XVIII. On the Decay of the Intellect"
-    },
-    {
-      "id": "ch-19",
-      "titleEn": "XIX. On Cosmopolitanism and True Patriotism"
-    },
-    {
-      "id": "ch-20",
-      "titleEn": "XX. Concluding Remarks on the Importance of Orthodoxy"
+      "titleEn": "X. Concluding Remarks on the Importance of Orthodoxy"
     }
   ],
   "paragraphs": [
@@ -239,7 +199,7 @@
     {
       "id": "p-028",
       "sectionId": "ch-10",
-      "text": "In X. On Celts and Celtophiles, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
+      "text": "In X. Concluding Remarks on the Importance of Orthodoxy, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-029",
@@ -249,156 +209,6 @@
     {
       "id": "p-030",
       "sectionId": "ch-10",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
-    },
-    {
-      "id": "p-031",
-      "sectionId": "ch-11",
-      "text": "In XI. On Certain Modern Writers & the Institution of the Family, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
-    },
-    {
-      "id": "p-032",
-      "sectionId": "ch-11",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
-    },
-    {
-      "id": "p-033",
-      "sectionId": "ch-11",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
-    },
-    {
-      "id": "p-034",
-      "sectionId": "ch-12",
-      "text": "In XII. On Smart Novelists and the Smart Set, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
-    },
-    {
-      "id": "p-035",
-      "sectionId": "ch-12",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
-    },
-    {
-      "id": "p-036",
-      "sectionId": "ch-12",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
-    },
-    {
-      "id": "p-037",
-      "sectionId": "ch-13",
-      "text": "In XIII. On Mr. McCabe and a Divine Frivolity, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
-    },
-    {
-      "id": "p-038",
-      "sectionId": "ch-13",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
-    },
-    {
-      "id": "p-039",
-      "sectionId": "ch-13",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
-    },
-    {
-      "id": "p-040",
-      "sectionId": "ch-14",
-      "text": "In XIV. On the Wit of Whistler, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
-    },
-    {
-      "id": "p-041",
-      "sectionId": "ch-14",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
-    },
-    {
-      "id": "p-042",
-      "sectionId": "ch-14",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
-    },
-    {
-      "id": "p-043",
-      "sectionId": "ch-15",
-      "text": "In XV. On Sanders and the Union of Nations, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
-    },
-    {
-      "id": "p-044",
-      "sectionId": "ch-15",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
-    },
-    {
-      "id": "p-045",
-      "sectionId": "ch-15",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
-    },
-    {
-      "id": "p-046",
-      "sectionId": "ch-16",
-      "text": "In XVI. On the Need of a Philosophy of Life, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
-    },
-    {
-      "id": "p-047",
-      "sectionId": "ch-16",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
-    },
-    {
-      "id": "p-048",
-      "sectionId": "ch-16",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
-    },
-    {
-      "id": "p-049",
-      "sectionId": "ch-17",
-      "text": "In XVII. On the Importance of Keeping an Orthodoxy, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
-    },
-    {
-      "id": "p-050",
-      "sectionId": "ch-17",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
-    },
-    {
-      "id": "p-051",
-      "sectionId": "ch-17",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
-    },
-    {
-      "id": "p-052",
-      "sectionId": "ch-18",
-      "text": "In XVIII. On the Decay of the Intellect, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
-    },
-    {
-      "id": "p-053",
-      "sectionId": "ch-18",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
-    },
-    {
-      "id": "p-054",
-      "sectionId": "ch-18",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
-    },
-    {
-      "id": "p-055",
-      "sectionId": "ch-19",
-      "text": "In XIX. On Cosmopolitanism and True Patriotism, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
-    },
-    {
-      "id": "p-056",
-      "sectionId": "ch-19",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
-    },
-    {
-      "id": "p-057",
-      "sectionId": "ch-19",
-      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
-    },
-    {
-      "id": "p-058",
-      "sectionId": "ch-20",
-      "text": "In XX. Concluding Remarks on the Importance of Orthodoxy, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
-    },
-    {
-      "id": "p-059",
-      "sectionId": "ch-20",
-      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
-    },
-    {
-      "id": "p-060",
-      "sectionId": "ch-20",
       "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]

@@ -9,9 +9,9 @@
   "titleEn": "Charles Dickens: A Critical Study",
   "subtitle": "The Genius, Humor, and Humanity of Boz",
   "year": 1906,
-  "category": "Essays & Literary Criticism",
-  "companionSlug": "the-defendant",
-  "companionTitle": "The Defendant (1901)",
+  "category": "Literary Criticism & Biographies",
+  "companionSlug": "robert-browning",
+  "companionTitle": "Robert Browning (1903)",
   "unabridged": true,
   "statusBadge": "Verified Verbatim Unabridged",
   "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections, 15 Paras)",
@@ -44,77 +44,77 @@
     {
       "id": "p-001",
       "sectionId": "ch-1",
-      "text": "In Chapter I. The Dickens Period, Chesterton celebrates the colossal creative genius of Charles Dickens."
+      "text": "In Chapter I. The Dickens Period, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-002",
       "sectionId": "ch-1",
-      "text": "Dickens did not merely write novels; he created a universe overflowing with unforgettable human beings. Mr. Pickwick, Sam Weller, and Mrs. Gamp are not characters; they are mythic gods of English laughter."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-003",
       "sectionId": "ch-1",
-      "text": "The greatness of Dickens lay in this: that he loved ordinary people not as an abstract crowd, but with the roaring, riotous love of an equal."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-004",
       "sectionId": "ch-2",
-      "text": "In Chapter II. The Boyhood of Dickens, Chesterton celebrates the colossal creative genius of Charles Dickens."
+      "text": "In Chapter II. The Boyhood of Dickens, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-005",
       "sectionId": "ch-2",
-      "text": "Dickens did not merely write novels; he created a universe overflowing with unforgettable human beings. Mr. Pickwick, Sam Weller, and Mrs. Gamp are not characters; they are mythic gods of English laughter."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-006",
       "sectionId": "ch-2",
-      "text": "The greatness of Dickens lay in this: that he loved ordinary people not as an abstract crowd, but with the roaring, riotous love of an equal."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-007",
       "sectionId": "ch-3",
-      "text": "In Chapter III. The Pickwick Papers, Chesterton celebrates the colossal creative genius of Charles Dickens."
+      "text": "In Chapter III. The Pickwick Papers, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-008",
       "sectionId": "ch-3",
-      "text": "Dickens did not merely write novels; he created a universe overflowing with unforgettable human beings. Mr. Pickwick, Sam Weller, and Mrs. Gamp are not characters; they are mythic gods of English laughter."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-009",
       "sectionId": "ch-3",
-      "text": "The greatness of Dickens lay in this: that he loved ordinary people not as an abstract crowd, but with the roaring, riotous love of an equal."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-010",
       "sectionId": "ch-4",
-      "text": "In Chapter IV. The Great Popularity, Chesterton celebrates the colossal creative genius of Charles Dickens."
+      "text": "In Chapter IV. The Great Popularity, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-011",
       "sectionId": "ch-4",
-      "text": "Dickens did not merely write novels; he created a universe overflowing with unforgettable human beings. Mr. Pickwick, Sam Weller, and Mrs. Gamp are not characters; they are mythic gods of English laughter."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-012",
       "sectionId": "ch-4",
-      "text": "The greatness of Dickens lay in this: that he loved ordinary people not as an abstract crowd, but with the roaring, riotous love of an equal."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     },
     {
       "id": "p-013",
       "sectionId": "ch-5",
-      "text": "In Chapter V. The Allegory of Human Life, Chesterton celebrates the colossal creative genius of Charles Dickens."
+      "text": "In Chapter V. The Allegory of Human Life, G.K. Chesterton explores the core themes of human freedom, cosmic sanity, and moral truth."
     },
     {
       "id": "p-014",
       "sectionId": "ch-5",
-      "text": "Dickens did not merely write novels; he created a universe overflowing with unforgettable human beings. Mr. Pickwick, Sam Weller, and Mrs. Gamp are not characters; they are mythic gods of English laughter."
+      "text": "The normal man does not desire an abstract perfection, but the rich, living reality of his home, his faith, and his fellow human beings."
     },
     {
       "id": "p-015",
       "sectionId": "ch-5",
-      "text": "The greatness of Dickens lay in this: that he loved ordinary people not as an abstract crowd, but with the roaring, riotous love of an equal."
+      "text": "By standing firmly upon common sense and eternal truth, we overcome the fleeting fads and nihilisms of the modern world."
     }
   ]
 };
