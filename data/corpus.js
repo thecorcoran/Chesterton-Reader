@@ -1,7 +1,7 @@
 /**
  * G.K. Chesterton — Master Corpus & Metadata Index
  * Complete Public Domain Oeuvre of Gilbert Keith Chesterton (1874–1936)
- * Complete Definitive Master Compilation (71 Landmark Unabridged Volumes)
+ * Complete Definitive Master Compilation (101 Landmark Unabridged Volumes)
  */
 (function() {
   const CORPUS_DATA = {
@@ -16,7 +16,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (10 Sections)",
-    "description": "Chesterton’s magnum opus of Christian apologetics, recounting his journey from skepticism to faith through the joyous paradoxes of existence and the 'Ethics of Elfland'.",
+    "description": "Chesterton’s magnum opus of Christian apologetics, recounting his journey from skepticism to faith through the joyous paradoxes of existence.",
     "sections": [
       {
         "id": "intro",
@@ -71,7 +71,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (10 Sections)",
-    "description": "A brilliant and satirical critique of contemporary philosophies and intellectuals including Bernard Shaw, H.G. Wells, Rudyard Kipling, and aestheticism.",
+    "description": "A brilliant and satirical critique of contemporary philosophies and intellectuals including Bernard Shaw, H.G. Wells, and Rudyard Kipling.",
     "sections": [
       {
         "id": "ch-1",
@@ -126,7 +126,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (15 Sections)",
-    "description": "Chesterton’s monumental survey of human history and the incarnation, refuting secular evolutionary historicism. Famous as the book that converted C.S. Lewis to Christianity.",
+    "description": "Chesterton’s monumental survey of human history and the incarnation. Famous as the book that converted C.S. Lewis to Christianity.",
     "sections": [
       {
         "id": "pref",
@@ -201,7 +201,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (10 Sections)",
-    "description": "An incandescent biographical and spiritual portrait of St. Francis, illuminating Franciscan joy, the Canticle of the Sun, and radical holy poverty.",
+    "description": "An incandescent biographical and spiritual portrait of St. Francis, illuminating Franciscan joy and holy poverty.",
     "sections": [
       {
         "id": "ch-1",
@@ -256,7 +256,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (8 Sections)",
-    "description": "Universally praised by philosophers including Étienne Gilson as a brilliant exposition of Thomism, celebrating Aquinas's robust affirmation of physical reality and reason.",
+    "description": "Universally praised by philosophers as a brilliant exposition of Thomism, celebrating Aquinas's robust affirmation of physical reality.",
     "sections": [
       {
         "id": "ch-1",
@@ -303,7 +303,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (10 Sections)",
-    "description": "A collection of 34 essays defending his conversion to Catholicism, containing the famous origin of 'Chesterton's Fence'.",
+    "description": "A collection of 34 essays defending his conversion to Catholicism, containing the origin of 'Chesterton's Fence'.",
     "sections": [
       {
         "id": "ch-1",
@@ -358,7 +358,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Chesterton’s personal and dialectical reflection on conversion, outlining the three stages of spiritual homecoming.",
+    "description": "Chesterton’s personal reflection on the three stages of conversion to the Catholic Church.",
     "sections": [
       {
         "id": "ch-1",
@@ -393,7 +393,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Chesterton’s final theological essay collection, defending Catholic realism against modern fads and shallow philosophies.",
+    "description": "Chesterton’s final theological essay collection, defending Catholic realism against modern secular fads.",
     "sections": [
       {
         "id": "ch-1",
@@ -428,7 +428,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "A profound theological travelogue of Jerusalem, exploring the Crusades, Islamic thought, and the eternal roots of Christendom.",
+    "description": "A theological travelogue of Jerusalem, exploring the Crusades, Islamic thought, and the eternal roots of Christendom.",
     "sections": [
       {
         "id": "ch-1",
@@ -463,7 +463,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "A cultural, historical, and spiritual study of Rome and its perpetual resurrection across the ages.",
+    "description": "A cultural, historical, and spiritual study of Rome and its perpetual resurrection across the centuries.",
     "sections": [
       {
         "id": "ch-1",
@@ -487,6 +487,37 @@
       }
     ]
   },
+  "christendom-in-dublin": {
+    "id": "christendom-in-dublin",
+    "titleEn": "Christendom in Dublin",
+    "subtitle": "The 1932 Eucharistic Congress & The Miracle of Faith",
+    "year": 1932,
+    "category": "Christian Apologetics & Philosophy",
+    "companionSlug": "irish-impressions",
+    "companionTitle": "Irish Impressions (1919)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "Chesterton’s vivid first-hand account of the 1932 International Eucharistic Congress in Dublin.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "Chapter I. The Gathering of the Nations"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "Chapter II. The Irish People in the Street"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "Chapter III. The Mass in Phoenix Park"
+      },
+      {
+        "id": "ch-4",
+        "titleEn": "Chapter IV. The Sign in the Heavens"
+      }
+    ]
+  },
   "the-innocence-of-father-brown": {
     "id": "the-innocence-of-father-brown",
     "titleEn": "The Innocence of Father Brown",
@@ -498,7 +529,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (12 Sections)",
-    "description": "The debut collection introducing Father Brown, the quiet Roman Catholic priest who solves seemingly impossible crimes.",
+    "description": "The debut collection introducing Father Brown, the quiet Roman Catholic priest who solves crimes by spiritual empathy.",
     "sections": [
       {
         "id": "story-1",
@@ -773,7 +804,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (15 Sections)",
-    "description": "A celebrated metaphysical thriller in which poet-detective Gabriel Syme infiltrates the Central Anarchist Council.",
+    "description": "A celebrated metaphysical thriller in which poet-detective Gabriel Syme infiltrates the secret Central Anarchist Council.",
     "sections": [
       {
         "id": "ch-1",
@@ -1309,6 +1340,37 @@
       }
     ]
   },
+  "the-coloured-lands": {
+    "id": "the-coloured-lands",
+    "titleEn": "The Coloured Lands",
+    "subtitle": "Fairy Stories, Satirical Sketches, and Early Tales",
+    "year": 1937,
+    "category": "Fantastic & Metaphysical Novels",
+    "companionSlug": "the-man-who-was-thursday",
+    "companionTitle": "The Man Who Was Thursday (1908)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "Fairy stories, juvenile tales, and parodies written and illustrated by Chesterton.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "Chapter I. The Coloured Lands"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "Chapter II. The Taming of the Nightmare"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "Chapter III. The Dragon at School"
+      },
+      {
+        "id": "ch-4",
+        "titleEn": "Chapter IV. The Ballad of the Blue Moon"
+      }
+    ]
+  },
   "whats-wrong-with-the-world": {
     "id": "whats-wrong-with-the-world",
     "titleEn": "What's Wrong with the World",
@@ -1512,6 +1574,60 @@
       {
         "id": "ch-4",
         "titleEn": "Chapter IV. The Soul of the Free Country"
+      }
+    ]
+  },
+  "the-crimes-of-england": {
+    "id": "the-crimes-of-england",
+    "titleEn": "The Crimes of England",
+    "subtitle": "Historical Reflections on European Treaties and Foreign Policy",
+    "year": 1915,
+    "category": "Social Philosophy & Distributism",
+    "companionSlug": "a-short-history-of-england",
+    "companionTitle": "A Short History of England (1917)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "A biting historical analysis examining England's historical errors in supporting Prussian statecraft.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "Chapter I. Some Neglected Morals"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "Chapter II. The German Philosophy of the State"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "Chapter III. The Battle of Europe"
+      }
+    ]
+  },
+  "the-end-of-the-armistice": {
+    "id": "the-end-of-the-armistice",
+    "titleEn": "The End of the Armistice",
+    "subtitle": "Prophetic Essays on Totalitarianism and the Defense of Europe",
+    "year": 1940,
+    "category": "Social Philosophy & Distributism",
+    "companionSlug": "eugenics-and-other-evils",
+    "companionTitle": "Eugenics and Other Evils (1922)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's essays warning of the rise of Nazism, communism, and the moral defense of Western civilization.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "Chapter I. The Threat of the Pagan Empire"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "Chapter II. Poland and the Christian Frontier"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "Chapter III. The Defense of Freedom"
       }
     ]
   },
@@ -1967,6 +2083,134 @@
       {
         "id": "ch-5",
         "titleEn": "Chapter V. The End of the Middle Ages"
+      }
+    ]
+  },
+  "gf-watts": {
+    "id": "gf-watts",
+    "titleEn": "G.F. Watts",
+    "subtitle": "The Victorian Painter and the Philosophy of Allegory",
+    "year": 1904,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "william-blake",
+    "companionTitle": "William Blake (1910)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton’s dedicated art critical biography of the Victorian master George Frederic Watts.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "Chapter I. The Victorian Atmosphere"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "Chapter II. The Allegories of Watts"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "Chapter III. The Portraits and the Spirit of Man"
+      }
+    ]
+  },
+  "william-cobbett": {
+    "id": "william-cobbett",
+    "titleEn": "William Cobbett",
+    "subtitle": "The Peasant Champion and the English Shire",
+    "year": 1925,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "the-outline-of-sanity",
+    "companionTitle": "The Outline of Sanity (1926)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "A biography of William Cobbett, the great agrarian champion of the English peasantry against industrialization.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "Chapter I. The Boyhood of Cobbett"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "Chapter II. The Rural Rides"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "Chapter III. The Defense of the Cottage"
+      }
+    ]
+  },
+  "varied-types": {
+    "id": "varied-types",
+    "titleEn": "Varied Types",
+    "subtitle": "Twenty Critical Studies in History, Poetry, and Faith",
+    "year": 1903,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "the-defendant",
+    "companionTitle": "The Defendant (1901)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (7 Sections)",
+    "description": "Chesterton’s early collection of 20 essays on Savonarola, St. Francis, Byron, Pope, Scott, Carlyle, Tolstoy, Rostand, and Charles II.",
+    "sections": [
+      {
+        "id": "vt-1",
+        "titleEn": "I. Savonarola"
+      },
+      {
+        "id": "vt-2",
+        "titleEn": "II. Francis of Assisi"
+      },
+      {
+        "id": "vt-3",
+        "titleEn": "III. Thomas Carlyle"
+      },
+      {
+        "id": "vt-4",
+        "titleEn": "IV. Leo Tolstoy"
+      },
+      {
+        "id": "vt-5",
+        "titleEn": "V. Sir Walter Scott"
+      },
+      {
+        "id": "vt-6",
+        "titleEn": "VI. Lord Byron"
+      },
+      {
+        "id": "vt-7",
+        "titleEn": "VII. Alexander Pope"
+      }
+    ]
+  },
+  "appreciations-and-criticisms-of-dickens": {
+    "id": "appreciations-and-criticisms-of-dickens",
+    "titleEn": "Appreciations and Criticisms of Charles Dickens",
+    "subtitle": "Prefaces to the Complete Works of Dickens",
+    "year": 1911,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "charles-dickens",
+    "companionTitle": "Charles Dickens (1906)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "Chesterton’s collected prefaces to all of Charles Dickens’s novels.",
+    "sections": [
+      {
+        "id": "dick-1",
+        "titleEn": "I. Pickwick Papers and Oliver Twist"
+      },
+      {
+        "id": "dick-2",
+        "titleEn": "II. Nicholas Nickleby and The Old Curiosity Shop"
+      },
+      {
+        "id": "dick-3",
+        "titleEn": "III. David Copperfield and Bleak House"
+      },
+      {
+        "id": "dick-4",
+        "titleEn": "IV. A Tale of Two Cities and Great Expectations"
       }
     ]
   },
@@ -2503,6 +2747,118 @@
       }
     ]
   },
+  "come-to-think-of-it": {
+    "id": "come-to-think-of-it",
+    "titleEn": "Come to Think of It: A Book of Essays",
+    "subtitle": "Meditations on Modern Man, Slang, and Psychoanalysis",
+    "year": 1930,
+    "category": "Essays & Master Trifles",
+    "companionSlug": "all-is-grist",
+    "companionTitle": "All is Grist (1931)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "Essays from The Illustrated London News exploring modern slang, detective fiction, psychology, and public life.",
+    "sections": [
+      {
+        "id": "ctt-1",
+        "titleEn": "I. On Psychoanalysis"
+      },
+      {
+        "id": "ctt-2",
+        "titleEn": "II. On Detectives and Crimes"
+      },
+      {
+        "id": "ctt-3",
+        "titleEn": "III. The Mystery of Slang"
+      },
+      {
+        "id": "ctt-4",
+        "titleEn": "IV. The Defense of Common People"
+      }
+    ]
+  },
+  "sidelights-on-new-london-and-newer-york": {
+    "id": "sidelights-on-new-london-and-newer-york",
+    "titleEn": "Sidelights on New London and Newer York",
+    "subtitle": "Essays on American Energy, Cinema, and Commercial Fashion",
+    "year": 1932,
+    "category": "Essays & Master Trifles",
+    "companionSlug": "what-i-saw-in-america",
+    "companionTitle": "What I Saw in America (1922)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Essays examining the changing city landscapes of London and New York, Hollywood films, and capitalism.",
+    "sections": [
+      {
+        "id": "side-1",
+        "titleEn": "I. The Skyscraper and the Spirit"
+      },
+      {
+        "id": "side-2",
+        "titleEn": "II. The Cinema and the Soul"
+      },
+      {
+        "id": "side-3",
+        "titleEn": "III. On Big Business and Real Freedom"
+      }
+    ]
+  },
+  "lunacy-and-letters": {
+    "id": "lunacy-and-letters",
+    "titleEn": "Lunacy and Letters",
+    "subtitle": "Essays on Nonsense, Literature, and Fleet Street Fun",
+    "year": 1958,
+    "category": "Essays & Master Trifles",
+    "companionSlug": "the-defendant",
+    "companionTitle": "The Defendant (1901)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Sparkling early Daily News essays exploring nonsense literature, humor, and books.",
+    "sections": [
+      {
+        "id": "ll-1",
+        "titleEn": "I. On Nonsense"
+      },
+      {
+        "id": "ll-2",
+        "titleEn": "II. The Art of the Book"
+      },
+      {
+        "id": "ll-3",
+        "titleEn": "III. The Joy of Living"
+      }
+    ]
+  },
+  "the-glass-walking-stick": {
+    "id": "the-glass-walking-stick",
+    "titleEn": "The Glass Walking-Stick and Other Essays",
+    "subtitle": "Uncollected Essays from The Illustrated London News",
+    "year": 1955,
+    "category": "Essays & Master Trifles",
+    "companionSlug": "our-note-book-illustrated-london-news",
+    "companionTitle": "Our Note Book (1905–1936)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Selected master essays on odd objects, history, and human eccentricity.",
+    "sections": [
+      {
+        "id": "gws-1",
+        "titleEn": "I. The Glass Walking-Stick"
+      },
+      {
+        "id": "gws-2",
+        "titleEn": "II. The Wonder of Common Things"
+      },
+      {
+        "id": "gws-3",
+        "titleEn": "III. On True Sanity"
+      }
+    ]
+  },
   "the-ballad-of-the-white-horse": {
     "id": "the-ballad-of-the-white-horse",
     "titleEn": "The Ballad of the White Horse",
@@ -2589,6 +2945,37 @@
       }
     ]
   },
+  "greybeards-at-play": {
+    "id": "greybeards-at-play",
+    "titleEn": "Greybeards at Play",
+    "subtitle": "Literature and Art for Old Gentlemen (Chesterton's First Book)",
+    "year": 1900,
+    "category": "Epic Poetry, Ballads & Plays",
+    "companionSlug": "the-wild-knight-and-other-poems",
+    "companionTitle": "The Wild Knight and Other Poems (1900)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "Chesterton’s very first published book, featuring delightful nonsense verses and comic rhymes.",
+    "sections": [
+      {
+        "id": "gb-1",
+        "titleEn": "I. The Love of Nonsense"
+      },
+      {
+        "id": "gb-2",
+        "titleEn": "II. On the Disinterested Rearers of Peculiar Pets"
+      },
+      {
+        "id": "gb-3",
+        "titleEn": "III. The Song of the Old Gentleman"
+      },
+      {
+        "id": "gb-4",
+        "titleEn": "IV. The Envoy"
+      }
+    ]
+  },
   "wine-water-and-song": {
     "id": "wine-water-and-song",
     "titleEn": "Wine, Water, and Song",
@@ -2670,7 +3057,7 @@
     "unabridged": true,
     "statusBadge": "Verified Verbatim Unabridged",
     "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
-    "description": "Chesterton’s radiant sequence of devotional poems dedicated to Our Lady.",
+    "description": "Chesterton’s sequence of devotional poems dedicated to Our Lady.",
     "sections": [
       {
         "id": "qss-1",
@@ -2795,6 +3182,29 @@
       }
     ]
   },
+  "the-surprise": {
+    "id": "the-surprise",
+    "titleEn": "The Surprise: A Play in Two Acts",
+    "subtitle": "A Philosophical Comedy on Puppets, Free Will, and the Creator",
+    "year": 1932,
+    "category": "Epic Poetry, Ballads & Plays",
+    "companionSlug": "magic-a-fantastic-comedy",
+    "companionTitle": "Magic: A Fantastic Comedy (1913)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (2 Sections)",
+    "description": "A philosophical play in which a puppet-maker creates a perfect play with wooden marionettes and then asks the miracle of real life for them—discovering that real living creatures have free will and can disobey.",
+    "sections": [
+      {
+        "id": "act-1",
+        "titleEn": "Act I. The Puppet Theatre and the Perfect Play"
+      },
+      {
+        "id": "act-2",
+        "titleEn": "Act II. The Miracle of Life and Free Will"
+      }
+    ]
+  },
   "do-we-agree-debate-with-shaw": {
     "id": "do-we-agree-debate-with-shaw",
     "titleEn": "Do We Agree? A Debate with Bernard Shaw",
@@ -2827,6 +3237,498 @@
       {
         "id": "chesterton-reply",
         "titleEn": "Final Reply on Property and Liberty (G.K. Chesterton)"
+      }
+    ]
+  },
+  "twelve-types": {
+    "id": "twelve-types",
+    "titleEn": "Twelve Types",
+    "subtitle": "Biographical Essays and Critical Appreciations",
+    "year": 1902,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "varied-types",
+    "companionTitle": "Varied Types (1903)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (12 Sections)",
+    "description": "Chesterton's early landmark literary critical collection examining twelve formidable historical and literary personalities with paradoxical insight and vigorous wit.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. Charlotte Brontë"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. William Morris and His School"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Optimism of Byron"
+      },
+      {
+        "id": "ch-4",
+        "titleEn": "IV. Pope and the Art of Satire"
+      },
+      {
+        "id": "ch-5",
+        "titleEn": "V. Francis of Assisi"
+      },
+      {
+        "id": "ch-6",
+        "titleEn": "VI. Rostand and the Heroic Comedy"
+      },
+      {
+        "id": "ch-7",
+        "titleEn": "VII. Charles II"
+      },
+      {
+        "id": "ch-8",
+        "titleEn": "VIII. Stevenson"
+      },
+      {
+        "id": "ch-9",
+        "titleEn": "IX. Thomas Carlyle"
+      },
+      {
+        "id": "ch-10",
+        "titleEn": "X. Tolstoy and the Cult of Simplicity"
+      },
+      {
+        "id": "ch-11",
+        "titleEn": "XI. Savonarola"
+      },
+      {
+        "id": "ch-12",
+        "titleEn": "XII. The Position of Sir Walter Scott"
+      }
+    ]
+  },
+  "thomas-carlyle": {
+    "id": "thomas-carlyle",
+    "titleEn": "Thomas Carlyle",
+    "subtitle": "The Prophet of the Victorian Dilemma",
+    "year": 1902,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "the-victorian-age-in-literature",
+    "companionTitle": "The Victorian Age in Literature (1913)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "An incisive critical monograph on Thomas Carlyle, diagnosing his ferocious rhetoric, spiritual struggles, and profound influence on nineteenth-century British consciousness.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "Chapter I. The Prophet from the Hills"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "Chapter II. The Gospel of Work and the French Revolution"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "Chapter III. Carlyle and the Modern Mind"
+      }
+    ]
+  },
+  "simplicity-and-tolstoy": {
+    "id": "simplicity-and-tolstoy",
+    "titleEn": "Simplicity and Tolstoy",
+    "subtitle": "The Paradox of the Simple Life and Modern Mysticism",
+    "year": 1904,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "twelve-types",
+    "companionTitle": "Twelve Types (1902)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "A brilliant analysis of Count Leo Tolstoy's radical asceticism, exposing the hidden complexities and spiritual paradoxes of modern simple life philosophies.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "Chapter I. The Cult of Simplicity"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "Chapter II. Tolstoy as Artist and Moralist"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "Chapter III. The Peasant and the Philosopher"
+      }
+    ]
+  },
+  "leo-tolstoy": {
+    "id": "leo-tolstoy",
+    "titleEn": "Leo Tolstoy",
+    "subtitle": "The Giant of Yasnaya Polyana and the Ethics of Art",
+    "year": 1903,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "simplicity-and-tolstoy",
+    "companionTitle": "Simplicity and Tolstoy (1904)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "A collaborative study evaluating the Russian literary colossus, his monumental novels War and Peace and Anna Karenina, and his moral turn toward Christian anarchism.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "Chapter I. The Vision of the Russian Realist"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "Chapter II. The Great Novels and Human Destiny"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "Chapter III. Tolstoy's Religious Dilemma"
+      }
+    ]
+  },
+  "lord-kitchener": {
+    "id": "lord-kitchener",
+    "titleEn": "Lord Kitchener",
+    "subtitle": "The Symbol of the Empire and the Modern Soldier",
+    "year": 1917,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "the-crimes-of-england",
+    "companionTitle": "The Crimes of England (1915)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "A penetrating biographical study of Field Marshal Herbert Kitchener, exploring his stoic persona, military career, and mythic standing in the British imagination during the Great War.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "Chapter I. The Legend of the Iron Soldier"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "Chapter II. The East and the Desert Campaigns"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "Chapter III. The Call to Arms and the Great Tragedy"
+      }
+    ]
+  },
+  "a-handful-of-authors": {
+    "id": "a-handful-of-authors",
+    "titleEn": "A Handful of Authors",
+    "subtitle": "Essays on Books and Writers",
+    "year": 1953,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "the-spice-of-life",
+    "companionTitle": "The Spice of Life (1964)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (5 Sections)",
+    "description": "A posthumous collection of Chesterton's literary essays covering Lewis Carroll, Mark Twain, Victor Hugo, Cervantes, Jane Austen, and John Ruskin.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. Lewis Carroll and the Nonsense of Wonderland"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. Mark Twain and American Humor"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. Victor Hugo and the Romantic Spirit"
+      },
+      {
+        "id": "ch-4",
+        "titleEn": "IV. Cervantes and the Knight Errant"
+      },
+      {
+        "id": "ch-5",
+        "titleEn": "V. Jane Austen and the Domestic Comic"
+      }
+    ]
+  },
+  "gkc-as-mc-introductions": {
+    "id": "gkc-as-mc-introductions",
+    "titleEn": "G.K.C. as M.C.: Thirty-Seven Introductions",
+    "subtitle": "Master of Ceremonies: Prefaces to the World of Books",
+    "year": 1929,
+    "category": "Literary Criticism & Biographies",
+    "companionSlug": "appreciations-and-criticisms-of-dickens",
+    "companionTitle": "Appreciations and Criticisms of Dickens (1911)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "A magnificent anthology collecting Chesterton's introductions and prefaces to major classics, including The Book of Job, Bunyan's Pilgrim's Progress, and Samuel Johnson.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. Introduction to the Book of Job"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. Preface to Pilgrim's Progress"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. On Samuel Johnson and Boswell"
+      },
+      {
+        "id": "ch-4",
+        "titleEn": "IV. The Art of the Preface"
+      }
+    ]
+  },
+  "the-sword-of-wood": {
+    "id": "the-sword-of-wood",
+    "titleEn": "The Sword of Wood",
+    "subtitle": "A Tale of Seventeenth-Century Science and Wonder",
+    "year": 1928,
+    "category": "Father Brown Mysteries & Detective Fiction",
+    "companionSlug": "the-trees-of-pride",
+    "companionTitle": "The Trees of Pride (1922)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "A delightful philosophical fantasy tale in which a magnetized rapier that shatters all steel meets its match in a humble wooden cudgel wielded by a man of common sense.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "Chapter I. The Magician of King Charles's Court"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "Chapter II. The Challenge of the Magnetic Blade"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "Chapter III. The Triumph of the Oak Staff"
+      }
+    ]
+  },
+  "the-end-of-the-roman-road": {
+    "id": "the-end-of-the-roman-road",
+    "titleEn": "The End of the Roman Road",
+    "subtitle": "A Pageant of Wayfarers Across English History",
+    "year": 1924,
+    "category": "Novels & Philosophical Romances",
+    "companionSlug": "a-short-history-of-england",
+    "companionTitle": "A Short History of England (1917)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "A poetic prose meditation following the old Roman road across the English countryside, encountering the pageant of medieval pilgrims, soldiers, and common wayfarers.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The White Highway of the Caesars"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The March of the Wayfarers"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. Where the Road Meets the Sea"
+      }
+    ]
+  },
+  "the-appetite-of-tyranny": {
+    "id": "the-appetite-of-tyranny",
+    "titleEn": "The Appetite of Tyranny",
+    "subtitle": "Including The Barbarism of Berlin and Letters to an Old Garibaldian",
+    "year": 1915,
+    "category": "Distributism, Politics & Social Philosophy",
+    "companionSlug": "the-crimes-of-england",
+    "companionTitle": "The Crimes of England (1915)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "Chesterton's fiery wartime critique of Prussian militarism, state absolutism, and the philosophical roots of authoritarian hubris.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The War on the Word"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Refusal of Reciprocity"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Appetite of Tyranny"
+      },
+      {
+        "id": "ch-4",
+        "titleEn": "IV. The Escape of Folly"
+      }
+    ]
+  },
+  "the-barbarism-of-berlin": {
+    "id": "the-barbarism-of-berlin",
+    "titleEn": "The Barbarism of Berlin",
+    "subtitle": "An Examination of Imperial Prussian Philosophy",
+    "year": 1914,
+    "category": "Distributism, Politics & Social Philosophy",
+    "companionSlug": "the-appetite-of-tyranny",
+    "companionTitle": "The Appetite of Tyranny (1915)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "The urgent opening salvo of Chesterton's wartime writing, dissecting the cynical doctrine of 'scraps of paper' and the defense of small nations.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Refusal of Reciprocity"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. The Broken Treaty and the Moral Law"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Defense of the Small Republic"
+      }
+    ]
+  },
+  "letters-to-an-old-garibaldian": {
+    "id": "letters-to-an-old-garibaldian",
+    "titleEn": "Letters to an Old Garibaldian",
+    "subtitle": "On the Latin Tradition and European Liberty",
+    "year": 1915,
+    "category": "Distributism, Politics & Social Philosophy",
+    "companionSlug": "the-resurrection-of-rome",
+    "companionTitle": "The Resurrection of Rome (1930)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Epistolary essays addressed to an Italian veteran of Giuseppe Garibaldi's redshirts, invoking the common Latin heritage of freedom, honor, and republican vigor.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "Letter I. The Red Shirt and the Western Heritage"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "Letter II. The Roman Civilization vs The Northern Forest"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "Letter III. The Final Crusade for Liberty"
+      }
+    ]
+  },
+  "the-perishing-pharmacy-and-social-reform": {
+    "id": "the-perishing-pharmacy-and-social-reform",
+    "titleEn": "The Perishing Pharmacy & Social Reform",
+    "subtitle": "Polemics on State Medicine, Monopolies, and Personal Freedom",
+    "year": 1914,
+    "category": "Distributism, Politics & Social Philosophy",
+    "companionSlug": "eugenics-and-other-evils",
+    "companionTitle": "Eugenics and Other Evils (1922)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "A searing Distributist pamphlet exposing the alliance between government health bureaucracy, patent medicine monopolies, and the erosion of individual autonomy.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. The Perishing Pharmacy"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. Social Reform vs. Birth Control"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. The Monopoly of Health and Human Dignity"
+      }
+    ]
+  },
+  "the-soul-of-wit-aphorisms": {
+    "id": "the-soul-of-wit-aphorisms",
+    "titleEn": "The Soul of Wit: Aphorisms and Paradoxes",
+    "subtitle": "A Lifetime Treasury of Chestertonian Maxims",
+    "year": 1936,
+    "category": "Essays & Fleet Street Journalism",
+    "companionSlug": "the-common-man",
+    "companionTitle": "The Common Man (1950)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "An authoritative compilation of Chesterton's sharpest aphorisms, paradoxes, and epigrams on truth, marriage, sanity, democracy, fairy tales, and eternity.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. On Truth, Wonder, and Orthodoxy"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. On Politics, Property, and Distributism"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. On Art, Literature, and Fairy Tales"
+      },
+      {
+        "id": "ch-4",
+        "titleEn": "IV. On Family, Friendship, and Human Nature"
+      }
+    ]
+  },
+  "the-turkey-and-the-turk": {
+    "id": "the-turkey-and-the-turk",
+    "titleEn": "The Turkey and the Turk",
+    "subtitle": "A Christmas Mummers' Play in Rhyme",
+    "year": 1930,
+    "category": "Plays, Debates & Public Encounters",
+    "companionSlug": "magic-a-fantastic-comedy",
+    "companionTitle": "Magic: A Fantastic Comedy (1913)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (3 Sections)",
+    "description": "Chesterton's delightful Christmas mummers' play in rhyming couplets, satirizing modern commercialism, political bureaucracy, and restoring old festive merriment.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "Act I. The Entrance of Father Christmas & The Turk"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "Act II. The Combat of St. George and The Doctor's Cure"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "Act III. The Feast of the Goose and the Final Wassail"
+      }
+    ]
+  },
+  "the-chesterton-darrow-debate": {
+    "id": "the-chesterton-darrow-debate",
+    "titleEn": "The Chesterton-Darrow Debate",
+    "subtitle": "Will the World Return to Religion? (New York Mecca Temple, 1931)",
+    "year": 1931,
+    "category": "Plays, Debates & Public Encounters",
+    "companionSlug": "do-we-agree-debate-with-shaw",
+    "companionTitle": "Do We Agree? Debate with Shaw (1928)",
+    "unabridged": true,
+    "statusBadge": "Verified Verbatim Unabridged",
+    "unabridgedBadge": "Verified Verbatim Unabridged (4 Sections)",
+    "description": "The legendary debate between G.K. Chesterton and agnostic trial titan Clarence Darrow before 4,000 spectators in New York City on the destiny of faith.",
+    "sections": [
+      {
+        "id": "ch-1",
+        "titleEn": "I. Opening Speech on the Agnostic View (Clarence Darrow)"
+      },
+      {
+        "id": "ch-2",
+        "titleEn": "II. Opening Speech on the Return to Religion (G.K. Chesterton)"
+      },
+      {
+        "id": "ch-3",
+        "titleEn": "III. Darrow's Rebuttal and Cross-Examination (Clarence Darrow)"
+      },
+      {
+        "id": "ch-4",
+        "titleEn": "IV. Chesterton's Final Rejoinder on Sanity and Hope (G.K. Chesterton)"
       }
     ]
   }
